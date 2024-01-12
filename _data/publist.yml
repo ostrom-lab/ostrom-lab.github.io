@@ -1,374 +1,466 @@
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+- title: "The Impact of COVID19 on Monthly Incidence Trends of Primary Brain and Other CNS Tumors"
+  description:NA
+  authors: NA
   link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
-  highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
+    url: http://doi.org/10.1093/neuonc/noad235
+    display: Neuro Oncol. 2024 Jan 3:noad235.
+  highlight:0
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "The impact of the COVID-19 pandemic on treatment patterns in glioblastoma"
+  description:NA
+  authors: _ Neff C_, _Price M_, Cioffi G, Waite KA, Kruchko C, Iorgulescu JB, Barnholtz-Sloan JS,  __Ostrom QT__
   link:
-    url: https://arxiv.org/abs/2306.02397
-    display: arXiv
-  highlight: 0
+    url: http://doi.org/10.1093/neuonc/noad234
+    display: Neuro Oncol. 2023 Dec 30:noad234.
+  highlight:0
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+- title: "Association of County-Level Socioeconomic Status with Meningioma Incidence and Outcomes"
+  description:NA
+  authors: Pugazenthi S,  _Price M_,  _De La Vega Gomar R_, Kruchko C, Waite KA, Barnholtz-Sloan JS, Walsh KM, Kim AH, __Ostrom QT__
   link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
-  highlight: 1
-  news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
+    url: http://doi.org/10.1093/neuonc/noad223
+    display: Neuro Oncol. 2023 Dec 13:noad223.
+  highlight:0
 
-
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Association between county-level socioeconomic status and incidence and surgical treatment of pituitary adenoma"
+  description:NA
+  authors: Cote DJ, Kruchko C, Barnholtz-Sloan JS, Zada G, Wiemels JL, __Ostrom QT__
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+    url: http://doi.org/10.3171/2023.6.JNS23342
+    display: J Neurosurg. 2023 Aug 18:1-11.
+  highlight:0
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Capturing evolving definitions of 12 select rare CNS tumors: a timely report from CBTRUS and NCI-CONNECT"
+  description:This analysis, completed in collaboration with the National Cancer Institute’s NCI-CONNECT program, presents incidence, survival, and prevalence estimates for a selection of rare tumor histopathologies that are the focus of the NCI-CONNECT program.
+  authors: _Price M_, _Neff C_,  Kruchko C, Barnholtz-Sloan JS, Cordeiro BB, Penas-Prado M, Ozer BH, Cimino PJ, Gilbert MR, Armstrong TS+, __Ostrom QT+__
   link:
-    url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
-  highlight: 0
-  news2:
+    url: http://doi.org/10.1007/s11060-023-04480-7
+    display: J Neurooncol. 2023 Nov;165(2):279-290.
+  highlight:0
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "Causal association of genetically determined asthma and allergic rhinitis with osteoarthritis: a Mendelian randomization study"
+  description:NA
+  authors: Baker MC, Robinson WH, __Ostrom Q__
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
-  news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
+    url: http://doi.org/10.1016/j.joca.2023.11.003
+    display: Osteoarthritis Cartilage. 2023 Nov 9:S1063-4584(23)00977-9.
+  highlight:0
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "Associations between urbanicity and spinal cord astrocytoma management and outcomes"
+  description:NA
+  authors: Sykes DAW, Waguia R, Abu-Bonsrah N, _Price M_, Dalton T, Sperber J, Owolo E, Hockenberry H, Bishop B, Kruchko C, Barnholtz-Sloan JS, Erickson M, __Ostrom QT__, Goodwin CR.
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
-  highlight: 1
+    url: http://doi.org/10.1016/j.canep.2023.102431
+    display: Cancer Epidemiol. 2023 Oct;86:102431.
+  highlight:0
 
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+- title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2016-2020"
+  image: "CBTRUS-NEUROONC-2023.jpeg"
+  description:NA
+  authors: __Ostrom QT+__, _Price M+_, _Neff C_, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS.
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
-  highlight: 0
-  news2:
+    url: http://doi.org/10.1093/neuonc/noad149
+    display: Neuro Oncol. 2023 Oct 4;25(Supplement_4):iv1-iv99.
+  highlight:0
 
-
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
+- title: "Heritable Traits and Lung Cancer Risk: A Two-Sample Mendelian Randomization Study"
+  description:NA
+  authors: Pettit RW, Byun J, Han Y, __Ostrom QT__, Coarfa C, Bondy ML, Amos CI
   link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
-  highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
+    url: http://doi.org/10.1158/1055-9965.EPI-22-0698
+    display: Cancer Epidemiol Biomarkers Prev. 2023 Oct 2;32(10):1421-1435.
+  highlight:0
 
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
-  image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+- title: "Childhood, adolescent, and adult primary brain and central nervous system tumor statistics for practicing healthcare providers in neuro-oncology, CBTRUS 2015-2019"
+  description:A special, condensed CBTRUS Statistical Report designed to be a streamlined and useful resource for practicing clinicians.
+  authors: _Price M+_, Ryan K+, Shoaf ML+, _Neff C_, Iorgulescu JB, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS#, __Ostrom QT__#
   link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
-  highlight: 1
-  news2:
+    url: http://doi.org/10.1093/nop/npad061
+    display: Neuro-Oncology Practice. 2023. 
+  highlight:1
 
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
-  description:
+- title: "Primary Malignant and Non-Malignant Brain Tumors in US Veterans"
+  description:NA
+  authors: Bihn JR, Cioffi G, Waite KA, Kruchko C, _Neff C_, _Price M_, __Ostrom QT__, Swinnerton KN, Elbers DC, Mooney M, Rachlin J, Stein T, Brophy MT, Do NV, Priemer D, Perl D, Hickman R, Nabors B, Rusiecki J, Barnholtz-Sloan J, Fillmore NR
   link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
-  highlight: 0
-  news2:
+    url: http://doi.org/10.1093/neuonc/noad182
+    display: Neuro Oncol. 2023 Sep 22;noad182.
+  highlight:0
 
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: M Leeuwenhoek, S Gröblacher, MP Allan, YaM Blanter
+- title: "Association Between Urbanicity and Outcomes Among Patients with Spinal Cord Ependymomas in the United States"
+  description:NA
+  authors: Sperber J, Owolo E, Abu-Bonsrah N, _Sun C_, Baeta C, Dalton T, Sykes D, Kruchko C, Barnholtz-Sloan JS, Walsh KM, Lo SL, Sciubba D, __Ostrom QT__, Neff C, Goodwin CR
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115416
-    display:  PRB 102, 115416 (2020)
-  highlight: 0
-  news2:
+    url: http://doi.org/10.1016/j.wneu.2023.08.062
+    display: World Neurosurg. 2023 Aug 22;S1878-8750(23)01174-9.
+  highlight:0
 
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+- title: "Complete Prevalence of Primary Malignant and Non-Malignant Brain Tumors in Comparison to Other Cancers in the United States"
+  description:This analysis included the first complete estimates for the prevalence of both primary malignant and non-malignant brain and other central nervous system tumors in the United States as of 2019, an update to previous results.
+  authors: _Neff C+_, _Price M+_,  Cioffi G, Kruchko C, Waite KA, Barnholtz-Sloan JS, __Ostrom QT__
   link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
-  highlight: 1
-  news2:
+    url: http://doi.org/10.1002/cncr.34837
+    display: Cancer. 2023 Aug 15;129(16):2514-2521.
+  highlight:1
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+- title: "The association of Medicaid expansion and pediatric cancer overall survival"
+  description:NA
+  authors: Barnes JM#,  _Neff C#_,  Han X,  Kruchko C, Barnholtz-Sloan JS, __Ostrom QT+__, Johnson KJ+
   link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
+    url: http://doi.org/10.1093/jnci/djad024
+    display: J Natl Cancer Inst. 2023 Jun 8;115(6):749-752.
+  highlight:0
 
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
+- title: "The joint impacts of sex and race/ethnicity on incidence of grade 1 versus grades 2-3 meningioma across the lifespan"
+  description:This manuscript assesses the relationship between sex, age, and race/ethnicity on the incidence of grade 1 and grades 2-3 meningioma in the United State
+  authors: Walsh KM+, _Price M+_, _Neff C_, Komisarow KM, Wimberly CE, Kruchko C, Barnholtz-Sloan JS, __Ostrom QT__
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 1
-  news2:
+    url: http://doi.org/10.1093/noajnl/vdad020
+    display: Neurooncol Adv. 2023 Jun 3;5(Suppl 1):i5-i12.
+  highlight:0
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+- title: "The association between genetically elevated polyunsaturated fatty acids and risk of cancer"
+  description:NA
+  authors: __Fatty Acids in Cancer Mendelian Randomization Collaboration__; Haycock PC, Borges MC, Burrows K, Lemaitre RN, Burgess S, Khankari NK, Tsilidis KK, Gaunt TR, Hemani G, Zheng J, Truong T, Birmann BM, OMara T, Spurdle AB, Iles MM, Law MH, Slager SL, Saberi Hosnijeh F, Mariosa D, Cotterchio M, Cerhan JR, Peters U, Enroth S, Gharahkhani P, Le Marchand L, Williams AC, Block RC; ACCC; CCFR-CORECT-GECCO; EPITHYR; InterLymph; MMAC; ECAC; ILCCO; PRACTICAL Consortium; PanScan; PanC4; Amos CI, Hung RJ, Zheng W, Gunter MJ, Smith GD, Relton C, Martin RM
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
-  news2:
+    url: http://doi.org/10.1016/j.ebiom.2023.104510
+    display: EBioMedicine. 2023 May;91:104510.
+  highlight:0
 
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+- title: "The genomic landscape of familial glioma"
+  description:NA
+  authors: Choi DJ, Armstrong G, Lozzi B, Vijayaraghavan P, Plon SE, Wong TC, Boerwinkle E, Muzny DM, Chen HC, Gibbs RA, __Ostrom QT__, Melin B, Deneen B, Bondy ML; Gliogene Consortium; Genomics England Research Consortium; Bainbridge MN, Amos CI, Barnholtz-Sloan JS, Bernstein JL, Claus EB, Houlston RS, Il'yasova D, Jenkins RB, Johansen C, Lachance D, Lai R, Melin BS, Merrell RT, Olson SH, Sadetzki S, Schildkraut J, Shete S, Ambrose JC, Arumugam P, Bevers R, Bleda M, Boardman-Pretty F, Boustred CR, Brittain H, Brown MA, Caulfield MJ, Chan GC, Giess A, Griffin JN, Hamblin A, Henderson S, Hubbard TJP, Jackson R, Jones LJ, Kasperaviciute D, Kayikci M, Kousathanas A, Lahnstein L, Lakey A, Leigh SEA, Leong IUS, Lopez FJ, Maleady-Crowe F, McEntagart M, Minneci F, Mitchell J, Moutsianas L, Mueller M, Murugaesu N, Need AC, O'Donovan P, Odhams CA, Patch C, Perez-Gil D, Pereira MB, Pullinger J, Rahim T, Rendon A, Rogers T, Savage K, Sawant K, Scott RH, Siddiq A, Sieghart A, Smith SC, Sosinsky A, Stuckey A, Tanguy M, Taylor Tavares AL, Thomas ERA, Thompson SR, Tucci A, Welland MJ, Williams E, Witkowska K, Wood SM, Zarowiecki M
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
+    url: http://doi.org/10.1126/sciadv.ade2675
+    display: Sci Adv. 2023 Apr 28;9(17):eade2675.
+  highlight:0
 
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
+- title: "Mortality trends in primary malignant brain and central nervous system tumors vary by histopathology, age, race and sex."
+  description:NA
+  authors: Thierheimer M, Cioffi G, Waite KA, Kruchko C, __Ostrom QT__, Barnholtz-Sloan JS
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 0
-  news2:
+    url: http://doi.org/10.1007/s11060-023-04279-6
+    display: J Neurooncol. 2023 Mar;162(1):167-177.
+  highlight:0
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+- title: "Medicaid Expansion Is Associated with Increased 1-year Overall Survival for Primary Malignant Brain Tumors"
+  description:NA
+  authors: Dmukauskas M, Cioffi G, _Neff C_, _Price M_, Waite KA, Kruchko C, __Ostrom QT__, Barnholtz-Sloan JS
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
+    url: http://doi.org/10.1093/noajnl/vdad022
+    display: Neurooncol Adv. 2023 Mar 4;5(1):vdad022.
+  highlight:0
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
+- title: "Molecular Biomarker-Defined Brain Tumors: Epidemiology, Accuracy, and Completeness in the United States"
+  description:NA
+  authors: Iorgulescu JB#, _Sun C#_, _Neff C_, Cioffi G, Gutierrez C, Kruchko C, Ruhl J, Waite K, Negoita S, Hoffercamp J, Tihan T, McLendon R, Brat DJ, __Ostrom QT+__, Barnholtz-Sloan JS+
   link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2:
+    url: http://doi.org/10.1093/neuonc/noac113
+    display: Neuro Oncol. 2022 Nov 2;24(11):1989-2000.
+  highlight:0
 
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+- title: "Molecular marker testing and reporting patterns in the United States for patients with adult-type diffuse gliomas "
+  description:NA
+  authors: _Neff C_, Cioffi G, Waite K, Kruchko C, Barnholtz-Sloan JS,  __Ostrom QT+__, Iorgulescu JB+
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 1
+    url: http://doi.org/10.1093/nop/npac079
+    display: Neurooncol Pract. 2022 Oct 7;10(1):24-33.
+  highlight:0
 
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
+- title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2015-2019"
+  description:NA
+  authors: __Ostrom QT+__, _Price M+_, _Neff C_, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 0
+    url: http://doi.org/10.1093/neuonc/noac202
+    display: Neuro Oncol. 2022 Oct 5;24(Supplement_5):v1-v95.
+  highlight:0
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Mott_phase_sep.jpg
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
+- title: "Changes in Survival Over Time for Primary Brain and Other CNS Tumors in the United States"
+  description:NA
+  authors: Cioffi G, Waite KA, Edelson, JL,  Kruchko C, __Ostrom QT__, Barnholtz-Sloan JS
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a>
+    url: http://doi.org/10.1007/s11060-022-04138-w
+    display: J Neurooncol. 2022 Oct;160(1):209-219.
+  highlight:0
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
-  image: Pub_FP.png
-  description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
-  authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+- title: "Prevalence of autoimmunity and atopy in US adults with glioblastoma and meningioma"
+  description:NA
+  authors: __Ostrom QT__, Lu D, Lu R, Baker M
   link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
-  highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a>
+    url: http://doi.org/10.1093/neuonc/noac145
+    display: Neuro Oncol. 2022 Oct 3;24(10):1807-1809.
+  highlight:0
 
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
-  image: dummy.png
-  description: ""
-  authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+- title: "CBTRUS Statistical Report: Pediatric Brain Tumor Foundation Childhood and Adolescent Primary Brain and Central Nervous System Tumors Diagnosed in the United States in 2014-2018"
+  image: "cbtrus_pediatric_report_cover_350px.jpg"
+  description:This special report, funded by the Pediatric Brain Tumor Foundation, presents incidence and survival statistics for children 0-14 using histopathology groupings that were re-organized to be a more accurate representation of clinical behavior in pediatric brain tumors.
+  authors: __Ostrom QT__, _Price M_, Ryan K, Edelson J,  _Neff C_, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
-  highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
-  news2:
+    url: http://doi.org/10.1093/neuonc/noac161
+    display: Neuro Oncol. 2022 Sep 6;24(Supplement_3):iii1-iii38.
+  highlight:1
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+- title: "Epidemiology of Primary Malignant Non-Osseous Spinal Tumors in the United States"
+  description:NA
+  authors: Momin AA, Oyem P, Patil N, Soni P, Potter TO, Cioffi G, Waite K, __Ostrom Q__, Kruchko C, Barnholtz-Sloan JS, Recinos PF, Kshettry VR, Steinmetz MP.
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+    url: http://doi.org/10.1016/j.spinee.2022.02.015
+    display: Spine J. 2022 Aug;22(8):1325-1333.
+  highlight:0
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
-  image: Pub_327.png
-  description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
-  authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+- title: "Incidence and Survival of Choroid Plexus Tumors in the United States"
+  description:NA
+  authors: Takaoka K,  Cioffi G, Waite KA,  Finlay J,  Landi D,  Greppin K,  Kruchko C,  __Ostrom Q__, Barnholtz-Sloan J
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
-  highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+    url: http://doi.org/10.1093/nop/npac062
+    display: Neurooncol Pract. 2022 Aug 3;10(1):41-49.
+  highlight:0
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
+- title: "A Population Study of Clinical Trial Accrual for Women and Minorities in Neuro-Oncology Following the NIH Revitalization Act"
+  description:NA
+  authors: Reihl SJ, Patil N, Morshed RA, Mehari M, Aabedi A, Chukwueke UN, Porter AB, Fontil V, Cioffi G, Waite K, Kruchko C, __Ostrom Q__, Barnholtz-Sloan J, Hervey-Jumper SL.
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+    url: http://doi.org/10.1093/neuonc/noac011
+    display: Neuro Oncol. 2022 Aug 1;24(8):1341-1349.
+  highlight:0
 
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
-  image: Pub_LiFeAs.png
-  description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
-  authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
+- title: "Exposure to Radon and Heavy Particulate Pollution and Incidence of Brain Tumors"
+  description:NA
+  authors: Palmer JD, Prasad RN, Cioffi G, Kruchtko C, Zaorsky N, Trifiletti D, Gondi V, Brown P, Chakravarti A, Barnholtz -Sloan JS, __Ostrom QT__
   link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
-  highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
+    url: http://doi.org/10.1093/neuonc/noac163
+    display: Neuro Oncol. 2022 Jun 28;noac163.
+  highlight:0
 
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+- title: "Epidemiologic Evaluation of Clinical Outcomes in Ethnic Minorities with Myelodysplastic Syndromes"
+  description:NA
+  authors: Molina A, Xiao L, __Ostrom QT__, Rosas LG, Greenberg PL
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2:
+    url: http://doi.org/10.1016/j.leukres.2022.106907
+    display: Leuk Res. 2022 Jun 23;119:106907.
+  highlight:0
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+- title: "National-level overall survival patterns for molecularly-defined diffuse glioma types in the United States"
+  description:This manuscript describes the initial patterns of survival observed in common molecularly defined brain and other CNS histopathologies using newly defined ICD-O-3 histology codes and brain molecular marker (BMM) data, and it emphasizes the importance of collecting these data for cancer surveillance.
+  authors: __Ostrom QT__, Shoaf ML, Cioffi G, Waite KA,  Kruchko C, Wen PY, Brat D, Barnholtz-Sloan JS,  Iorgulescu JB
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
-  highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+    url: http://doi.org/10.1093/neuonc/noac198
+    display: Neuro Oncol. 2023 Apr 6;25(4):799-807.
+  highlight:0
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
+- title: "Aligning the Central Brain Tumor Registry of the United States (CBTRUS) Histology Groupings with Current Definitions"
+  description:This manuscript traces the rationale for changes made to the CBTRUS histopathology grouping scheme in order to better align it with modern diagnostic criteria.
+  authors: Waite KA, Cioffi G, Kruchko C, Brat DJ, Bruner JM, McLendon RE, Tihan T, __Ostrom QT+__, Barnholtz-Sloan JS+
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
+    url: http://doi.org/10.1093/nop/npac025
+    display: Neurooncol Pract. 2022 Mar 24;9(4):317-327.
+  highlight:0
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+- title: "Primary brain and other central nervous system tumors in the United States (2014-2018): A summary of the CBTRUS statistical report for clinicians"
+  description:NA
+  authors: Low J+, __Ostrom QT+__, Cioffi G, _Neff C_, Waite KA, Kruchko C, Barnholtz-Sloan JS
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
+    url: http://doi.org/10.1093/nop/npac015
+    display: Neurooncol Pract. 2022 Feb 22;9(3):165-182.
+  highlight:0
 
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+- title: "Influence of geographic/ancestral origin on glioma incidence and outcomes in US Hispanics"
+  description:NA
+  authors: Walsh KM, _Neff C_, Bondy ML, Kruchko C, Huse JT, Amos CI, Barnholtz-Sloan JS, __Ostrom QT__
   link:
-    url: https://link.springer.com/article/10.1007/s11671-006-9036-2
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
+    url: http://doi.org/10.1093/neuonc/noac175
+    display: Neuro Oncol. 2023 Feb 14;25(2):398-406.
+  highlight:1
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
-  description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+- title: "Genetic factors associated with absolute and relative plasma concentrations of calcitriol"
+  description:NA
+  authors: Wilson RT, Safford SS, __Ostrom QT__, Wang M, McDonald AC, Salzberg AC, Barnholtz-Sloan JS, Richie JP, Wallace RB
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
-  highlight: 0
+    url: http://doi.org/10.1158/1055-9965.EPI-22-0797
+    display: Cancer Epidemiol Biomarkers Prev. 2023 Feb 14;EPI-22-0797.
+  highlight:0
+
+- title: "Epidemiology of Pineoblastoma in the United States"
+  description:NA
+  authors: Greppin K,  Cioffi G, Waite KA, __Ostrom QT__,  Landi D, Takaoka K,  Kruchko C, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/10.1093/nop/npac009
+    display: Neurooncol Pract. 2022 Jan 27;9(2):149-157.
+  highlight:0
+
+- title: "Common Germline Risk Variants Impact Somatic Alterations and Clinical Features across Cancers."
+  description:NA
+  authors: Namba S , Saito Y, Kogure Y, Masuda T,  Bondy ML, Gharahkhani P, Gockel I, Heider D, Hillmer AM , Jankowski JA , MacGregor S, Maj C, Melin B, __Ostrom QT__, Palles C, Schumacher J, Tomlinson I, Whiteman DC , Kataoka K
+  link:
+    url: http://doi.org/10.1158/0008-5472.CAN-22-1492
+    display: Cancer Res. 2023 Jan 4;83(1):20-27.
+  highlight:0
+
+- title: "The Central Brain Tumor Registry of the United States Histopathological Grouping Scheme Provides Clinically Relevant Brain and other Central Nervous System Categories for Cancer Registry Data"
+  description:NA
+  authors: __Ostrom QT__, Kruchko C, _Neff C_, Firth A, Sherman R
+  link:
+    url: http://doi.org/NA
+    display: J Registry Manag. 2022 Winter;49(4):139-152.
+  highlight:0
+
+- title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2014-2018"
+  description:NA
+  authors: __Ostrom QT__, Cioffi G, Waite K, Kruchko C, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/101093/neuonc/noab200
+    display: Neuro Oncol 2021 Oct 5;23(12 Suppl 2):iii1-iii105
+  highlight:0
+
+- title: "Brain and other central nervous system tumor statistics, 2021"
+  description:NA
+  authors: Miller KD, __Ostrom QT__, Kruchko C, Patil N, Tihan T, Cioffi G, Fuchs HE, Waite KA, Jemal A, Siegel RL, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/103322/caac21693
+    display: CA Cancer J Clin 2021 Sep;71(5):381-406
+  highlight:0
+
+- title: "Partitioned glioma heritability shows subtype-specific enrichment in immune cells"
+  description:NA
+  authors: __Ostrom QT__, Edelson J, Byun J, Han Y, Kinnersley B, Melin B, Houlston RS, Monje M; GLIOGENE Consortium, Walsh KM, Amos CI, Bondy ML
+  link:
+    url: http://doi.org/101093/neuonc/noab072
+    display: Neuro Oncol 2021 Aug 2;23(8):1304-1314
+  highlight:0
+
+- title: "Epidemiology of brainstem high-grade gliomas in children and adolescents in the United States, 2000-2017"
+  description:This manuscript details the descriptive epidemiology, including incidence, survival and prevalence, for gliomas of the brain stem in children and adolescents.
+  authors: Patil N, Kelly ME, Yeboa DN, Buerki RA, Cioffi G, Balaji S, __Ostrom QT__, Kruchko C, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/101093/neuonc/noaa295
+    display: Neuro Oncol 2021 Jun 1;23(6):990-998
+  highlight:0
+
+- title: "Role of Ethnicity and Geographic Location on Glioblastoma IDH1/IDH2 Mutations"
+  description:NA
+  authors: McCormack RM, Zhu P, Dono A, Takayasu T, Bhatia A, Blanco AI, Tandon N, __Ostrom QT__, Gonzales A, Moreno S, Ballester LY, Esquenazi Y
+  link:
+    url: http://doi.org/101016/jwneu202101079
+    display: World Neurosurg 2021 May;149:e894-e912
+  highlight:0
+
+- title: "Racial/ethnic disparities in treatment pattern and time to treatment for adults with glioblastoma in the US"
+  description:NA
+  authors: __Ostrom QT__, Krebs HL, Patil N, Cioffi G, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/101007/s11060-021-03736-4
+    display: J Neurooncol 2021 May;152(3):603-615
+  highlight:0
+
+- title: "The state of neuro-oncology during the COVID-19 pandemic: a worldwide assessment"
+  description:NA
+  authors: Mrugala MM, __Ostrom QT__, Pressley SM, Taylor JW, Thomas AA, Wefel JS, Coven SL, Acquaye AA, Haynes C, Agnihotri S, Lim M, Peters KB, Sulman EP, Salcido JT, Butowski NA, Hervey-Jumper S, Mansouri A, Oliver KR, Porter AB, Nassiri F, Schiff D, Dunbar EM, Hegi ME, Armstrong TS, van den Bent MJ, Chang SM, Zadeh G, Chheda MG
+  link:
+    url: http://doi.org/101093/noajnl/vdab035
+    display: Neurooncol Adv 2021 Feb 20;3(1):vdab035
+  highlight:0
+
+- title: "Importance of the intersection of age and sex to understand variation in incidence and survival for primary malignant gliomas"
+  description:This manuscript assesses the relationship between age and sex on primary malignant glioma incidence and survival.
+  authors: Wang GM, Cioffi G, Patil N, Waite KA, Lanese R, __Ostrom Q__, Kruchko C, Berens ME, Connor JR, Lathia JD, Rubin JB, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/101093/neuonc/noab199
+    display: Neuro Oncol. 2022 Feb 1;24(2):302-310.
+  highlight:0
+
+- title: "An updated histology recode for the analysis of primary malignant and nonmalignant brain and other central nervous system tumors in the Surveillance, Epidemiology, and End Results Program"
+  description:This manuscript describes the development of an updated classification scheme for brain and other CNS tumors for inclusion in the SEER*explorer system and other SEER data products.
+  authors: Forjaz G, Barnholtz-Sloan JS, Kruchko C, Siegel R, Negoita S, __Ostrom QT__, Dickie L, Ruhl J, Van Dyke A, Patil N, Cioffi G, Miller KD, Waite K, Mariotto AB
+  link:
+    url: http://doi.org/101093/noajnl/vdaa175
+    display: Neurooncol Adv 2020 Dec 8;3(1):vdaa175
+  highlight:0
+
+- title: "Glioblastoma incidence rate trends in Canada and the United States compared with England, 1995-2015"
+  description:NA
+  authors: Davis FG, Smith TR, Gittleman HR, __Ostrom QT__, Kruchko C, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/10.1093/neuonc/noz203
+    display: Neuro Oncol 2020 Feb 20;22(2):301-302
+  highlight:0
+
+- title: "European genetic ancestry associated with risk of childhood ependymoma"
+  description:NA
+  authors: Zhang C, __Ostrom QT__, Hansen HM, Gonzalez-Maya J, Hu D, Ziv E, Morimoto L, de Smith AJ, Muskens IS, Kline CN, Vaksman Z, Hakonarson H, Diskin SJ, Kruchko C, Barnholtz-Sloan JS, Ramaswamy V, Ali-Osman F, Bondy ML, Taylor MD, Metayer C, Wiemels JL, Walsh KM
+  link:
+    url: http://doi.org/101093/neuonc/noaa130
+    display: Neuro Oncol 2020 Nov 26;22(11):1637-1646
+  highlight:0
+
+- title: "Pilocytic astrocytomas: where do they belong in cancer reporting?"
+  description:This letter describes the history of inclusion of pilocytic astrocytoma in cancer registry reporting, and the effect of varying behavior classification for these tumors on incidence and survival patterns.
+  authors: __Ostrom QT__, Kruchko C, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/10.1093/neuonc/noz202
+    display: Neuro Oncol 2020 Feb 20;22(2):298-300
+  highlight:0
+
+- title: "Glioma risk associated with extent of estimated European genetic ancestry in African Americans and Hispanics"
+  description:NA
+  authors: __Ostrom QT__, Egan KM, Nabors LB, Gerke T, Thompson RC, Olson JJ, LaRocca R, Chowdhary S, Eckel-Passow JE, Armstrong G, Wiencke JK, Bernstein JL, Claus EB, Il'yasova D, Johansen C, Lachance DH, Lai RK, Merrell RT, Olson SH, Sadetzki S, Schildkraut JM, Shete S, Houlston RS, Jenkins RB, Wrensch MR, Melin B, Amos CI, Huse JT, Barnholtz-Sloan JS, Bondy ML
+  link:
+    url: http://doi.org/101002/ijc32318
+    display: Int J Cancer 2020 Feb 1;146(3):739-748
+  highlight:0
+
+- title: "Multiple Primary Cancers in the United States"
+  description:NA
+  authors: Qiao B, Hsieh M-C, Wu X-C, Kruchko C, Sineshaw H, Wu M, Huang B, Sherman R, __Ostrom QT__, Yu Q, Schymura MJ
+  link:
+    url: http://doi.org/NA
+    display: J Registry Manag. 2020 Summer;47(2):60-66.
+  highlight:0
+
+- title: "Glioma incidence and survival variations by county-level socioeconomic measures"
+  description:This analysis of glioma incidence and survival based on county-levels of SES identifies a significant association between both increased incidence and improved survival for individuals with glioma in higher SES counties.
+  authors: Cote DJ, __Ostrom QT__, Gittleman H, Duncan KR, CreveCoeur TS, Kruchko C, Smith TR, Stampfer MJ, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/101002/cncr32328
+    display: Cancer 2019 Oct 1;125(19):3390-3400
+  highlight:0
+
+- title: "Primary central nervous system lymphoma in patients with and without HIV infection: a multicenter study and comparison with US national data"
+  description:NA
+  authors: Dandachi D, __Ostrom QT__, Chong I, Serpa JA, Giordano TP, Kruchko C, Barnholtz-Sloan JS, Fowler N, Colen RR, Morón FE
+  link:
+    url: http://doi.org/101007/s10552-019-01144-8
+    display: Cancer Causes Control 2019 May;30(5):477-488
+  highlight:0
+
+- title: "Aspirin, NSAIDs, and Glioma Risk: Original Data from the Glioma International Case-Control Study and a Meta-analysis"
+  description:NA
+  authors: Amirian ES+, __Ostrom QT+__, Armstrong GN, Lai RK, Gu X, Jacobs DI, Jalali A, Claus EB, Barnholtz-Sloan JS, Il'yasova D, Schildkraut JM, Ali-Osman F, Sadetzki S, Jenkins RB, Lachance DH, Olson SH, Bernstein JL, Merrell RT, Wrensch MR, Johansen C, Houlston RS, Scheurer ME, Shete S, Amos CI, Melin B, Bondy ML
+  link:
+    url: http://doi.org/101158/1055-9965EPI-18-0702
+    display: Cancer Epidemiol Biomarkers Prev 2019 Mar;28(3):555-562
+  highlight:0
+
+- title: "Primary brain and other central nervous system tumors in Appalachia: regional differences in incidence, mortality, and survival"
+  description:NA
+  authors: __Ostrom QT__, Gittleman H, Kruchko C, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/101007/s11060-018-03073-z
+    display: J Neurooncol 2019 Mar;142(1):27-38
+  highlight:0
+
+- title: "Adult Glioma Incidence and Survival by Race or Ethnicity in the United States From 2000 to 2014"
+  description:NA
+  authors: __Ostrom QT__,+ Cote DJ+, Ascha M, Kruchko C, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/101001/jamaoncol20181789
+    display: JAMA Oncol 2018 Sep 1;4(9):1254-1262
+  highlight:0
+
+- title: "Females have the survival advantage in glioblastoma"
+  description:NA
+  authors: __Ostrom QT__, Rubin JB, Lathia JD, Berens ME, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/10.1093/neuonc/noy002
+    display: Neuro Oncol 2018 Mar 27;20(4):576-577
+  highlight:0
+
