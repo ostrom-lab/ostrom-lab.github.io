@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 - title: "Sex differences in adverse events in Medicare individuals ≥ 66 years of age post glioblastoma treatment."
   description: 
@@ -8,6 +9,9 @@
   highlight: 0
 
 - title: "The Impact of COVID-19 on Monthly Incidence Trends of Primary Brain and Other CNS Tumors"
+=======
+- title: "The Impact of COVID-=19 on Monthly Incidence Trends of Primary Brain and Other CNS Tumors"
+>>>>>>> 0b234f7e771b968d4902bfe2029fce726de5debd
   description: 
   authors: Cioffi G, Waite KA, Price M+, Neff C+, Kruchko C, Ostrom QT, Barnholtz-Sloan JS.
   link:
