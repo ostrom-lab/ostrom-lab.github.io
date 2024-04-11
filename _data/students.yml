@@ -1,25 +1,7 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
-- name: Ilse Kuijf 
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+- name: Keisha Bansal
+  info: Intern from North Carolina School for Science and Math from 2022-2023, visting student researcher from 2023-Present
   number_educ: 0
-  education1:
+  education1: BS Candidate at Wilkes Honors College of Florida Atlantic University
 
-- name: Tessa Van der Ent
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
 
 

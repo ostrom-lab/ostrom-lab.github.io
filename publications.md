@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-**At the end of this page, you can find the [full list of publication](#full-list-of-publications).**
+**At the end of this page, you can find the [full list of selected publication](#Selected-publications).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,7 +52,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+## Selected publications
 
 {% for publi in site.data.publist %}
 

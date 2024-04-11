@@ -16,7 +16,7 @@ for (a in 1:nrow(peerreview)) {
     cat(paste("  image: \"",peerreview$image[a],"\"",sep=""))
     cat("\n")
   }
-  cat(paste("  description:",peerreview$description[a],sep=""))
+  cat(paste("  description: ",peerreview$description[a],sep=""))
   cat("\n")
   cat(paste("  authors: ",peerreview$Authors[a],sep=""))
   cat("\n")
