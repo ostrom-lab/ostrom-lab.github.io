@@ -164,13 +164,13 @@
 
 - title: "Molecular Biomarker-Defined Brain Tumors: Epidemiology, Accuracy, and Completeness in the United States"
   description: 
-  authors: Iorgulescu JB+, Sun C+*,  Neff C,  Cioffi G, Gutierrez C, Kruchko C, Ruhl J, Waite K, Negoita S, Hoffercamp J, Tihan T, McLendon R, Brat DJ, Ostrom QT^, Barnholtz-Sloan JS^ (* shared first author; ^ shared senior author)
+  authors: Iorgulescu JB*, Sun C+*,  Neff C,  Cioffi G, Gutierrez C, Kruchko C, Ruhl J, Waite K, Negoita S, Hoffercamp J, Tihan T, McLendon R, Brat DJ, Ostrom QT^, Barnholtz-Sloan JS^ (* shared first author; ^ shared senior author)
   link:
     url: http://doi.org/10.1093/neuonc/noac113
     display: Neuro Oncol. 2022 Nov 2;24(11):1989-2000.
   highlight: 0
 
-- title: "Molecular marker testing and reporting patterns in the United States for patients with adult-type diffuse gliomas "
+- title: "Molecular marker testing and reporting patterns in the United States for patients with adult-type diffuse gliomas."
   description: 
   authors: Neff C,  Cioffi G, Waite K, Kruchko C, Barnholtz-Sloan JS,  Ostrom QT^, Iorgulescu JB^ (^ shared senior author)
   link: 
@@ -261,7 +261,7 @@
 
 - title: "Aligning the Central Brain Tumor Registry of the United States (CBTRUS) Histology Groupings with Current Definitions"
   description: This manuscript traces the rationale for changes made to the CBTRUS histopathology grouping scheme in order to better align it with modern diagnostic criteria.
-  authors: Waite KA, Cioffi G, Kruchko C, Brat DJ, Bruner JM, McLendon RE, Tihan T, Ostrom QT+, Barnholtz-Sloan JS+
+  authors: Waite KA, Cioffi G, Kruchko C, Brat DJ, Bruner JM, McLendon RE, Tihan T, Ostrom QT^, Barnholtz-Sloan JS^ (^ shared senior author)
   link:
     url: http://doi.org/10.1093/nop/npac025
     display: Neurooncol Pract. 2022 Mar 24;9(4):317-327.
@@ -446,7 +446,7 @@
 
 - title: "Aspirin, NSAIDs, and Glioma Risk: Original Data from the Glioma International Case-Control Study and a Meta-analysis"
   description: 
-  authors: Amirian ES+, Ostrom QT+, Armstrong GN, Lai RK, Gu X, Jacobs DI, Jalali A, Claus EB, Barnholtz-Sloan JS, Il'yasova D, Schildkraut JM, Ali-Osman F, Sadetzki S, Jenkins RB, Lachance DH, Olson SH, Bernstein JL, Merrell RT, Wrensch MR, Johansen C, Houlston RS, Scheurer ME, Shete S, Amos CI, Melin B, Bondy ML
+  authors: Amirian ES*, Ostrom QT*, Armstrong GN, Lai RK, Gu X, Jacobs DI, Jalali A, Claus EB, Barnholtz-Sloan JS, Ilyasova D, Schildkraut JM, Ali-Osman F, Sadetzki S, Jenkins RB, Lachance DH, Olson SH, Bernstein JL, Merrell RT, Wrensch MR, Johansen C, Houlston RS, Scheurer ME, Shete S, Amos CI, Melin B, Bondy ML (* shared first author)
   link:
     url: http://doi.org/101158/1055-9965EPI-18-0702
     display: Cancer Epidemiol Biomarkers Prev 2019 Mar;28(3):555-562
@@ -462,7 +462,7 @@
 
 - title: "Adult Glioma Incidence and Survival by Race or Ethnicity in the United States From 2000 to 2014"
   description: 
-  authors: Ostrom QT,+ Cote DJ+, Ascha M, Kruchko C, Barnholtz-Sloan JS
+  authors: Ostrom QT*, Cote DJ*, Ascha M, Kruchko C, Barnholtz-Sloan JS (* shared first author)
   link:
     url: http://doi.org/101001/jamaoncol20181789
     display: JAMA Oncol 2018 Sep 1;4(9):1254-1262
