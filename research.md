@@ -30,7 +30,7 @@ In addition to this, we use the CBTRUS data and other related cancer registry da
 
 <h4>Identifying risk factors for primary brain tumors</h4>
 We are interested in identifying individual, genetic, and environmental factors that affect individual risk of deveoping a brain tumor. Recent projects in this area have included: 
-<ul><ul><li>Exploring the role of autoimmunity in glioma risk, including <a href="https://doi.org/10.1093/neuonc/noab072">identifying antecorrelated genetic architecture for glioma and autoimmune disease</a>. </li>
+<ul><li>Exploring the role of autoimmunity in glioma risk, including <a href="https://doi.org/10.1093/neuonc/noab072">identifying antecorrelated genetic architecture for glioma and autoimmune disease</a>. </li>
 <li>The impact of genetic ancestry, and/or race/ethnicity on risk for brain tumors, particularly glioma and <a href="https://doi.org/10.1093/noajnl/vdad020">meningioma</a>.</li>
 <li> The impact of socioeconomic factors on risk of <a href="https://doi.org/10.1093/neuonc/noad223">meningioma</a> and <a href="https://doi.org/10.3171/2023.6.jns23342">pituitary tumors</a>. </li></ul>
 

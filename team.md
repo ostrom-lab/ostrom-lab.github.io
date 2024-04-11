@@ -33,19 +33,6 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
   <li> MPH, East Tennessee State University</li>
   </ul>
 </div>
-</div>
-
-<div class="col-sm-6 clearfix">
-  <h4> Mackenzie Price</h4>
-  <i> Research Analyst, April 2022-September 2023 (Now affiliated Research Analyst at <a href="http://cbtrus.org">CBTRUS</a>)</i> 
-  <ul style="overflow: hidden">
-  <li> BA, University of North Carolina at Chapel Hill </li>
-  <li> MPH, University of California at Berkeley</li>
-  </ul>
-</div>
-</div>
-
-<div class="row">
 <div class="col-sm-6 clearfix">
   <h4> Christine Ballard </h4>
   <i>Research Analyst, started February 2024</i> 
@@ -55,9 +42,18 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
   <li>PhD Student, University of North Carolina at Chapel Hill</li>
   </ul>
 </div>
-
 </div>
 
+<div class="row">
+<div class="col-sm-6 clearfix">
+  <h4> Mackenzie Price</h4>
+  <i> Research Analyst, April 2022-September 2023 (Now affiliated Research Analyst at <a href="http://cbtrus.org">CBTRUS</a>)</i> 
+  <ul style="overflow: hidden">
+  <li> BA, University of North Carolina at Chapel Hill </li>
+  <li> MPH, University of California at Berkeley</li>
+  </ul>
+</div>
+</div>
 
 
 ## Students
