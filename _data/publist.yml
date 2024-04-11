@@ -1,4 +1,13 @@
-- title: "The Impact of COVID-=19 on Monthly Incidence Trends of Primary Brain and Other CNS Tumors"
+
+- title: "Sex differences in adverse events in Medicare individuals ≥ 66 years of age post glioblastoma treatment."
+  description: 
+  authors: Dmukauskas M, Cioffi G, Waite KA, Sloan AE, Neff C, Price M, Ostrom QT, Barnholtz-Sloan JS. 
+  link:
+    url: http://doi.org/10.1007/s11060-024-04652-z
+    display: J Neurooncol. 2024 Apr 2.
+  highlight: 0
+
+- title: "The Impact of COVID-19 on Monthly Incidence Trends of Primary Brain and Other CNS Tumors"
   description: 
   authors: Cioffi G, Waite KA, Price M+, Neff C+, Kruchko C, Ostrom QT, Barnholtz-Sloan JS.
   link:
@@ -78,7 +87,7 @@
   link:
     url: http://doi.org/10.1093/nop/npad061
     display: Neuro-Oncology Practice. 2023. 
-  highlight: 1
+  highlight: 0
 
 - title: "Primary Malignant and Non-Malignant Brain Tumors in US Veterans"
   description: 
