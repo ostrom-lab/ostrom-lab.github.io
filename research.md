@@ -28,17 +28,18 @@ We produce an <a href="https://cbtrus.org/reports/">annual statistical report</a
 In addition to this, we use the CBTRUS data and other related cancer registry datasets for scientific projects related to our other themes. Recently this includes development of a package for estimating complete prevalence of cancer from incomplete data: <a href="https://github.com/ostrom-lab/prevEst">prevEst</a>, as well as a <a href="https://pubmed.ncbi.nlm.nih.gov/37260822/">recode of primary brain and CNS tumor histopathologies</a> for use by other researchers.
 
 
-<h4>Identifying risk factors for primary brain tumors>/h4>
-We are interest in identifying individual, genetic, and environmental factors that affect individual risk of deveoping a brain tumor. Recent projects in this area have included: 
-<ul><li>The impact of genetic ancestry, and/or race/ethnicity on risk for brain tumors, particularly glioma and <a href="https://doi.org/10.1093/noajnl/vdad020">meningioma</a>.</li>
+<h4>Identifying risk factors for primary brain tumors</h4>
+We are interested in identifying individual, genetic, and environmental factors that affect individual risk of deveoping a brain tumor. Recent projects in this area have included: 
+<ul><ul><li>Exploring the role of autoimmunity in glioma risk, including <a href="https://doi.org/10.1093/neuonc/noab072">identifying antecorrelated genetic architecture for glioma and autoimmune disease</a>. </li>
+<li>The impact of genetic ancestry, and/or race/ethnicity on risk for brain tumors, particularly glioma and <a href="https://doi.org/10.1093/noajnl/vdad020">meningioma</a>.</li>
 <li> The impact of socioeconomic factors on risk of <a href="https://doi.org/10.1093/neuonc/noad223">meningioma</a> and <a href="https://doi.org/10.3171/2023.6.jns23342">pituitary tumors</a>. </li></ul>
 
 
 <h4>Epidemiology of brain metastasis</h4>
-We are interest in identifying individual, genetic, and environmental factors that affect individual risk of deveoping a brain tumor. Recent projects in this area have included: 
-<ul><li>The impact of genetic ancestry, and/or race/ethnicity on risk for brain tumors, particularly glioma and <a href="https://doi.org/10.1093/noajnl/vdad020">meningioma</a>.</li>
-<li> The impact of socioeconomic factors on risk of <a href="https://doi.org/10.1093/neuonc/noad223">meningioma</a> and <a href="https://doi.org/10.3171/2023.6.jns23342">pituitary tumors</a>. </li></ul>
-
+Metastatic brain tumors are the most common type of malignancy that occurs in the brain, and represent an increasing source of cancer morbidity and mortality as new treatments extend survival in cancers that commonly metastasize to the brain (e.g. lung cancer, melanoma, and breast cancer). We are interested in identifying individuals at variable risk for development of brain metastatis, as well as factors that affect overall survival in those that develop metastatic brain tumors.
 
 <h4>We love collaborating!</h4>
-Reach out to Dr. Ostrom via email if you have ideas for potential ways we could work together. <a href="https://cbtrus.org/contact-us-request-database/">CBTRUS-specific data requests can be submitted on the CBTRUS website</a>. 
+
+Reach out to Dr. Ostrom via email if you have ideas for potential ways we could work together. 
+
+<a href="https://cbtrus.org/contact-us-request-database/">CBTRUS-specific data requests can be submitted on the CBTRUS website</a>. 
