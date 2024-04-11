@@ -53,6 +53,7 @@ permalink: /publications/
 
 
 ## Selected publications
+__+ indicates lab member__
 
 {% for publi in site.data.publist %}
 

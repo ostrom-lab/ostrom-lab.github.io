@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Ostrom Lab at Duke University School of Medicine."
 sitemap: false
 permalink: /allnews.html
 ---
