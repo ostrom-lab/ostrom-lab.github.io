@@ -66,7 +66,7 @@
 
 - title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2016-2020"
   image: "CBTRUS-NEUROONC-2023.jpeg"
-  description: 
+  description: The most up-to-date edition of the annual CBTRUS statistical report, which provides comprehensive statistics on incidence, mortality, and survival statistics for primary brain tumors in the United States.
   authors: Ostrom QT, Price M+,  Neff C,  Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS.
   link:
     url: http://doi.org/10.1093/neuonc/noad149
@@ -108,6 +108,7 @@
 - title: "Complete Prevalence of Primary Malignant and Non-Malignant Brain Tumors in Comparison to Other Cancers in the United States"
   description: This analysis included the first complete estimates for the prevalence of both primary malignant and non-malignant brain and other central nervous system tumors in the United States as of 2019, an update to previous results.
   authors: Neff C+,  Price M+,   Cioffi G, Kruchko C, Waite KA, Barnholtz-Sloan JS, Ostrom QT
+  image: "cncr34837-fig-0001-m.png"
   link:
     url: http://doi.org/10.1002/cncr.34837
     display: Cancer. 2023 Aug 15;129(16):2514-2521.
@@ -275,7 +276,7 @@
   highlight: 0
 
 - title: "Influence of geographic/ancestral origin on glioma incidence and outcomes in US Hispanics"
-  description: 
+  description: Increased proportion of European ancestry is known to be associated with increased risk of glioma. In this analysis, we show that incidence of glioma is higher in Hispanics in regions where predominant Hispanic origin is Caribbean, a population that is known to have higher proportion of European ancestry, as compared to Mexican/Central American.
   image: "Figure_2_HistologyIRR_2021-08-25.png"
   authors: Walsh KM, Neff C+,  Bondy ML, Kruchko C, Huse JT, Amos CI, Barnholtz-Sloan JS, Ostrom QT
   link:
