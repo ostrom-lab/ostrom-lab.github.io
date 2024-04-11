@@ -10,7 +10,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#alumni).
 
-<div class="col-sm-6 clearfix">
+<div class="row">
   <h4>Quinn Ostrom  </h4> <a href="https://orcid.org/0000-0003-3469-7558"> <img src="images/512px-ORCID_iD.svg.png",height=15,width=15></a> 
   <i>Assistant Professor of <a href="https://neurosurgery.duke.edu/">Neurosurgery</a> and <a href="https://populationhealth.duke.edu/">Population Health Sciences</a>, started Jan 2021 <br>email: quinn.ostrom@duke.edu</i> 
   <ul style="overflow: hidden">
