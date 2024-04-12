@@ -58,89 +58,38 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 
 
 ## Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
+<h4> Keisha Bansal </h4>
+  <i>Intern from North Carolina School for Science and Math from 2022-2023, visting student researcher from 2023-Present</i<
+ <ul style="overflow: hidden">
+  <li> BS Candidate at Wilkes Honors College of Florida Atlantic University
+  </li></ul>
+</div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 
 ## Alumni
 
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
+<h4> Chuxuan Sun </h4>
+  <i>In the Ostrom Lab 2021 - 2022 as BCTIP Intern and for thesis</i>
+  <ul><li>MS in Biostatistics, Duke University School of Medicine</li></ul>
+</div>
+<div class="col-sm-6 clearfix">
+<h4>Zhen Liu</h4>
+  <i>In the Ostrom Lab 2022 - 2023 as BCTIP Intern</i>
+  <ul><li>MS in Biostatistics, Duke University School of Medicine</li></ul>
+</div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4> Rodrigo De La Vega Gomar</h4>
+  <i>In the Ostrom Lab 2023 as visiting student researcher</i>
+  <ul><li> BS from Duke Kunshan University</li></ul>
 </div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
-
