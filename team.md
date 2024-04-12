@@ -53,6 +53,13 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 </ul>
 </div>
 {% endif %}
+<<<<<<< HEAD
+=======
+</ul>
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+>>>>>>> 9b1c930acec05b6f716ca9e19b4d5cf3cac4e979
 {% if even_odd == 1 %}
 </div>
 {% endif %}
