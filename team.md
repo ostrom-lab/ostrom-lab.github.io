@@ -31,7 +31,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 <div class="row">
 {% endif %}
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
+  <h4>{{ member.name }} <a href="https://orcid.org/{{ member.orcid }}"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"></a>   </h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i>
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}

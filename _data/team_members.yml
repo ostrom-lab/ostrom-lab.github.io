@@ -1,20 +1,23 @@
 - name: Corey Neff
   info: Biostatistician, started June 2021
+  orcid: 0000-0001-9479-2747
   number_educ: 2
   education1: BA, University of Tennessee, Knoxville
   education2: MPH, East Tennessee State University
 
 - name: Mackenzie Price
   info: Research Analyst, April 2022-September 2023 (Now affiliated Research Analyst at <a href="http://cbtrus.org">CBTRUS</a>)
+  orcid: 0000-0001-6369-0609
   number_educ: 2
   education1: BA, University of North Carolina at Chapel Hill
   education2: MPH, University of California at Berkeley
   
 - name: Christine Ballard
   info: Research Analyst, started February 2024
+  orcid: 0000-0002-1173-3803
   number_educ: 3
-  education1: 
-  education2: 
+  education1: BA, Universityof Rochester
+  education2: MPH, SUNY at Albany
   education3: PhD Student, University of North Carolina at Chapel Hill
 
 
