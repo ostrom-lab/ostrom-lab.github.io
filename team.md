@@ -11,7 +11,7 @@ permalink: /team/
 Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#alumni).
 
 <div class="row">
-  <h4>Quinn Ostrom  <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"></a>   <a href="https://twitter.com/qostrom"> <img src="https://ostrom-lab.github.io/images/Twitter_new_X_logo.png" height=15 width=15 class="img-responsive"></a> </h4
+  <h4 style="display: inline;">Quinn Ostrom  <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"  style="display: inline;"></a>   <a href="https://twitter.com/qostrom"> <img src="https://ostrom-lab.github.io/images/Twitter_new_X_logo.png" height=15 width=15 class="img-responsive"  style="display: inline;"></a> </h4
   <i>Assistant Professor of <a href="https://neurosurgery.duke.edu/">Neurosurgery</a> and <a href="https://populationhealth.duke.edu/">Population Health Sciences</a>, started Jan 2021 <br>email: quinn.ostrom@duke.edu</i> 
   <ul style="overflow: hidden">
   <li> BS in Anthropology, Michigan State University </li>
@@ -31,7 +31,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 <div class="row">
 {% endif %}
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }} <a href="https://orcid.org/{{ member.orcid }}"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"></a>   </h4>
+  <h4>{{ member.name }} <a href="https://orcid.org/{{ member.orcid }}"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"  style="display: inline;"></a>   </h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i>
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
