@@ -11,11 +11,7 @@ permalink: /team/
 Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#alumni).
 
 <div class="row">
-<<<<<<< HEAD
   <div class="social" style="float: right"> <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"></a>   <a href="https://twitter.com/qostrom"> <img src="https://ostrom-lab.github.io/images/Twitter_new_X_logo.png" height=15 width=15 class="img-responsive"></a> </div>
-=======
-  <div class="social" style="float: left"> <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"></a>   <a href="https://twitter.com/qostrom"> <img src="https://ostrom-lab.github.io/images/Twitter_new_X_logo.png" height=15 width=15 class="img-responsive"></a> </div>
->>>>>>> ac3357c106a2fbb9aa21a31185546e17edebddcd
   <h4>Quinn Ostrom  </h4> 
   <i>Assistant Professor of <a href="https://neurosurgery.duke.edu/">Neurosurgery</a> and <a href="https://populationhealth.duke.edu/">Population Health Sciences</a>, started Jan 2021 <br>email: quinn.ostrom@duke.edu</i> 
   <ul style="overflow: hidden">
@@ -39,8 +35,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+ <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -84,6 +79,13 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endif %}
 
 {% endfor %}
+
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 
 ## Students
 
@@ -134,6 +136,10 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 
 {% endfor %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 
 ## Alumni
@@ -162,3 +168,8 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endif %}
 
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
