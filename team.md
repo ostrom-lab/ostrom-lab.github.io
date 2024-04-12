@@ -32,34 +32,23 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 <div class="row">
 {% endif %}
 <div class="col-sm-6 clearfix">
-<h4>{{ member.name }}</h4>
-<i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-<ul style="overflow: hidden">
-{% if member.number_educ == 1 %}
-<li> {{ member.education1 }} </li>
-</ul>
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  {% endif %}
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+  </ul>
 </div>
-{% endif %}
-{% if member.number_educ == 2 %}
-<li> {{ member.education1 | markdownify}} </li>
-<li> {{ member.education2 | markdownify}} </li>
-</ul>
-</div>
-{% endif %}
-{% if member.number_educ == 3 %}
-<li> {{ member.education1 }} </li>
-<li> {{ member.education2 }} </li>
-<li> {{ member.education3 }} </li>
-</ul>
-</div>
-{% endif %}
-<<<<<<< HEAD
-=======
-</ul>
-{::nomarkdown}
-</div>
-{:/nomarkdown}
->>>>>>> 9b1c930acec05b6f716ca9e19b4d5cf3cac4e979
 {% if even_odd == 1 %}
 </div>
 {% endif %}
