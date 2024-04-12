@@ -9,11 +9,8 @@ permalink: /
 We are an epidemiology lab focused on identifying risk factors for primary and metastatic brain tumors in children, adolescents, and adults. We are part of the Division of Neuro-Epidemiology in the Department of Neurosurgery at Duke University School of Medicine, and are affiliated with the Preston Robert Tisch Brain Tumor Center. 
 
 
-# News
+<img src="https://ostrom-lab.github.io/images/front_image.png" align="center" width="90%">
 
-{% for article in site.data.news %}
-<p>{{ article.date }} <br> {{ article.headline | markdownify}}</p>
-{% endfor %}
 
 
 

@@ -124,7 +124,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 
 <div class="col-sm-6 clearfix">
 <h4>{{ member.name }}</h4>
-<i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+<i>{{ member.duration }}</i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
