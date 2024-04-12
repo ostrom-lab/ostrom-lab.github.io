@@ -1,11 +1,3 @@
-- name: Quinn Ostrom
-  info: Assistant professor, started Jan 2021
-  email: quinn.ostrom@duke.edu
-  number_educ: 3
-  education1: MPH, Case Western Reserve University
-  education2: PhD, Case Western Reserve University with <a href="https://dceg.cancer.gov/about/staff-directory/barnholtz-sloan-jill">Jill Barnholtz-Sloan</a> (now @ NCI)
-  education3: Cancer Prevention Research Institute of Texas (CPRIT) Post-Graduate Training Program in Integrative Cancer Epidemiology @ <a href="https://www.bcm.edu/departments/medicine/sections/epidemiology-and-population-sciences">Baylor College of Medicine, Section of Epidemiology & Population Science</a>
-
 - name: Corey Neff
   info: Biostatistician, started June 2021
   number_educ: 2

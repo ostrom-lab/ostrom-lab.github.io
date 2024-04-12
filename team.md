@@ -11,8 +11,8 @@ permalink: /team/
 Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#alumni).
 
 <div class="row">
+  <div class="social" style="float: right"> <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"></a>   <a href="https://twitter.com/qostrom"> <img src="https://ostrom-lab.github.io/images/Twitter_new_X_logo.png" height=15 width=15 class="img-responsive"></a> </div>
   <h4>Quinn Ostrom  </h4> 
-  <div class="social"> <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"></a>   <a href="https://twitter.com/qostrom"> <img src="https://ostrom-lab.github.io/images/Twitter_new_X_logo.png" height=15 width=15 class="img-responsive"></a> </div>
   <i>Assistant Professor of <a href="https://neurosurgery.duke.edu/">Neurosurgery</a> and <a href="https://populationhealth.duke.edu/">Population Health Sciences</a>, started Jan 2021 <br>email: quinn.ostrom@duke.edu</i> 
   <ul style="overflow: hidden">
   <li> BS in Anthropology, Michigan State University </li>
@@ -25,71 +25,136 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 
 ## Staff
 
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
 <div class="row">
+{% endif %}
+
 <div class="col-sm-6 clearfix">
-  <h4> Corey Neff</h4>
-  <i>Biostatistician, started June 2021</i> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
-  <li> BA, University of Tennessee, Knoxville </li>
-  <li> MPH, East Tennessee State University</li>
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
   </ul>
-</div>
-<div class="col-sm-6 clearfix">
-  <h4> Christine Ballard </h4>
-  <i>Research Analyst, started February 2024</i> 
-  <ul style="overflow: hidden">
-  <li>BA, University of Rochester</li>
-  <li>MPH, SUNY University at Albany</li>
-  <li>PhD Student, University of North Carolina at Chapel Hill</li>
-  </ul>
-</div>
 </div>
 
-<div class="row">
-<div class="col-sm-6 clearfix">
-  <h4> Mackenzie Price</h4>
-  <i> Research Analyst, April 2022-September 2023 (Now affiliated Research Analyst at <a href="http://cbtrus.org">CBTRUS</a>)</i> 
-  <ul style="overflow: hidden">
-  <li> BA, University of North Carolina at Chapel Hill </li>
-  <li> MPH, University of California at Berkeley</li>
-  </ul>
-</div>
-</div>
+{% assign number_printed = number_printed | plus: 1 %}
 
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
 
 ## Students
 
+{% assign number_printed = 0 %}
+{% for member in site.data.students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
 <div class="row">
+{% endif %}
+
 <div class="col-sm-6 clearfix">
-<h4> Keisha Bansal </h4>
-  <i>Intern from North Carolina School for Science and Math from 2022-2023, visting student researcher from 2023-Present</i<
- <ul style="overflow: hidden">
-  <li> BS Candidate at Wilkes Honors College of Florida Atlantic University
-  </li></ul>
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  </ul>
 </div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
+{% endif %}
+
+{% endfor %}
 
 
 
 ## Alumni
 
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
 <div class="row">
+{% endif %}
+
 <div class="col-sm-6 clearfix">
-<h4> Chuxuan Sun </h4>
-  <i>In the Ostrom Lab 2021 - 2022 as BCTIP Intern and for thesis</i>
-  <ul><li>MS in Biostatistics, Duke University School of Medicine</li></ul>
-</div>
-<div class="col-sm-6 clearfix">
-<h4>Zhen Liu</h4>
-  <i>In the Ostrom Lab 2022 - 2023 as BCTIP Intern</i>
-  <ul><li>MS in Biostatistics, Duke University School of Medicine</li></ul>
-</div>
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <ul style="overflow: hidden">
+
+  </ul>
 </div>
 
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4> Rodrigo De La Vega Gomar</h4>
-  <i>In the Ostrom Lab 2023 as visiting student researcher</i>
-  <ul><li> BS from Duke Kunshan University</li></ul>
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
-</div>
+{% endif %}
+
+{% endfor %}
