@@ -124,23 +124,16 @@
 
 - title: "The joint impacts of sex and race/ethnicity on incidence of grade 1 versus grades 2-3 meningioma across the lifespan"
   description: This manuscript assesses the relationship between sex, age, and race/ethnicity on the incidence of grade 1 and grades 2-3 meningioma in the United State
+  image: "m_vdad020f0001.jpg"
   authors: Walsh KM*, Price M+*,  Neff C+,  Komisarow KM, Wimberly CE, Kruchko C, Barnholtz-Sloan JS, Ostrom QT (* shared first author)
   link:
     url: http://doi.org/10.1093/noajnl/vdad020
     display: Neurooncol Adv. 2023 Jun 3;5(Suppl 1):i5-i12.
-  highlight: 0
-
-- title: "The association between genetically elevated polyunsaturated fatty acids and risk of cancer"
-  description: 
-  authors: Fatty Acids in Cancer Mendelian Randomization Collaboration; Haycock PC, Borges MC, Burrows K, Lemaitre RN, Burgess S, Khankari NK, Tsilidis KK, Gaunt TR, Hemani G, Zheng J, Truong T, Birmann BM, OMara T, Spurdle AB, Iles MM, Law MH, Slager SL, Saberi Hosnijeh F, Mariosa D, Cotterchio M, Cerhan JR, Peters U, Enroth S, Gharahkhani P, Le Marchand L, Williams AC, Block RC; ACCC; CCFR-CORECT-GECCO; EPITHYR; InterLymph; MMAC; ECAC; ILCCO; PRACTICAL Consortium; PanScan; PanC4; Amos CI, Hung RJ, Zheng W, Gunter MJ, Smith GD, Relton C, Martin RM
-  link:
-    url: http://doi.org/10.1016/j.ebiom.2023.104510
-    display: EBioMedicine. 2023 May;91:104510.
-  highlight: 0
+  highlight: 1
 
 - title: "The genomic landscape of familial glioma"
   description: 
-  authors: Choi DJ, Armstrong G, Lozzi B, Vijayaraghavan P, Plon SE, Wong TC, Boerwinkle E, Muzny DM, Chen HC, Gibbs RA, Ostrom QT, Melin B, Deneen B, Bondy ML; Gliogene Consortium; Genomics England Research Consortium; Bainbridge MN, Amos CI, Barnholtz-Sloan JS, Bernstein JL, Claus EB, Houlston RS, Il'yasova D, Jenkins RB, Johansen C, Lachance D, Lai R, Melin BS, Merrell RT, Olson SH, Sadetzki S, Schildkraut J, Shete S, Ambrose JC, Arumugam P, Bevers R, Bleda M, Boardman-Pretty F, Boustred CR, Brittain H, Brown MA, Caulfield MJ, Chan GC, Giess A, Griffin JN, Hamblin A, Henderson S, Hubbard TJP, Jackson R, Jones LJ, Kasperaviciute D, Kayikci M, Kousathanas A, Lahnstein L, Lakey A, Leigh SEA, Leong IUS, Lopez FJ, Maleady-Crowe F, McEntagart M, Minneci F, Mitchell J, Moutsianas L, Mueller M, Murugaesu N, Need AC, O'Donovan P, Odhams CA, Patch C, Perez-Gil D, Pereira MB, Pullinger J, Rahim T, Rendon A, Rogers T, Savage K, Sawant K, Scott RH, Siddiq A, Sieghart A, Smith SC, Sosinsky A, Stuckey A, Tanguy M, Taylor Tavares AL, Thomas ERA, Thompson SR, Tucci A, Welland MJ, Williams E, Witkowska K, Wood SM, Zarowiecki M
+  authors: Choi DJ, Armstrong G, Lozzi B, Vijayaraghavan P, Plon SE, Wong TC, Boerwinkle E, Muzny DM, Chen HC, Gibbs RA, Ostrom QT, Melin B, Deneen B, Bondy ML; Gliogene Consortium; Genomics England Research Consortium; Bainbridge MN. 
   link:
     url: http://doi.org/10.1126/sciadv.ade2675
     display: Sci Adv. 2023 Apr 28;9(17):eade2675.
@@ -163,7 +156,7 @@
   highlight: 0
 
 - title: "Molecular Biomarker-Defined Brain Tumors: Epidemiology, Accuracy, and Completeness in the United States"
-  description: 
+  description: This analysis investigated the completeness and validity of the novel brain molecular markers (BMM) site-specific data item after its first year of collection.
   authors: Iorgulescu JB*, Sun C+*,  Neff C,  Cioffi G, Gutierrez C, Kruchko C, Ruhl J, Waite K, Negoita S, Hoffercamp J, Tihan T, McLendon R, Brat DJ, Ostrom QT^, Barnholtz-Sloan JS^ (* shared first author; ^ shared senior author)
   link:
     url: http://doi.org/10.1093/neuonc/noac113
@@ -309,7 +302,7 @@
   highlight: 0
 
 - title: "The Central Brain Tumor Registry of the United States Histopathological Grouping Scheme Provides Clinically Relevant Brain and other Central Nervous System Categories for Cancer Registry Data"
-  description: 
+  description: This analysis confirms that patterns of brain and other CNS tumor incidence are largely consistent across independent cancer registry databases, including those from CBTRUS and CiNA, when using the CBTRUS histopathology grouping, which further supports the use of this grouping in CNS cancer surveillance and research.
   authors: Ostrom QT, Kruchko C, Neff C,  Firth A, Sherman R
   link:
     url: http://doi.org/NA
@@ -418,7 +411,7 @@
   link:
     url: http://doi.org/101002/ijc32318
     display: Int J Cancer 2020 Feb 1;146(3):739-748
-  highlight: 0
+  highlight: 1
 
 - title: "Multiple Primary Cancers in the United States"
   description: 
@@ -462,7 +455,7 @@
 
 - title: "Adult Glioma Incidence and Survival by Race or Ethnicity in the United States From 2000 to 2014"
   description: 
-  authors: Ostrom QT*, Cote DJ*, Ascha M, Kruchko C, Barnholtz-Sloan JS (* shared first author)
+  authors: Ostrom QT \*, Cote DJ \*, Ascha M, Kruchko C, Barnholtz-Sloan JS (* shared first author)
   link:
     url: http://doi.org/101001/jamaoncol20181789
     display: JAMA Oncol 2018 Sep 1;4(9):1254-1262
