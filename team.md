@@ -25,7 +25,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 
 ## Staff
 
-{% assign number_printed = 1 %}
+{% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 0 %}
@@ -54,7 +54,6 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endif %}
 {% assign number_printed = number_printed | plus: 1 %}
 {% endfor %}
-
 {% if even_odd == 0 %}
 </div>
 {% endif %}
@@ -71,33 +70,33 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
+<h4>{{ member.name }}</h4>
+<i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+<ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+{% if member.number_educ == 1 %}
+<li> {{ member.education1 }} </li>
+{% endif %}
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
+{% if member.number_educ == 2 %}
+<li> {{ member.education1 }} </li>
+<li> {{ member.education2 }} </li>
+{% endif %}
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
+{% if member.number_educ == 3 %}
+<li> {{ member.education1 }} </li>
+<li> {{ member.education2 }} </li>
+<li> {{ member.education3 }} </li>
+{% endif %}
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
+{% if member.number_educ == 4 %}
+<li> {{ member.education1 }} </li>
+<li> {{ member.education2 }} </li>
+<li> {{ member.education3 }} </li>
+<li> {{ member.education4 }} </li>
+{% endif %}
 
-  </ul>
+</ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -126,11 +125,11 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
+<h4>{{ member.name }}</h4>
+<i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+<ul style="overflow: hidden">
 
-  </ul>
+</ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -145,3 +144,6 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+**We are looking for new students and collaborators to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
