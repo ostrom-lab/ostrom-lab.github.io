@@ -11,8 +11,7 @@ permalink: /team/
 Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#alumni).
 
 <div class="row">
-  <div class="social" style="float: right"> <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"></a>   <a href="https://twitter.com/qostrom"> <img src="https://ostrom-lab.github.io/images/Twitter_new_X_logo.png" height=15 width=15 class="img-responsive"></a> </div>
-  <h4>Quinn Ostrom  </h4> 
+  <h4>Quinn Ostrom  <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=15 width=15 class="img-responsive"></a>   <a href="https://twitter.com/qostrom"> <img src="https://ostrom-lab.github.io/images/Twitter_new_X_logo.png" height=15 width=15 class="img-responsive"></a> </h4
   <i>Assistant Professor of <a href="https://neurosurgery.duke.edu/">Neurosurgery</a> and <a href="https://populationhealth.duke.edu/">Population Health Sciences</a>, started Jan 2021 <br>email: quinn.ostrom@duke.edu</i> 
   <ul style="overflow: hidden">
   <li> BS in Anthropology, Michigan State University </li>
@@ -70,33 +69,32 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-<h4>{{ member.name }}</h4>
-<i>{{ member.info }} <!-- <br>email: <{{ member.email }}> --></i>
-<ul style="overflow: hidden">
-
-{% if member.number_educ == 1 %}
-<li> {{ member.education1 }} </li>
-{% endif %}
-
-{% if member.number_educ == 2 %}
-<li> {{ member.education1 }} </li>
-<li> {{ member.education2 }} </li>
-{% endif %}
-
-{% if member.number_educ == 3 %}
-<li> {{ member.education1 }} </li>
-<li> {{ member.education2 }} </li>
-<li> {{ member.education3 }} </li>
-{% endif %}
-
-{% if member.number_educ == 4 %}
-<li> {{ member.education1 }} </li>
-<li> {{ member.education2 }} </li>
-<li> {{ member.education3 }} </li>
-<li> {{ member.education4 }} </li>
-{% endif %}
-
-</ul>
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}> --></i>
+  <ul style="overflow: hidden">
+  
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -127,9 +125,6 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 <div class="col-sm-6 clearfix">
 <h4>{{ member.name }}</h4>
 <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-<ul style="overflow: hidden">
-
-</ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
