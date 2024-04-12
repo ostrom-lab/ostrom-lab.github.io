@@ -25,7 +25,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 
 ## Staff
 
-{% assign number_printed = 0 %}
+{% assign number_printed = 1 %}
 {% for member in site.data.team_members %}
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 0 %}
