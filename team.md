@@ -47,7 +47,10 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 <li> {{ member.education2 }} </li>
 <li> {{ member.education3 }} </li>
 {% endif %}
-</ul></div>
+</ul>
+{::nomarkdown}
+</div>
+{:/nomarkdown}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
