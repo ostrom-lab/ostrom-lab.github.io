@@ -42,7 +42,7 @@
 - title: "Capturing evolving definitions of 12 select rare CNS tumors: a timely report from CBTRUS and NCI-CONNECT"
   description: This analysis, completed in collaboration with the National Cancer Institute’s NCI-CONNECT program, presents incidence, survival, and prevalence estimates for a selection of rare tumor histopathologies that are the focus of the NCI-CONNECT program.
   image: "NCIConnect_Figure1.png"
-  authors: Price M+, Neff C+, Kruchko C, Barnholtz-Sloan JS, Cordeiro BB, Penas-Prado M, Ozer BH, Cimino PJ, Gilbert MR, Armstrong TS*, Ostrom QT* (* shared senior authors)
+  authors: Price M+, Neff C+, Kruchko C, Barnholtz-Sloan JS, Cordeiro BB, Penas-Prado M, Ozer BH, Cimino PJ, Gilbert MR, Armstrong TS^, Ostrom QT^ (^ shared senior authors)
   link:
     url: http://doi.org/10.1007/s11060-023-04480-7
     display: J Neurooncol. 2023 Nov;165(2):279-290.
@@ -83,7 +83,7 @@
 
 - title: "Childhood, adolescent, and adult primary brain and central nervous system tumor statistics for practicing healthcare providers in neuro-oncology, CBTRUS 2015-2019"
   description: A special, condensed CBTRUS Statistical Report designed to be a streamlined and useful resource for practicing clinicians.
-  authors: Price M+*,  Ryan K*, Shoaf ML*, Neff C,  Iorgulescu JB, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS^, Ostrom QT^ (* shared first author; ^ shared senior author)
+  authors: Price M+ *,  Ryan K *, Shoaf ML *, Neff C,  Iorgulescu JB, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS^, Ostrom QT^ (* shared first author; ^ shared senior author)
   link:
     url: http://doi.org/10.1093/nop/npad061
     display: Neuro-Oncology Practice. 2023. 
@@ -116,7 +116,7 @@
 
 - title: "The association of Medicaid expansion and pediatric cancer overall survival"
   description: 
-  authors: Barnes JM*,  Neff C+*,   Han X,  Kruchko C, Barnholtz-Sloan JS, Ostrom QT^, Johnson KJ^ (* shared first author; ^ shared senior author)
+  authors: Barnes JM *,  Neff C+ *,   Han X,  Kruchko C, Barnholtz-Sloan JS, Ostrom QT^, Johnson KJ^ (* shared first author; ^ shared senior author)
   link:
     url: http://doi.org/10.1093/jnci/djad024
     display: J Natl Cancer Inst. 2023 Jun 8;115(6):749-752.
@@ -125,7 +125,7 @@
 - title: "The joint impacts of sex and race/ethnicity on incidence of grade 1 versus grades 2-3 meningioma across the lifespan"
   description: This manuscript assesses the relationship between sex, age, and race/ethnicity on the incidence of grade 1 and grades 2-3 meningioma in the United State
   image: "m_vdad020f0001.jpeg"
-  authors: Walsh KM*, Price M+*,  Neff C+,  Komisarow KM, Wimberly CE, Kruchko C, Barnholtz-Sloan JS, Ostrom QT (* shared first author)
+  authors: Walsh KM *, Price M+ *,  Neff C+,  Komisarow KM, Wimberly CE, Kruchko C, Barnholtz-Sloan JS, Ostrom QT (* shared first author)
   link:
     url: http://doi.org/10.1093/noajnl/vdad020
     display: Neurooncol Adv. 2023 Jun 3;5(Suppl 1):i5-i12.
@@ -157,7 +157,7 @@
 
 - title: "Molecular Biomarker-Defined Brain Tumors: Epidemiology, Accuracy, and Completeness in the United States"
   description: This analysis investigated the completeness and validity of the novel brain molecular markers (BMM) site-specific data item after its first year of collection.
-  authors: Iorgulescu JB*, Sun C+*,  Neff C,  Cioffi G, Gutierrez C, Kruchko C, Ruhl J, Waite K, Negoita S, Hoffercamp J, Tihan T, McLendon R, Brat DJ, Ostrom QT^, Barnholtz-Sloan JS^ (* shared first author; ^ shared senior author)
+  authors: Iorgulescu JB *, Sun C+ *,  Neff C,  Cioffi G, Gutierrez C, Kruchko C, Ruhl J, Waite K, Negoita S, Hoffercamp J, Tihan T, McLendon R, Brat DJ, Ostrom QT^, Barnholtz-Sloan JS^ (* shared first author; ^ shared senior author)
   link:
     url: http://doi.org/10.1093/neuonc/noac113
     display: Neuro Oncol. 2022 Nov 2;24(11):1989-2000.
@@ -173,7 +173,7 @@
 
 - title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2015-2019"
   description: 
-  authors: Ostrom QT*, Price M+*,  Neff C,  Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS (* shared first author)
+  authors: Ostrom QT *, Price M+ *,  Neff C,  Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS (* shared first author)
   link:
     url: http://doi.org/10.1093/neuonc/noac202
     display: Neuro Oncol. 2022 Oct 5;24(Supplement_5):v1-v95.
@@ -262,7 +262,7 @@
 
 - title: "Primary brain and other central nervous system tumors in the United States (2014-2018): A summary of the CBTRUS statistical report for clinicians"
   description: 
-  authors: Low J*, Ostrom QT*, Cioffi G, Neff C+,  Waite KA, Kruchko C, Barnholtz-Sloan JS (* shared first author)
+  authors: Low J *, Ostrom QT *, Cioffi G, Neff C+,  Waite KA, Kruchko C, Barnholtz-Sloan JS (* shared first author)
   link:
     url: http://doi.org/10.1093/nop/npac015
     display: Neurooncol Pract. 2022 Feb 22;9(3):165-182.
@@ -407,7 +407,7 @@
 
 - title: "Glioma risk associated with extent of estimated European genetic ancestry in African Americans and Hispanics"
   description: 
-  image: "ijc32318-fig-0003-m.jpeg"
+  image: "ijc32318-fig-0003-m.jpg"
   authors: Ostrom QT, Egan KM, Nabors LB, Gerke T, Thompson RC, Olson JJ, LaRocca R, Chowdhary S, Eckel-Passow JE, Armstrong G, Wiencke JK, Bernstein JL, Claus EB, Ilyasova D, Johansen C, Lachance DH, Lai RK, Merrell RT, Olson SH, Sadetzki S, Schildkraut JM, Shete S, Houlston RS, Jenkins RB, Wrensch MR, Melin B, Amos CI, Huse JT, Barnholtz-Sloan JS, Bondy ML
   link:
     url: https://doi.org/10.1002/ijc.32318
@@ -440,7 +440,7 @@
 
 - title: "Aspirin, NSAIDs, and Glioma Risk: Original Data from the Glioma International Case-Control Study and a Meta-analysis"
   description: 
-  authors: Amirian ES*, Ostrom QT*, Armstrong GN, Lai RK, Gu X, Jacobs DI, Jalali A, Claus EB, Barnholtz-Sloan JS, Ilyasova D, Schildkraut JM, Ali-Osman F, Sadetzki S, Jenkins RB, Lachance DH, Olson SH, Bernstein JL, Merrell RT, Wrensch MR, Johansen C, Houlston RS, Scheurer ME, Shete S, Amos CI, Melin B, Bondy ML (* shared first author)
+  authors: Amirian ES *, Ostrom QT *, Armstrong GN, Lai RK, Gu X, Jacobs DI, Jalali A, Claus EB, Barnholtz-Sloan JS, Ilyasova D, Schildkraut JM, Ali-Osman F, Sadetzki S, Jenkins RB, Lachance DH, Olson SH, Bernstein JL, Merrell RT, Wrensch MR, Johansen C, Houlston RS, Scheurer ME, Shete S, Amos CI, Melin B, Bondy ML ( * shared first author)
   link:
     url: http://doi.org/101158/1055-9965EPI-18-0702
     display: Cancer Epidemiol Biomarkers Prev 2019 Mar;28(3):555-562
