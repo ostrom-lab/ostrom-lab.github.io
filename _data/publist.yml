@@ -124,7 +124,7 @@
 
 - title: "The joint impacts of sex and race/ethnicity on incidence of grade 1 versus grades 2-3 meningioma across the lifespan"
   description: This manuscript assesses the relationship between sex, age, and race/ethnicity on the incidence of grade 1 and grades 2-3 meningioma in the United State
-  image: "m_vdad020f0001.jpg"
+  image: "m_vdad020f0001.jpeg"
   authors: Walsh KM*, Price M+*,  Neff C+,  Komisarow KM, Wimberly CE, Kruchko C, Barnholtz-Sloan JS, Ostrom QT (* shared first author)
   link:
     url: http://doi.org/10.1093/noajnl/vdad020
@@ -407,9 +407,10 @@
 
 - title: "Glioma risk associated with extent of estimated European genetic ancestry in African Americans and Hispanics"
   description: 
+  image: "ijc32318-fig-0003-m.jpeg"
   authors: Ostrom QT, Egan KM, Nabors LB, Gerke T, Thompson RC, Olson JJ, LaRocca R, Chowdhary S, Eckel-Passow JE, Armstrong G, Wiencke JK, Bernstein JL, Claus EB, Ilyasova D, Johansen C, Lachance DH, Lai RK, Merrell RT, Olson SH, Sadetzki S, Schildkraut JM, Shete S, Houlston RS, Jenkins RB, Wrensch MR, Melin B, Amos CI, Huse JT, Barnholtz-Sloan JS, Bondy ML
   link:
-    url: http://doi.org/101002/ijc32318
+    url: https://doi.org/10.1002/ijc.32318
     display: Int J Cancer 2020 Feb 1;146(3):739-748
   highlight: 1
 
