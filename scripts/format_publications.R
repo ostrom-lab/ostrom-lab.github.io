@@ -1,9 +1,9 @@
 librarian::shelf(tinytex, tidyverse,knitr,kableExtra,readxl)
 
-source("C:\\Users\\qo\\OneDrive - Duke University\\CV\\CV_files\\CV_scripts.R")
+source("C:\\Users\\qo\\OneDrive - Duke University\\Ongoing_Projects\\CV\\CV_files\\CV_scripts.R")
 
 
-peerreview <- readxl::read_excel("C:\\Users\\qo\\OneDrive - Duke University\\CV\\CV_files/Publications.xlsx",sheet="PeerReviewed") %>%
+peerreview <- readxl::read_excel("C:\\Users\\qo\\OneDrive - Duke University\\Ongoing_Projects\\CV\\CV_files/Publications.xlsx",sheet="PeerReviewed") %>%
   CleanPubs() %>%
   filter((!is.na(Create.Date) | !is.na(Publication.Year2) | !is.na(DOI)) & include_website ==1) %>%
   arrange(-as.numeric(Publication.Year),-Publication.Month,-Publication.Day)
