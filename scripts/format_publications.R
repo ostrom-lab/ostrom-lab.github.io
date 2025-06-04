@@ -8,7 +8,7 @@ peerreview <- readxl::read_excel("C:\\Users\\qo\\OneDrive - Duke University\\Ong
   filter((!is.na(Create.Date) | !is.na(Publication.Year2) | !is.na(DOI)) & include_website ==1) %>%
   arrange(-as.numeric(Publication.Year),-Publication.Month,-Publication.Day)
 
-sink("_data/publist.yml")
+sink("_data/publist.txt")
 for (a in 1:nrow(peerreview)) {
   cat(paste("- title: \"",peerreview$Title[a],"\"",sep=""))
   cat("\n")

@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-**At the end of this page, you can find the [full list of selected publication](#Selected-publications).**
+**At the end of this page, you can find a [full list of publication](#Selected-publications).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -26,7 +26,9 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+  {% if  publi.image contains "." %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  {% endif  %}
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
@@ -53,7 +55,6 @@ permalink: /publications/
 
 
 ## Selected publications
-__+ indicates lab member__
 
 {% for publi in site.data.publist %}
 
