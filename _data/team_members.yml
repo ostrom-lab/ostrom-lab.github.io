@@ -1,23 +1,33 @@
 - name: Christine Ballard
   info: Research Analyst, started February 2024
+  bio: Christine is an epidemiologist specializing in the intricate relationship between genetics and pharmaceutical therapies in the field of neuro-oncology.
+  headshot: 001_Christine_Ballard_print.jpg
   orcid: 0000-0002-1173-3803
+  linkedin: christine-pittman-ballard-mph-5a206528
   number_educ: 3
-  education1: BA, University of Rochester
-  education2: MPH, SUNY at Albany
-  education3: PhD Student, University of North Carolina at Chapel Hill
+  education1: BA, Archaeology, Technology, Historical Structures,<a href="https://www.rochester.edu/college/aths/index.html">University of Rochester</a>
+  education2: MPH, Biomedical Science and Emerging Infectious Diseases, <a href="https://www.albany.edu/sph">SUNY University at Albany, School of Public Health</a>
+  education3: PhD Student in Pharmacoepidemiology and Genetic Epidemiology, <a href="https://sph.unc.edu/epid/epidemiology-landing/">Gilling School of Global Public Health at the University of North Carolina, Chapel Hill</a>
 
 - name: Julia Benedetti
   info: Biostatistician, started June 2024
+  bio: 
+  headshot: 
+  orcid: 
+  linkedin: 
   number_educ: 2
   education1: BS, University of Tampa
-  education2: MS, Duke University School of Medicine
+  education2: MSB, Biostatistics, <a href="https://biostat.duke.edu/">Duke University School of Medicine</a>
   
 - name: Mackenzie Price
   info: Research Analyst, April 2022-September 2023 (Now affiliated Research Analyst at <a href="http://cbtrus.org">CBTRUS</a>)
+  bio: Ms. Price has worked in the medical field for more than 10 years including having served five years in the United States Army as a field medic.
+  headshot: Mackenzie_bio-pic_8-16-2022-2.jpg
   orcid: 0000-0001-6369-0609
+  linkedin: 
   number_educ: 2
-  education1: BA, University of North Carolina at Chapel Hill
-  education2: MPH, University of California at Berkeley
+  education1: BA, Biology, University of North Carolina at Chapel Hill
+  education2: MPH, Epidemiology and Biostatistics, University of California at Berkeley
 
 
 

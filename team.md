@@ -11,13 +11,18 @@ permalink: /team/
 Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#alumni).
 
 <div class="row">
-  <h4 style="display: inline;">Quinn Ostrom  <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=20 width=20 style="display: inline;"></a>   <a href="https://twitter.com/qostrom"> <img src="https://ostrom-lab.github.io/images/Twitter_new_X_logo.png" height=15 width=15 style="display: inline;"></a> </h4><br>
-  <i>Assistant Professor of <a href="https://neurosurgery.duke.edu/">Neurosurgery</a> and <a href="https://populationhealth.duke.edu/">Population Health Sciences</a>, started Jan 2021 <br>email: quinn.ostrom@duke.edu</i> 
+  <h4 style="display: inline;">Quinn Ostrom  <a href="https://orcid.org/0000-0003-3469-7558"> 
+  <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=20 width=20 style="display: inline;"></a>  
+    <a href="https://scholar.google.com/citations?user=h_y7RyIAAAAJ&hl=en"> <img src="https://ostrom-lab.github.io/images/google-scholar-logo-freelogovectors.net_-400x400.png" height=15 width=15 style="display: inline;"></a> </h4><br>
+  <a href="https://bsky.app/profile/qostrom.bsky.social"> <img src="https://ostrom-lab.github.io/images/Bluesky_Logo.png" height=15 width=15 style="display: inline;"></a> </h4><br>
+  <a href="https://www.linkedin.com/in/quinnostrom/"> <img src="https://ostrom-lab.github.io/images/linkedin-icon-logo-png-transparent.png" height=15 width=15 style="display: inline;"></a> </h4><br>
+  <img src="https://ostrom-lab.github.io/images/headshots/69-Quinn Ostrom-Neuro Oncology_35_cropped.png",style="float: right;">
+  <i>Assistant Professor of <a href="https://neurosurgery.duke.edu/">Neurosurgery</a> and <a href="https://populationhealth.duke.edu/">Population Health Sciences</a>, started Jan 2021 <br>email: quinn.ostrom at duke.edu</i> 
   <ul style="overflow: hidden">
   <li> BS in Anthropology, Michigan State University </li>
   <li> MPH, Case Western Reserve University</li>
   <li> PhD in Genetic Epidemiology and Bioinformatics, <a href="https://case.edu/medicine/pqhs/">Case Western Reserve University</a> with <a href="https://dceg.cancer.gov/about/staff-directory/barnholtz-sloan-jill">Jill Barnholtz-Sloan</a> (now @ NCI) </li>
- <li> Cancer Prevention Research Institute of Texas (CPRIT) Post-Graduate Training Program in Integrative Cancer Epidemiology @ <a href="https://www.bcm.edu/departments/medicine/sections/epidemiology-and-population-sciences">Baylor College of Medicine, Section of Epidemiology & Population Science</a> with <a href="https://med.stanford.edu/profiles/melissa-bondy">Melissa Bondy</a> (now @ Stanford).
+  <li> Cancer Prevention Research Institute of Texas (CPRIT) Post-Graduate Training Program in Integrative Cancer Epidemiology @ <a href="https://www.bcm.edu/departments/medicine/sections/epidemiology-and-population-sciences">Baylor College of Medicine, Section of Epidemiology & Population Science</a> with <a href="https://med.stanford.edu/profiles/melissa-bondy">Melissa Bondy</a> (now @ Stanford).
  </li>
   </ul>
 </div>
@@ -31,8 +36,17 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 <div class="row">
 {% endif %}
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }} <a href="https://orcid.org/{{ member.orcid }}"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=20 width=20 style="display: inline;"></a></h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i>
+  <h4>{{ member.name }} 
+  {% if unless member.orcid == "" %}
+  <a href="https://orcid.org/{{ member.orcid }}"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=20 width=20 style="display: inline;"></a>
+  {% endif %}
+  {% if unless  member.linkedin == "" %}
+  <a href="https://www.linkedin.com/in/{{ member.linkedin }}"> <img src="https://ostrom-lab.github.io/images/linkedin-icon-logo-png-transparent.png" height=20 width=20 style="display: inline;"></a>
+  {% endif %}
+  </h4>
+  <img src="https://ostrom-lab.github.io/images/headshots/ {{ member.headshot}}",style="float: right;">
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i> <br>
+  {{ member.bio}}
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -140,5 +154,5 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 </div>
 {% endif %}
 
-**We are looking for new students and collaborators to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are always looking for new students and collaborators to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
