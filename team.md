@@ -16,7 +16,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
     <a href="https://scholar.google.com/citations?user=h_y7RyIAAAAJ&hl=en"> <img src="https://ostrom-lab.github.io/images/google-scholar-logo-freelogovectors.net_-400x400.png" height=15 width=15 style="display: inline;"></a> 
   <a href="https://bsky.app/profile/qostrom.bsky.social"> <img src="https://ostrom-lab.github.io/images/Bluesky_Logo.png" height=15 width=15 style="display: inline;"></a> 
   <a href="https://www.linkedin.com/in/quinnostrom/"> <img src="https://ostrom-lab.github.io/images/linkedin-icon-logo-png-transparent.png" height=15 width=15 style="display: inline;"></a> </h4><br>
-  <img src="https://ostrom-lab.github.io/images/headshots/69-QuinnOstrom-NeuroOncology_35_cropped.png",style="display: inline; float: right;">
+  <img src="https://ostrom-lab.github.io/images/headshots/69-QuinnOstrom-NeuroOncology_35_cropped.png" style="display: inline; float: left;" width=100>
   <i>Assistant Professor of <a href="https://neurosurgery.duke.edu/">Neurosurgery</a> and <a href="https://populationhealth.duke.edu/">Population Health Sciences</a>, started Jan 2021 <br>email: quinn.ostrom at duke.edu</i> 
   <ul style="overflow: hidden">
   <li> BS in Anthropology, Michigan State University </li>
@@ -44,7 +44,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
   <a href="{{ member.linkedin }}"> <img src="https://ostrom-lab.github.io/images/linkedin-icon-logo-png-transparent.png" height=20 width=20 style="display: inline;"></a>
   {% endif  %}
   </h4>
-  <img src="https://ostrom-lab.github.io/images/headshots/ {{ member.headshot}}",style="float: right;">
+  <img src="https://ostrom-lab.github.io/images/headshots/ {{ member.headshot}}" style="float: left;" width=100>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i> <br>
   {{ member.bio}}
   <ul style="overflow: hidden">
