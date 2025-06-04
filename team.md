@@ -37,12 +37,12 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endif %}
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }} 
-  {% if unless member.orcid == "" %}
+  {% unless member.orcid == "" %}
   <a href="https://orcid.org/{{ member.orcid }}"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=20 width=20 style="display: inline;"></a>
-  {% endif %}
-  {% if unless  member.linkedin == "" %}
+  {% endunless  %}
+  {% unless  member.linkedin == "" %}
   <a href="https://www.linkedin.com/in/{{ member.linkedin }}"> <img src="https://ostrom-lab.github.io/images/linkedin-icon-logo-png-transparent.png" height=20 width=20 style="display: inline;"></a>
-  {% endif %}
+  {% endunless  %}
   </h4>
   <img src="https://ostrom-lab.github.io/images/headshots/ {{ member.headshot}}",style="float: right;">
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i> <br>
