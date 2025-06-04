@@ -24,7 +24,7 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
+ <div class="well" style="overflow: hidden">
   <pubtit>{{ publi.title }}</pubtit>
   {% if  publi.image contains "." %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
