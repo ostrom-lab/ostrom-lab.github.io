@@ -44,7 +44,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
   <a href="{{ member.linkedin }}"> <img src="https://ostrom-lab.github.io/images/linkedin-icon-logo-png-transparent.png" height=20 width=20 style="display: inline;"></a>
   {% endif  %}
   </h4>
-  <img src="https://ostrom-lab.github.io/images/headshots/ {{ member.headshot}}" style="float: left;" width=100>
+  <img src="https://ostrom-lab.github.io/images/headshots/{{ member.headshot}}" style="float: left;" width=100>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i> <br>
   {{ member.bio}}
   <ul style="overflow: hidden">
