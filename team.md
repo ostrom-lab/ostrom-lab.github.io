@@ -11,12 +11,12 @@ permalink: /team/
 Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#alumni).
 
 <div class="row">
-  <h4 style="display: inline;">Quinn Ostrom  <a href="https://orcid.org/0000-0003-3469-7558"> 
-  <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=20 width=20 style="display: inline;"></a>  
-    <a href="https://scholar.google.com/citations?user=h_y7RyIAAAAJ&hl=en"> <img src="https://ostrom-lab.github.io/images/google-scholar-logo-freelogovectors.net_-400x400.png" height=15 width=15 style="display: inline;"></a> </h4><br>
-  <a href="https://bsky.app/profile/qostrom.bsky.social"> <img src="https://ostrom-lab.github.io/images/Bluesky_Logo.png" height=15 width=15 style="display: inline;"></a> </h4><br>
+  <h4 style="display: inline;">Quinn Ostrom  
+  <a href="https://orcid.org/0000-0003-3469-7558"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=20 width=20 style="display: inline;"></a>  
+    <a href="https://scholar.google.com/citations?user=h_y7RyIAAAAJ&hl=en"> <img src="https://ostrom-lab.github.io/images/google-scholar-logo-freelogovectors.net_-400x400.png" height=15 width=15 style="display: inline;"></a> 
+  <a href="https://bsky.app/profile/qostrom.bsky.social"> <img src="https://ostrom-lab.github.io/images/Bluesky_Logo.png" height=15 width=15 style="display: inline;"></a> 
   <a href="https://www.linkedin.com/in/quinnostrom/"> <img src="https://ostrom-lab.github.io/images/linkedin-icon-logo-png-transparent.png" height=15 width=15 style="display: inline;"></a> </h4><br>
-  <img src="https://ostrom-lab.github.io/images/headshots/69-Quinn Ostrom-Neuro Oncology_35_cropped.png",style="float: right;">
+  <img src="https://ostrom-lab.github.io/images/headshots/69-QuinnOstrom-NeuroOncology_35_cropped.png",style="display: inline; float: right;">
   <i>Assistant Professor of <a href="https://neurosurgery.duke.edu/">Neurosurgery</a> and <a href="https://populationhealth.duke.edu/">Population Health Sciences</a>, started Jan 2021 <br>email: quinn.ostrom at duke.edu</i> 
   <ul style="overflow: hidden">
   <li> BS in Anthropology, Michigan State University </li>
@@ -37,12 +37,12 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 {% endif %}
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }} 
-  {% unless member.orcid == "" %}
+  {% if member.orcid contains "0000" %}
   <a href="https://orcid.org/{{ member.orcid }}"> <img src="https://ostrom-lab.github.io/images/512px-ORCID_iD.svg.png" height=20 width=20 style="display: inline;"></a>
-  {% endunless  %}
-  {% unless  member.linkedin == "" %}
-  <a href="https://www.linkedin.com/in/{{ member.linkedin }}"> <img src="https://ostrom-lab.github.io/images/linkedin-icon-logo-png-transparent.png" height=20 width=20 style="display: inline;"></a>
-  {% endunless  %}
+  {% endif  %}
+  {% if member.linkedin contains  "linkedin" %}
+  <a href="{{ member.linkedin }}"> <img src="https://ostrom-lab.github.io/images/linkedin-icon-logo-png-transparent.png" height=20 width=20 style="display: inline;"></a>
+  {% endif  %}
   </h4>
   <img src="https://ostrom-lab.github.io/images/headshots/ {{ member.headshot}}",style="float: right;">
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i> <br>
