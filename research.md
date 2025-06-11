@@ -37,9 +37,3 @@ We are interested in identifying individual, genetic, and environmental factors 
 
 <h4>Epidemiology of brain metastasis</h4>
 Metastatic brain tumors are the most common type of malignancy that occurs in the brain, and represent an increasing source of cancer morbidity and mortality as new treatments extend survival in cancers that commonly metastasize to the brain (e.g. lung cancer, melanoma, and breast cancer). We are interested in identifying individuals at variable risk for development of brain metastatis, as well as factors that affect overall survival in those that develop metastatic brain tumors.
-
-<h4>We love collaborating!</h4>
-
-Reach out to Dr. Ostrom via email if you have ideas for potential ways we could work together. 
-
-<a href="https://cbtrus.org/contact-us-request-database/">CBTRUS-specific data requests can be submitted on the CBTRUS website</a>. 
