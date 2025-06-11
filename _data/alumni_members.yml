@@ -1,6 +1,7 @@
 - name: Corey Neff
   duration: In the Ostrom Lab 2021 - 2024 as Biostatistician
   number_educ: 1
+  highlight: 
 
 - name: Chuxuan Sun 
   duration: In the Ostrom Lab 2021 - 2022 as BCTIP Intern and for thesis
@@ -11,11 +12,13 @@
   duration: In the Ostrom Lab 2022 - 2023 as BCTIP Intern
   number_educ: 1
   education1: MS in Biostatistics, Duke University School of Medicine
+  highlight: 
 
 - name: Rodrigo De La Vega Gomar
   duration: In the Ostrom Lab 2023 as visiting student researcher
   number_educ: 1
   education1: BS from Duke Kunshan University
+  highlight: 
   
 - name: Keisha Bansal
   info: Intern from North Carolina School for Science and Math from 2022-2023
@@ -25,3 +28,9 @@
 - name: Jiah Lee
   info: Intern from North Carolina School for Science and Math from 2024-2025
   number_educ: 0
+
+- name: Hillary Hsu
+
+- name: Nitin Nagarajan
+
+- name: Sangami Pugazenthi

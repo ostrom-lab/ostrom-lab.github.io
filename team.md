@@ -45,7 +45,7 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
   {% endif  %}
   </h4>
   <img src="https://ostrom-lab.github.io/images/headshots/{{ member.headshot}}" style="float: left;" width=100>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i> <br>
+  <i>{{ member.info }} </i> <br>
   {{ member.bio}}
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
@@ -139,6 +139,12 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 <div class="col-sm-6 clearfix">
 <h4>{{ member.name }}</h4>
 <i>{{ member.duration }}</i>
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+  {% if member.highlight contains  "a" %}
+  <li> {{  member.highlight  }} </li>
+  {% endif  %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
