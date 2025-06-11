@@ -8,13 +8,8 @@ permalink: /vacancies
 
 # Open positions
 
-### Master projects for Duke University School of Medicine Students
-If you are a Master student at Duke University School of Medicine looking for a thesis project, contact Dr. Ostrom by email.
+## Students and trainees
 
-### Undergraduates from Duke University 
-If you are interested in research opportunities, we regularly post positions on [Muser(https://muser.duke.edu/)
-
-### Undergraduates, Graduate Students, Medical Students, or other Trainees from elsewhere
-While we have limited capacity to take on new projects, feel free to contact Dr. Ostrom by email.
+If you are interested in working on research in our group, please fill out our [student research interest form](https://forms.gle/w9gagUedxi4g5e3Z7). For Duke Undergraduates,  we also regularly post positions on [Muser](https://muser.duke.edu/). 
 
 
