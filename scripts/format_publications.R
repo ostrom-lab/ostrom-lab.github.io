@@ -20,7 +20,7 @@ for (a in 1:nrow(peerreview)) {
     cat(paste("  description: ",peerreview$description[a],sep=""))
    cat("\n")
   }
-  cat(paste("  authors: ",peerreview$Authors[a],sep=""))
+  cat(paste("  authors: ",gsub("\\*","",peerreview$Authors[a]),sep=""))
   cat("\n")
   cat("  link:")
   cat("\n")
