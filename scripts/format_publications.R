@@ -16,8 +16,10 @@ for (a in 1:nrow(peerreview)) {
     cat(paste("  image: \"",peerreview$image[a],"\"",sep=""))
     cat("\n")
   }
-  cat(paste("  description: ",peerreview$description[a],sep=""))
-  cat("\n")
+  if (!is.na(peerreview$description[a])) {
+    cat(paste("  description: ",peerreview$description[a],sep=""))
+   cat("\n")
+  }
   cat(paste("  authors: ",peerreview$Authors[a],sep=""))
   cat("\n")
   cat("  link:")
@@ -27,7 +29,13 @@ for (a in 1:nrow(peerreview)) {
   cat(paste("    display: ",ifelse(!is.na(peerreview$Citation[a]),gsub(" doi:.*","",peerreview$Citation[a]),
                                           paste(peerreview$Journal.Book[a],". ",peerreview$Publication.Year[a],". ",sep="")),sep=""))
   cat("\n")
-  cat(paste("  highlight: ",peerreview$highlight[a],sep=""))
+  if (!is.na(peerreview$image[a])) {
+   cat(paste("  highlight: ",peerreview$highlight[a],sep=""))
+  }
+  else {
+    cat("  highlight: 0")
+    
+  }
   cat("\n")
   cat("\n")
 }
