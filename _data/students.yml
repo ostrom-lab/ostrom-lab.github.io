@@ -1,8 +1,16 @@
-- name: Jack Shaw 
-
-- name: Justin Zhao
-
 - name: Kaeden Koons-Perdikis
+  number_educ: 1
+  education1: Undergraduate at Duke University
+
+- name: Tara Dalton
+  number_educ: 3
+  education1: BS, Duke University
+  education2: MD, Duke University School of Medicine
+  education3: Current Neurosurgery Resident at Duke University School of Medicine
+  
+- name: Tori Hart
+  number_educ: 1
+  education1: Current medical student at Duke University School of Medicine
 
 
 
