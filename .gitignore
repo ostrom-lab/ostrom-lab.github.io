@@ -6,3 +6,5 @@ vendor
 .Rproj.user
 .ai
 .Rproj
+.DS_Store
+.Rhistory
