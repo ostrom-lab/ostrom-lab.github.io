@@ -1,94 +1,158 @@
+- title: "The Effect of Sex on Vestibular Schwannoma Incidence Varies Across the Lifespan and Modifies Associations with Race/Ethnicity"
+  description: NA
+  authors: Parmar KV, Price M, Adil SM, *Benedetti JR*, Kruchko C, Walsh KM, **Ostrom QT**
+  link:
+    url: http://doi.org/10.1007/s11060-026-05448-z
+    display: J Neurooncol. 2026 Feb 18;177(1):4.
+  highlight: NA
+
+- title: "Androgen Loss Accelerates Brain Tumour Growth via HPA Axis Activation"
+  description: NA
+  authors: Lee J, Chung YM, Silver DJ, Hao Y, Harwood DSL, Ealy A, Serapiglia AM, Curtin L, *Benedetti JR*, *Ballard CAP*, Lapsley K, Alvarez-Vazquez A, Goldberg J, Li C, Kaur S, Neal R, Wang SZ, Kay KE, Volovetz J, Hong ES, Fodor R, Jarmula J, Nicosia M, Rubin JB, Swanson KR, **Ostrom QT**, Panicker N, Kristensen BW, Berens M, Sharifi N, Lathia JD.
+  link:
+    url: http://doi.org/10.1038/s41586-026-10451-5
+    display: Nature. 2026 May 6.
+  highlight: NA
+
+- title: "Improvements in Survival for Glioblastoma in the Post-Stupp Protocol Era"
+  description: NA
+  authors: *Price M*, Low JT, Chavez G, Conlon P, Avgeropoulos N, Kruchko C, Cioffi G, Waite KA, Barnholtz-Sloan JS, **Ostrom QT**
+  link:
+    url: http://doi.org/10.1093/neuonc/noaf134
+    display: Neuro Oncol. 2025 Jul 22:noaf134.
+  highlight: NA
+
+- title: "Atopy Improves Survival and Decreases Risk of Brain Metastasis in Cutaneous Melanoma"
+  description: NA
+  authors: *Neff C*, *Price M*, *Ballard CAP*, Cioffi G, *Liu Z*, Walsh R, Barnholtz-Sloan JS, Walsh KM, Salama AKS, Anders C, Fecci PE, **Ostrom QT**
+  link:
+    url: http://doi.org/10.1158/1055-9965.EPI-24-1212
+    display: Cancer Epidemiol Biomarkers Prev. 2025 Jun 23.
+  highlight: NA
+
+- title: "Years of Life Lost Due to Central Nervous System Tumor Subtypes in the United States"
+  description: NA
+  authors: Gerstl J, Bernstock J,  *Price M*, Kruchko C, Spanehl L, Karandikar P, Barnholtz-Sloan J, Smith TR, Claus E, **Ostrom QT**
+  link:
+    url: http://doi.org/10.1093/neuonc/noaf142
+    display: Neuro Oncol. 2025 Jun 15:noaf142.
+  highlight: NA
+
+- title: "Determinants of Geographic Variation in the Incidence of Adult Nonmalignant Meningioma in the United States, 2010-2019."
+  description: NA
+  authors: Withrow DR, Boyle J, Linet MS, *Pittman Ballard CA*, Cioffi G, Kruchko C, Miller DL, Petkov VI, *Price M*, Waite K, **Ostrom QT+**, Barnholtz-Sloan JS+
+  link:
+    url: http://doi.org/10.1002/cncr.70042
+    display: Cancer. 2025 Sep 15;131(18):e70042.
+  highlight: NA
+
+- title: "CBTRUS Statistical Report: Pediatric Brain Tumor Foundation Childhood and Adolescent Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2017-2021"
+  description: NA
+  authors: *Price M*, *Ballard CAP*, *Benedetti JR*, Kruchko C, Barnholtz-Sloan JS, **Ostrom QT**
+  link:
+    url: http://doi.org/10.1093/neuonc/noaf168
+    display: Neuro Oncol. 2025 Sep 15;27(Supplement_1):i1-i42.
+  highlight: NA
+
+- title: "Epidemiology and Survival of Adolescents and Young Adults with Brain Metastases Versus Older Adults"
+  description: NA
+  authors: Kann MR, Srinivasan E, *Benedetti JR*, **Ostrom QT**, Iorgulescu JB
+  link:
+    url: http://doi.org/10.1007/s11060-025-05332-2
+    display: J Neurooncol. 2025 Nov 12;176(1):81.
+  highlight: NA
+
+- title: "A Framework for using DNA Methylation-Based Modelling for the Clinical Management of Cranial Meningioma"
+  description: NA
+  authors: Landry AP, Wang JZ, Patil V, Ajisebutu A, Gui C, Yefet LS, Ellenbogen Y, Liu J, Mamatjan Y, Wei Q, Singh O, Mansouri S, Ehret F, Capper D, Cohen-Gadol AA, Tabatabai G, Tatagiba M, Behling F, Barnholtz-Sloan JS, Sloan AE, Chambless LB, Mansouri A, Makarenko S, Yip S, Tsang DS, Gao A, **International Consortium On Meningiomas**, Aldape K, Nassiri F, Zadeh G
+  link:
+    url: http://doi.org/10.1093/neuonc/noaf237
+    display: Neuro OncoL. 2025 Nov 19:noaf237.
+  highlight: NA
+
+- title: "Gabapentin Repurposing for Glioblastoma Therapy: Real-World Data Analyses Augmented by Use of Active Comparators."
+  description: NA
+  authors: *Ballard CAP*, Goff KM, Patel MP, Walsh KM, Monje M, **Ostrom QT**
+  link:
+    url: http://doi.org/10.1093/neuonc/noaf280
+    display: Neuro Oncol. 2025 Dec 8:noaf280.
+  highlight: NA
+
 - title: "Characteristics of Long-Term Glioblastoma Survivors Diagnosed from 2010 to 2016 in the United States"
   description: NA
-  authors: _Ballard CAP_+, Wang Y+, Kruchko C, Barnholtz-Sloan JS, Li Y^, __Ostrom QT__^
+  authors: *Ballard CAP*+, Wang Y+, Kruchko C, Barnholtz-Sloan JS, Li Y^, **Ostrom QT**^
   link:
     url: http://doi.org/10.1016/j.canep.2025.102810
-    display: Cancer Epidemiol. 2025 Apr 17:97:102810.
+    display: Cancer Epidemiol. 2025 Aug;97:102810.
   highlight: NA
-
-- title: "Central Nervous System Tumors in Adolescents and Young Adults: A Society for Neuro-Oncology Consensus Review on Diagnosis, Management, and Future Directions"
-  description: NA
-  authors: Lim-Fat MJ, Bennett J, __Ostrom Q__, Touat M, Franceschi E, Schulte J, Bindra RS, Fangusaro J, Dhall G, Nicholson J, Jackson S, Davidson TB, Calaminus G, Robinson G, Whittle JR, Hau P, Ramaswamy V, Pajtler KW, Ruda R, Foreman NK, Hervey-Jumper SL, Das S, Dirks P, Bi WL, Huang A, Merchant TE, Fouladi M, Aldape K, Van den Bent MJ, Packer RJ, Miller JJ, Reardon DA, Chang SM, Haas-Kogan D, Tabori U, Hawkins C, Monje M, Wen PY, Bouffet E, Yeo KK
-  link:
-    url: http://doi.org/10.1093/neuonc/noae186
-    display: Neuro Oncol. 2024 Oct 23:noae186.
-  highlight: NA
-
-- title: "Grade-Stratified Meningioma Risk among Individuals Who are Non-Hispanic Black and Interactions with Male Sex"
-  description: NA
-  authors: Walsh KM+, _Price M_+, Raleigh DR, Calabrese E, Kruchko C, Barnholtz-Sloan JS, __Ostrom QT__.
-  link:
-    url: http://doi.org/10.1093/jnci/djae253
-    display: J Natl Cancer Inst. 2024 Oct 11:djae253.
-  highlight: NA
-
-- title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2017-2021"
-  description: NA
-  authors: _Price M_, _Ballard C_, _Benedetti J_, _Neff C_, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS, __Ostrom QT__
-  link:
-    url: http://doi.org/10.1093/neuonc/noae145
-    display: Neuro Oncol. 2024 Oct 6;26(Supplement_6):vi1-vi85.
-  highlight: 1
 
 - title: "The Intersection of Race, Ethnicity, and Urbanicity on Treatment Paradigms and Clinical Outcomes for Non-Malignant Primary Tumors of the Spine"
   description: NA
-  authors: Bishop B, Hockenberry H, Sperber J, Owolo E, Baeta C, _Price M_, _ Neff C_, Kruchko C, Barnholtz-Sloan JS, Charles AJ, Sciubba C, __Ostrom QT__, Johnson E, Goodwin CR.
+  authors: Bishop B, Hockenberry H, Sperber J, Owolo E, Baeta C, *Price M*, * Neff C*, Kruchko C, Barnholtz-Sloan JS, Charles AJ, Sciubba C, **Ostrom QT**, Johnson E, Goodwin CR.
   link:
     url: http://doi.org/10.1016/j.canep.2024.102657
     display: Cancer Epidemiol. 2024 Sep 5:93:102657.
   highlight: NA
 
+- title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2017-2021"
+  description: NA
+  authors: *Price M*, *Ballard C*, *Benedetti J*, *Neff C*, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS, **Ostrom QT**
+  link:
+    url: http://doi.org/10.1093/neuonc/noae145
+    display: Neuro Oncol. 2024 Oct 6;26(Supplement_6):vi1-vi85.
+  highlight: 1
+
 - title: "Genome-Wide Polygenic Risk Scores Predict Risk of Glioma and Molecular Subtypes"
   description: NA
-  authors: Nakase T, Guerra GA, __Ostrom QT__, Ge T, Melin BS, Wrensch M, Wiencke JK, Jenkins RB, Eckel-Passow JE; Glioma International Case-Control Study (GICC); Bondy ML, Francis SS, Kachuri L
+  authors: Nakase T, Guerra GA, **Ostrom QT**, Ge T, Melin BS, Wrensch M, Wiencke JK, Jenkins RB, Eckel-Passow JE; Glioma International Case-Control Study (GICC); Bondy ML, Francis SS, Kachuri L
   link:
     url: http://doi.org/10.1093/neuonc/noae112
-    display: Neuro Oncol. 2024 Jun 25:noae112.
+    display: Neuro Oncol. 2024 Oct 3;26(10):1933-1944.
   highlight: NA
 
 - title: "Genetic Variation Near GRB10 Associated with Bone Growth and Osteosarcoma Risk in Canine and Human Populations."
   description: NA
-  authors: Lucas SE, Yang T, Wimberly CE, Parmar KV, Hansen HM, de Smith AJ, Morimoto LM, Metayer C, __Ostrom QT__, Eward WC, Graves LA, Wagner LM, Wiemels JL, Spector LG, Walsh KM
+  authors: Lucas SE, Yang T, Wimberly CE, Parmar KV, Hansen HM, de Smith AJ, Morimoto LM, Metayer C, **Ostrom QT**, Eward WC, Graves LA, Wagner LM, Wiemels JL, Spector LG, Walsh KM
   link:
     url: http://doi.org/10.1016/j.canep.2024.102599
-    display: Cancer Epidemiol. 2024 Jun 12:102599.
+    display: Cancer Epidemiol. 2024 Oct;92:102599.
   highlight: NA
 
 - title: "CBTRUS Statistical Report: American Brain Tumor Association & NCI Neuro-Oncology Branch Adolescent and Young Adult Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2016-2020"
   description: NA
-  authors: _Price M_, _Neff C_, Nagarajan N, Kruchko C, Waite KA, Cioffi G, Cordeiro BB, Willmarth N, Penas-Prado M, Gilbert MR, Armstrong TS, Barnholtz-Sloan JS, __Ostrom QT__
+  authors: *Price M*, *Neff C*, Nagarajan N, Kruchko C, Waite KA, Cioffi G, Cordeiro BB, Willmarth N, Penas-Prado M, Gilbert MR, Armstrong TS, Barnholtz-Sloan JS, **Ostrom QT**
   link:
     url: http://doi.org/10.1093/neuonc/noae047
     display: Neuro Oncol. 2024 May 6;26(Supplement_3):iii1-iii53.
   highlight: 1
 
-- title: "Meningioma: International Consortium on Meningiomas (ICOM) Consensus Review on Scientific Advances & Treatment Paradigms for Clinicians, Researchers, and Patients"
+- title: "Sex Differences in Adverse Events in Medicare Individuals >= 66 Years of Age Post Glioblastoma Treatment"
   description: NA
-  authors: Wang JZ, Landry AP, Raleigh DR, Sahm F, Walsh KM, Goldbrunner R, Yefet LS, Tonn JC, Gui C, __Ostrom QT__, Barnholtz-Sloan J, Perry A, Ellenbogen Y, Hanemann CO, Jungwirth G, Jenkinson MD, Tabatabai G, Mathiesen TI, McDermott MW, Tatagiba M, la Fougere C, Maas SLN, Galldiks N, Albert NL, Brastianos PK, Ehret F, Minniti G, Lamszus K, Ricklefs FL, Schittenhelm J, Drummond KJ, Dunn IF, Pathmanaban ON, Cohen-Gadol A, Sulman EP, Tabouret E, Le Rhun E, Mawrin C, Moliterno J, Weller M, Bi WL, Gao A, Yip S, Niyazi M; International Consortium on Meningiomas (ICOM); Aldape K, Wen PY, Short S, Preusser M, Nassiri F, Zadeh G
+  authors: Dmukauskas M, Cioffi G, Waite KA, Sloan AE, Neff C, Price M, **Ostrom QT**, Barnholtz-Sloan JS
   link:
-    url: http://doi.org/10.1093/neuonc/noae082
-    display: Neuro Oncol. 2024 May 2:noae082.
+    url: http://doi.org/10.1007/s11060-024-04652-z
+    display: J Neurooncol. 2024 May;168(1):111-123.
   highlight: 0
 
 - title: "The Impact of COVID19 on Monthly Incidence Trends of Primary Brain and Other CNS Tumors"
   description: NA
-  authors: Cioffi G,  Waite KA, _Price M_, _Neff C_, Kruchko C, __Ostrom QT__, Barnholtz-Sloan JS
+  authors: Cioffi G,  Waite KA, *Price M*, *Neff C*, Kruchko C, **Ostrom QT**, Barnholtz-Sloan JS
   link:
     url: http://doi.org/10.1093/neuonc/noad235
     display: Neuro Oncol. 2024 Apr 5;26(4):764-774.
   highlight: 0
 
-- title: "Sex Differences in Adverse Events in Medicare Individuals >= 66 Years of Age Post Glioblastoma Treatment"
+- title: "Grade-Stratified Meningioma Risk among Individuals Who are Non-Hispanic Black and Interactions with Male Sex"
   description: NA
-  authors: Dmukauskas M, Cioffi G, Waite KA, Sloan AE, Neff C, Price M, __Ostrom QT__, Barnholtz-Sloan JS
+  authors: Walsh KM+, *Price M*+, Raleigh DR, Calabrese E, Kruchko C, Barnholtz-Sloan JS, **Ostrom QT**.
   link:
-    url: http://doi.org/10.1007/s11060-024-04652-z
-    display: J Neurooncol. 2024 Apr 2.
-  highlight: 0
+    url: http://doi.org/10.1093/jnci/djae253
+    display: J Natl Cancer Inst. 2025 Feb 1;117(2):366-374.
+  highlight: NA
 
 - title: "Association Between County-Level Socioeconomic Status and Incidence and Surgical Treatment of Pituitary Adenoma"
   description: NA
-  authors: Cote DJ, Kruchko C, Barnholtz-Sloan JS, Zada G, Wiemels JL, __Ostrom QT__
+  authors: Cote DJ, Kruchko C, Barnholtz-Sloan JS, Zada G, Wiemels JL, **Ostrom QT**
   link:
     url: http://doi.org/10.3171/2023.6.JNS23342
     display: J Neurosurg. 2023 Aug 18:1-11.
@@ -96,32 +160,16 @@
 
 - title: "Capturing Evolving Definitions of 12 Select Rare CNS Tumors: a Timely Report from CBTRUS and NCI-CONNECT"
   description: This analysis, completed in collaboration with the National Cancer Institute's NCI-CONNECT program, presents incidence, survival, and prevalence estimates for a selection of rare tumor histopathologies that are the focus of the NCI-CONNECT program.
-  authors: _Price M_, _Neff C_,  Kruchko C, Barnholtz-Sloan JS, Cordeiro BB, Penas-Prado M, Ozer BH, Cimino PJ, Gilbert MR, Armstrong TS+, __Ostrom QT+__
+  authors: *Price M*, *Neff C*,  Kruchko C, Barnholtz-Sloan JS, Cordeiro BB, Penas-Prado M, Ozer BH, Cimino PJ, Gilbert MR, Armstrong TS+, **Ostrom QT+**
   link:
     url: http://doi.org/10.1007/s11060-023-04480-7
     display: J Neurooncol. 2023 Nov;165(2):279-290.
   highlight: 0
 
-- title: "Causal Association of Genetically Determined Asthma and Allergic Rhinitis with Osteoarthritis: a Mendelian Randomization Study"
-  description: NA
-  authors: Baker MC, Robinson WH, __Ostrom Q__
-  link:
-    url: http://doi.org/10.1016/j.joca.2023.11.003
-    display: Osteoarthritis Cartilage. 2023 Nov 9:S1063-4584(23)00977-9.
-  highlight: 0
-
-- title: "Associations Between Urbanicity and Spinal Cord Astrocytoma Management and Outcomes"
-  description: NA
-  authors: Sykes DAW, Waguia R, Abu-Bonsrah N, _Price M_, Dalton T, Sperber J, Owolo E, Hockenberry H, Bishop B, Kruchko C, Barnholtz-Sloan JS, Erickson M, __Ostrom QT__, Goodwin CR.
-  link:
-    url: http://doi.org/10.1016/j.canep.2023.102431
-    display: Cancer Epidemiol. 2023 Oct;86:102431.
-  highlight: 0
-
 - title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2016-2020"
   image: "CBTRUS-NEUROONC-2023.jpeg"
   description: NA
-  authors: __Ostrom QT+__, _Price M+_, _Neff C_, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS.
+  authors: **Ostrom QT+**, *Price M+*, *Neff C*, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS.
   link:
     url: http://doi.org/10.1093/neuonc/noad149
     display: Neuro Oncol. 2023 Oct 4;25(Supplement_4):iv1-iv99.
@@ -129,31 +177,31 @@
 
 - title: "Heritable Traits and Lung Cancer Risk: A Two-Sample Mendelian Randomization Study"
   description: NA
-  authors: Pettit RW, Byun J, Han Y, __Ostrom QT__, Coarfa C, Bondy ML, Amos CI
+  authors: Pettit RW, Byun J, Han Y, **Ostrom QT**, Coarfa C, Bondy ML, Amos CI
   link:
     url: http://doi.org/10.1158/1055-9965.EPI-22-0698
     display: Cancer Epidemiol Biomarkers Prev. 2023 Oct 2;32(10):1421-1435.
   highlight: 0
 
+- title: "Associations Between Urbanicity and Spinal Cord Astrocytoma Management and Outcomes"
+  description: NA
+  authors: Sykes DAW, Waguia R, Abu-Bonsrah N, *Price M*, Dalton T, Sperber J, Owolo E, Hockenberry H, Bishop B, Kruchko C, Barnholtz-Sloan JS, Erickson M, **Ostrom QT**, Goodwin CR.
+  link:
+    url: http://doi.org/10.1016/j.canep.2023.102431
+    display: Cancer Epidemiol. 2023 Oct;86:102431.
+  highlight: 0
+
 - title: "Childhood, Adolescent, and Adult Primary Brain and Central Nervous System Tumor Statistics for Practicing Healthcare Providers in Neuro-Oncology, CBTRUS 2015-2019"
   description: A special, condensed CBTRUS Statistical Report designed to be a streamlined and useful resource for practicing clinicians.
-  authors: _Price M+_, Ryan K+, Shoaf ML+, _Neff C_, Iorgulescu JB, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS#, __Ostrom QT__#
+  authors: *Price M+*, Ryan K+, Shoaf ML+, *Neff C*, Iorgulescu JB, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS#, **Ostrom QT**#
   link:
     url: http://doi.org/10.1093/nop/npad061
     display: Neurooncol Pract. 2023 Sep 28;11(1):5-25.
   highlight: 1
 
-- title: "Primary Malignant and Non-Malignant Brain Tumors in US Veterans"
-  description: NA
-  authors: Bihn JR, Cioffi G, Waite KA, Kruchko C, _Neff C_, _Price M_, __Ostrom QT__, Swinnerton KN, Elbers DC, Mooney M, Rachlin J, Stein T, Brophy MT, Do NV, Priemer D, Perl D, Hickman R, Nabors B, Rusiecki J, Barnholtz-Sloan J, Fillmore NR
-  link:
-    url: http://doi.org/10.1093/neuonc/noad182
-    display: Neuro Oncol. 2023 Sep 22;noad182.
-  highlight: 0
-
 - title: "Association Between Urbanicity and Outcomes Among Patients with Spinal Cord Ependymomas in the United States"
   description: NA
-  authors: Sperber J, Owolo E, Abu-Bonsrah N, _Sun C_, Baeta C, Dalton T, Sykes D, Kruchko C, Barnholtz-Sloan JS, Walsh KM, Lo SL, Sciubba D, __Ostrom QT__, Neff C, Goodwin CR
+  authors: Sperber J, Owolo E, Abu-Bonsrah N, *Sun C*, Baeta C, Dalton T, Sykes D, Kruchko C, Barnholtz-Sloan JS, Walsh KM, Lo SL, Sciubba D, **Ostrom QT**, Neff C, Goodwin CR
   link:
     url: http://doi.org/10.1016/j.wneu.2023.08.062
     display: World Neurosurg. 2023 Aug 22;S1878-8750(23)01174-9.
@@ -161,7 +209,7 @@
 
 - title: "Complete Prevalence of Primary Malignant and Non-Malignant Brain Tumors in Comparison to Other Cancers in the United States"
   description: This analysis included the first complete estimates for the prevalence of both primary malignant and non-malignant brain and other central nervous system tumors in the United States as of 2019, an update to previous results.
-  authors: _Neff C+_, _Price M+_,  Cioffi G, Kruchko C, Waite KA, Barnholtz-Sloan JS, __Ostrom QT__
+  authors: *Neff C+*, *Price M+*,  Cioffi G, Kruchko C, Waite KA, Barnholtz-Sloan JS, **Ostrom QT**
   link:
     url: http://doi.org/10.1002/cncr.34837
     display: Cancer. 2023 Aug 15;129(16):2514-2521.
@@ -169,7 +217,7 @@
 
 - title: "The Association of Medicaid Expansion and Pediatric Cancer Overall Survival"
   description: NA
-  authors: Barnes JM#,  _Neff C#_,  Han X,  Kruchko C, Barnholtz-Sloan JS, __Ostrom QT+__, Johnson KJ+
+  authors: Barnes JM#,  *Neff C#*,  Han X,  Kruchko C, Barnholtz-Sloan JS, **Ostrom QT+**, Johnson KJ+
   link:
     url: http://doi.org/10.1093/jnci/djad024
     display: J Natl Cancer Inst. 2023 Jun 8;115(6):749-752.
@@ -177,7 +225,7 @@
 
 - title: "The Joint Impacts of Sex and Race/Ethnicity on Incidence of Grade 1 Versus Grades 2-3 Meningioma Across the Lifespan"
   description: This manuscript assesses the relationship between sex, age, and race/ethnicity on the incidence of grade 1 and grades 2-3 meningioma in the United State
-  authors: Walsh KM+, _Price M+_, _Neff C_, Komisarow KM, Wimberly CE, Kruchko C, Barnholtz-Sloan JS, __Ostrom QT__
+  authors: Walsh KM+, *Price M+*, *Neff C*, Komisarow KM, Wimberly CE, Kruchko C, Barnholtz-Sloan JS, **Ostrom QT**
   link:
     url: http://doi.org/10.1093/noajnl/vdad020
     display: Neurooncol Adv. 2023 Jun 3;5(Suppl 1):i5-i12.
@@ -185,7 +233,7 @@
 
 - title: "The Association Between Genetically Elevated Polyunsaturated Fatty Acids and Risk of Cancer"
   description: NA
-  authors: __Fatty Acids in Cancer Mendelian Randomization Collaboration__; Haycock PC, Borges MC, Burrows K, Lemaitre RN, Burgess S, Khankari NK, Tsilidis KK, Gaunt TR, Hemani G, Zheng J, Truong T, Birmann BM, OMara T, Spurdle AB, Iles MM, Law MH, Slager SL, Saberi Hosnijeh F, Mariosa D, Cotterchio M, Cerhan JR, Peters U, Enroth S, Gharahkhani P, Le Marchand L, Williams AC, Block RC; ACCC; CCFR-CORECT-GECCO; EPITHYR; InterLymph; MMAC; ECAC; ILCCO; PRACTICAL Consortium; PanScan; PanC4; Amos CI, Hung RJ, Zheng W, Gunter MJ, Smith GD, Relton C, Martin RM
+  authors: **Fatty Acids in Cancer Mendelian Randomization Collaboration**; Haycock PC, Borges MC, Burrows K, Lemaitre RN, Burgess S, Khankari NK, Tsilidis KK, Gaunt TR, Hemani G, Zheng J, Truong T, Birmann BM, OMara T, Spurdle AB, Iles MM, Law MH, Slager SL, Saberi Hosnijeh F, Mariosa D, Cotterchio M, Cerhan JR, Peters U, Enroth S, Gharahkhani P, Le Marchand L, Williams AC, Block RC; ACCC; CCFR-CORECT-GECCO; EPITHYR; InterLymph; MMAC; ECAC; ILCCO; PRACTICAL Consortium; PanScan; PanC4; Amos CI, Hung RJ, Zheng W, Gunter MJ, Smith GD, Relton C, Martin RM
   link:
     url: http://doi.org/10.1016/j.ebiom.2023.104510
     display: EBioMedicine. 2023 May;91:104510.
@@ -193,7 +241,7 @@
 
 - title: "The Genomic Landscape of Familial Glioma"
   description: NA
-  authors: Choi DJ, Armstrong G, Lozzi B, Vijayaraghavan P, Plon SE, Wong TC, Boerwinkle E, Muzny DM, Chen HC, Gibbs RA, __Ostrom QT__, Melin B, Deneen B, Bondy ML; Gliogene Consortium; Genomics England Research Consortium; Bainbridge MN, Amos CI, Barnholtz-Sloan JS, Bernstein JL, Claus EB, Houlston RS, Il'yasova D, Jenkins RB, Johansen C, Lachance D, Lai R, Melin BS, Merrell RT, Olson SH, Sadetzki S, Schildkraut J, Shete S, Ambrose JC, Arumugam P, Bevers R, Bleda M, Boardman-Pretty F, Boustred CR, Brittain H, Brown MA, Caulfield MJ, Chan GC, Giess A, Griffin JN, Hamblin A, Henderson S, Hubbard TJP, Jackson R, Jones LJ, Kasperaviciute D, Kayikci M, Kousathanas A, Lahnstein L, Lakey A, Leigh SEA, Leong IUS, Lopez FJ, Maleady-Crowe F, McEntagart M, Minneci F, Mitchell J, Moutsianas L, Mueller M, Murugaesu N, Need AC, O'Donovan P, Odhams CA, Patch C, Perez-Gil D, Pereira MB, Pullinger J, Rahim T, Rendon A, Rogers T, Savage K, Sawant K, Scott RH, Siddiq A, Sieghart A, Smith SC, Sosinsky A, Stuckey A, Tanguy M, Taylor Tavares AL, Thomas ERA, Thompson SR, Tucci A, Welland MJ, Williams E, Witkowska K, Wood SM, Zarowiecki M
+  authors: Choi DJ, Armstrong G, Lozzi B, Vijayaraghavan P, Plon SE, Wong TC, Boerwinkle E, Muzny DM, Chen HC, Gibbs RA, **Ostrom QT**, Melin B, Deneen B, Bondy ML; Gliogene Consortium; Genomics England Research Consortium; Bainbridge MN, Amos CI, Barnholtz-Sloan JS, Bernstein JL, Claus EB, Houlston RS, Il'yasova D, Jenkins RB, Johansen C, Lachance D, Lai R, Melin BS, Merrell RT, Olson SH, Sadetzki S, Schildkraut J, Shete S, Ambrose JC, Arumugam P, Bevers R, Bleda M, Boardman-Pretty F, Boustred CR, Brittain H, Brown MA, Caulfield MJ, Chan GC, Giess A, Griffin JN, Hamblin A, Henderson S, Hubbard TJP, Jackson R, Jones LJ, Kasperaviciute D, Kayikci M, Kousathanas A, Lahnstein L, Lakey A, Leigh SEA, Leong IUS, Lopez FJ, Maleady-Crowe F, McEntagart M, Minneci F, Mitchell J, Moutsianas L, Mueller M, Murugaesu N, Need AC, O'Donovan P, Odhams CA, Patch C, Perez-Gil D, Pereira MB, Pullinger J, Rahim T, Rendon A, Rogers T, Savage K, Sawant K, Scott RH, Siddiq A, Sieghart A, Smith SC, Sosinsky A, Stuckey A, Tanguy M, Taylor Tavares AL, Thomas ERA, Thompson SR, Tucci A, Welland MJ, Williams E, Witkowska K, Wood SM, Zarowiecki M
   link:
     url: http://doi.org/10.1126/sciadv.ade2675
     display: Sci Adv. 2023 Apr 28;9(17):eade2675.
@@ -201,23 +249,15 @@
 
 - title: "Association of County-Level Socioeconomic Status with Meningioma Incidence and Outcomes"
   description: NA
-  authors: Pugazenthi S,  _Price M_,  _De La Vega Gomar R_, Kruchko C, Waite KA, Barnholtz-Sloan JS, Walsh KM, Kim AH, __Ostrom QT__
+  authors: Pugazenthi S,  *Price M*,  *De La Vega Gomar R*, Kruchko C, Waite KA, Barnholtz-Sloan JS, Walsh KM, Kim AH, **Ostrom QT**
   link:
     url: http://doi.org/10.1093/neuonc/noad223
     display: Neuro Oncol. 2024 Apr 5;26(4):749-763.
   highlight: 0
 
-- title: "Mortality Trends in Primary Malignant Brain and Central Nervous System Tumors Vary by Histopathology, Age, Race and Sex."
-  description: NA
-  authors: Thierheimer M, Cioffi G, Waite KA, Kruchko C, __Ostrom QT__, Barnholtz-Sloan JS
-  link:
-    url: http://doi.org/10.1007/s11060-023-04279-6
-    display: J Neurooncol. 2023 Mar;162(1):167-177.
-  highlight: 0
-
 - title: "Medicaid Expansion is Associated with Increased 1-Year Overall Survival for Primary Malignant Brain Tumors"
   description: NA
-  authors: Dmukauskas M, Cioffi G, _Neff C_, _Price M_, Waite KA, Kruchko C, __Ostrom QT__, Barnholtz-Sloan JS
+  authors: Dmukauskas M, Cioffi G, *Neff C*, *Price M*, Waite KA, Kruchko C, **Ostrom QT**, Barnholtz-Sloan JS
   link:
     url: http://doi.org/10.1093/noajnl/vdad022
     display: Neurooncol Adv. 2023 Mar 4;5(1):vdad022.
@@ -225,15 +265,39 @@
 
 - title: "The Impact of the COVID-19 Pandemic on Treatment Patterns in Glioblastoma"
   description: NA
-  authors: _Neff C_, _Price M_, Cioffi G, Waite KA, Kruchko C, Iorgulescu JB, Barnholtz-Sloan JS,  __Ostrom QT__
+  authors: *Neff C*, *Price M*, Cioffi G, Waite KA, Kruchko C, Iorgulescu JB, Barnholtz-Sloan JS,  **Ostrom QT**
   link:
     url: http://doi.org/10.1093/neuonc/noad234
     display: Neuro Oncol. 2024 Mar 4;26(3):581-583.
   highlight: 1
 
+- title: "Mortality Trends in Primary Malignant Brain and Central Nervous System Tumors Vary by Histopathology, Age, Race and Sex."
+  description: NA
+  authors: Thierheimer M, Cioffi G, Waite KA, Kruchko C, **Ostrom QT**, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/10.1007/s11060-023-04279-6
+    display: J Neurooncol. 2023 Mar;162(1):167-177.
+  highlight: 0
+
+- title: "Brain Tumors in United States Military Veterans"
+  description: NA
+  authors: Bihn JR, Cioffi G, Waite KA, Kruchko C, *Neff C*, *Price M*, **Ostrom QT**, Swinnerton KN, Elbers DC, Mooney M, Rachlin J, Stein T, Brophy MT, Do NV, Priemer D, Perl D, Hickman R, Nabors B, Rusiecki J, Barnholtz-Sloan J, Fillmore NR
+  link:
+    url: http://doi.org/10.1093/neuonc/noad182
+    display: Neuro Oncol. 2024 Feb 2;26(2):387-396.
+  highlight: 0
+
+- title: "Causal Association of Genetically Determined Asthma and Allergic Rhinitis with Osteoarthritis: a Mendelian Randomization Study"
+  description: NA
+  authors: Baker MC, Robinson WH, **Ostrom Q**
+  link:
+    url: http://doi.org/10.1016/j.joca.2023.11.003
+    display: Osteoarthritis Cartilage. 2024 Feb;32(2):220-225.
+  highlight: 0
+
 - title: "Molecular Biomarker-Defined Brain Tumors: Epidemiology, Accuracy, and Completeness in the United States"
   description: NA
-  authors: Iorgulescu JB#, _Sun C#_, _Neff C_, Cioffi G, Gutierrez C, Kruchko C, Ruhl J, Waite K, Negoita S, Hoffercamp J, Tihan T, McLendon R, Brat DJ, __Ostrom QT+__, Barnholtz-Sloan JS+
+  authors: Iorgulescu JB#, *Sun C#*, *Neff C*, Cioffi G, Gutierrez C, Kruchko C, Ruhl J, Waite K, Negoita S, Hoffercamp J, Tihan T, McLendon R, Brat DJ, **Ostrom QT+**, Barnholtz-Sloan JS+
   link:
     url: http://doi.org/10.1093/neuonc/noac113
     display: Neuro Oncol. 2022 Nov 2;24(11):1989-2000.
@@ -241,7 +305,7 @@
 
 - title: "Molecular Marker Testing and Reporting Patterns in the United States for Patients with Adult-Type Diffuse Gliomas "
   description: NA
-  authors: _Neff C_, Cioffi G, Waite K, Kruchko C, Barnholtz-Sloan JS,  __Ostrom QT+__, Iorgulescu JB+
+  authors: *Neff C*, Cioffi G, Waite K, Kruchko C, Barnholtz-Sloan JS,  **Ostrom QT+**, Iorgulescu JB+
   link:
     url: http://doi.org/10.1093/nop/npac079
     display: Neurooncol Pract. 2022 Oct 7;10(1):24-33.
@@ -249,48 +313,40 @@
 
 - title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2015-2019"
   description: NA
-  authors: __Ostrom QT+__, _Price M+_, _Neff C_, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS
+  authors: **Ostrom QT+**, *Price M+*, *Neff C*, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/10.1093/neuonc/noac202
     display: Neuro Oncol. 2022 Oct 5;24(Supplement_5):v1-v95.
   highlight: 0
 
-- title: "Changes in Survival Over Time for Primary Brain and Other CNS Tumors in the United States"
-  description: NA
-  authors: Cioffi G, Waite KA, Edelson, JL,  Kruchko C, __Ostrom QT__, Barnholtz-Sloan JS
-  link:
-    url: http://doi.org/10.1007/s11060-022-04138-w
-    display: J Neurooncol. 2022 Oct;160(1):209-219.
-  highlight: 0
-
 - title: "Prevalence of Autoimmunity and Atopy in US Adults with Glioblastoma and Meningioma"
   description: NA
-  authors: __Ostrom QT__, Lu D, Lu R, Baker M
+  authors: **Ostrom QT**, Lu D, Lu R, Baker M
   link:
     url: http://doi.org/10.1093/neuonc/noac145
     display: Neuro Oncol. 2022 Oct 3;24(10):1807-1809.
   highlight: 0
 
+- title: "Changes in Survival Over Time for Primary Brain and Other CNS Tumors in the United States"
+  description: NA
+  authors: Cioffi G, Waite KA, Edelson, JL,  Kruchko C, **Ostrom QT**, Barnholtz-Sloan JS
+  link:
+    url: http://doi.org/10.1007/s11060-022-04138-w
+    display: J Neurooncol. 2022 Oct;160(1):209-219.
+  highlight: 0
+
 - title: "CBTRUS Statistical Report: Pediatric Brain Tumor Foundation Childhood and Adolescent Primary Brain and Central Nervous System Tumors Diagnosed in the United States in 2014-2018"
   image: "cbtrus_pediatric_report_cover_350px.jpg"
   description: This special report, funded by the Pediatric Brain Tumor Foundation, presents incidence and survival statistics for children 0-14 using histopathology groupings that were re-organized to be a more accurate representation of clinical behavior in pediatric brain tumors.
-  authors: __Ostrom QT__, _Price M_, Ryan K, Edelson J,  _Neff C_, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS
+  authors: **Ostrom QT**, *Price M*, Ryan K, Edelson J,  *Neff C*, Cioffi G, Waite KA, Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/10.1093/neuonc/noac161
     display: Neuro Oncol. 2022 Sep 6;24(Supplement_3):iii1-iii38.
   highlight: 1
 
-- title: "Epidemiology of Primary Malignant Non-Osseous Spinal Tumors in the United States"
-  description: NA
-  authors: Momin AA, Oyem P, Patil N, Soni P, Potter TO, Cioffi G, Waite K, __Ostrom Q__, Kruchko C, Barnholtz-Sloan JS, Recinos PF, Kshettry VR, Steinmetz MP.
-  link:
-    url: http://doi.org/10.1016/j.spinee.2022.02.015
-    display: Spine J. 2022 Aug;22(8):1325-1333.
-  highlight: 0
-
 - title: "Incidence and Survival of Choroid Plexus Tumors in the United States"
   description: NA
-  authors: Takaoka K,  Cioffi G, Waite KA,  Finlay J,  Landi D,  Greppin K,  Kruchko C,  __Ostrom Q__, Barnholtz-Sloan J
+  authors: Takaoka K,  Cioffi G, Waite KA,  Finlay J,  Landi D,  Greppin K,  Kruchko C,  **Ostrom Q**, Barnholtz-Sloan J
   link:
     url: http://doi.org/10.1093/nop/npac062
     display: Neurooncol Pract. 2022 Aug 3;10(1):41-49.
@@ -298,31 +354,39 @@
 
 - title: "A Population Study of Clinical Trial Accrual for Women and Minorities in Neuro-Oncology Following the NIH Revitalization Act"
   description: NA
-  authors: Reihl SJ, Patil N, Morshed RA, Mehari M, Aabedi A, Chukwueke UN, Porter AB, Fontil V, Cioffi G, Waite K, Kruchko C, __Ostrom Q__, Barnholtz-Sloan J, Hervey-Jumper SL.
+  authors: Reihl SJ, Patil N, Morshed RA, Mehari M, Aabedi A, Chukwueke UN, Porter AB, Fontil V, Cioffi G, Waite K, Kruchko C, **Ostrom Q**, Barnholtz-Sloan J, Hervey-Jumper SL.
   link:
     url: http://doi.org/10.1093/neuonc/noac011
     display: Neuro Oncol. 2022 Aug 1;24(8):1341-1349.
   highlight: 0
 
-- title: "Exposure to Radon and Heavy Particulate Pollution and Incidence of Brain Tumors"
+- title: "Epidemiology of Primary Malignant Non-Osseous Spinal Tumors in the United States"
   description: NA
-  authors: Palmer JD, Prasad RN, Cioffi G, Kruchtko C, Zaorsky N, Trifiletti D, Gondi V, Brown P, Chakravarti A, Barnholtz -Sloan JS, __Ostrom QT__
+  authors: Momin AA, Oyem P, Patil N, Soni P, Potter TO, Cioffi G, Waite K, **Ostrom Q**, Kruchko C, Barnholtz-Sloan JS, Recinos PF, Kshettry VR, Steinmetz MP.
   link:
-    url: http://doi.org/10.1093/neuonc/noac163
-    display: Neuro Oncol. 2022 Jun 28;noac163.
+    url: http://doi.org/10.1016/j.spinee.2022.02.015
+    display: Spine J. 2022 Aug;22(8):1325-1333.
   highlight: 0
 
 - title: "Epidemiologic Evaluation of Clinical Outcomes in Ethnic Minorities with Myelodysplastic Syndromes"
   description: NA
-  authors: Molina A, Xiao L, __Ostrom QT__, Rosas LG, Greenberg PL
+  authors: Molina A, Xiao L, **Ostrom QT**, Rosas LG, Greenberg PL
   link:
     url: http://doi.org/10.1016/j.leukres.2022.106907
     display: Leuk Res. 2022 Jun 23;119:106907.
   highlight: 0
 
+- title: "Genetic Factors Associated with Absolute and Relative Plasma Concentrations of Calcitriol"
+  description: NA
+  authors: Wilson RT, Safford SS, **Ostrom QT**, Wang M, McDonald AC, Salzberg AC, Barnholtz-Sloan JS, Richie JP, Wallace RB
+  link:
+    url: http://doi.org/10.1158/1055-9965.EPI-22-0797
+    display: Cancer Epidemiol Biomarkers Prev. 2023 May 1;32(5):697-707.
+  highlight: 0
+
 - title: "National-Level Overall Survival Patterns for Molecularly-Defined Diffuse Glioma Types in the United States"
   description: This manuscript describes the initial patterns of survival observed in common molecularly defined brain and other CNS histopathologies using newly defined ICD-O-3 histology codes and brain molecular marker (BMM) data, and it emphasizes the importance of collecting these data for cancer surveillance.
-  authors: __Ostrom QT__, Shoaf ML, Cioffi G, Waite KA,  Kruchko C, Wen PY, Brat D, Barnholtz-Sloan JS,  Iorgulescu JB
+  authors: **Ostrom QT**, Shoaf ML, Cioffi G, Waite KA,  Kruchko C, Wen PY, Brat D, Barnholtz-Sloan JS,  Iorgulescu JB
   link:
     url: http://doi.org/10.1093/neuonc/noac198
     display: Neuro Oncol. 2023 Apr 6;25(4):799-807.
@@ -330,7 +394,7 @@
 
 - title: "Aligning the Central Brain Tumor Registry of the United States (CBTRUS) Histology Groupings with Current Definitions"
   description: This manuscript traces the rationale for changes made to the CBTRUS histopathology grouping scheme in order to better align it with modern diagnostic criteria.
-  authors: Waite KA, Cioffi G, Kruchko C, Brat DJ, Bruner JM, McLendon RE, Tihan T, __Ostrom QT+__, Barnholtz-Sloan JS+
+  authors: Waite KA, Cioffi G, Kruchko C, Brat DJ, Bruner JM, McLendon RE, Tihan T, **Ostrom QT+**, Barnholtz-Sloan JS+
   link:
     url: http://doi.org/10.1093/nop/npac025
     display: Neurooncol Pract. 2022 Mar 24;9(4):317-327.
@@ -338,31 +402,31 @@
 
 - title: "Primary Brain and Other Central Nervous System Tumors in the United States (2014-2018): A Summary of the CBTRUS Statistical Report for Clinicians"
   description: NA
-  authors: Low J+, __Ostrom QT+__, Cioffi G, _Neff C_, Waite KA, Kruchko C, Barnholtz-Sloan JS
+  authors: Low J+, **Ostrom QT+**, Cioffi G, *Neff C*, Waite KA, Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/10.1093/nop/npac015
     display: Neurooncol Pract. 2022 Feb 22;9(3):165-182.
   highlight: 0
 
+- title: "Exposure to Radon and Heavy Particulate Pollution and Incidence of Brain Tumors"
+  description: NA
+  authors: Palmer JD, Prasad RN, Cioffi G, Kruchtko C, Zaorsky N, Trifiletti D, Gondi V, Brown P, Chakravarti A, Barnholtz -Sloan JS, **Ostrom QT**
+  link:
+    url: http://doi.org/10.1093/neuonc/noac163
+    display: Neuro Oncol. 2023 Feb 14;25(2):407-417.
+  highlight: 0
+
 - title: "Influence of Geographic/Ancestral Origin on Glioma Incidence and Outcomes in US Hispanics"
   description: NA
-  authors: Walsh KM, _Neff C_, Bondy ML, Kruchko C, Huse JT, Amos CI, Barnholtz-Sloan JS, __Ostrom QT__
+  authors: Walsh KM, *Neff C*, Bondy ML, Kruchko C, Huse JT, Amos CI, Barnholtz-Sloan JS, **Ostrom QT**
   link:
     url: http://doi.org/10.1093/neuonc/noac175
     display: Neuro Oncol. 2023 Feb 14;25(2):398-406.
   highlight: 1
 
-- title: "Genetic Factors Associated with Absolute and Relative Plasma Concentrations of Calcitriol"
-  description: NA
-  authors: Wilson RT, Safford SS, __Ostrom QT__, Wang M, McDonald AC, Salzberg AC, Barnholtz-Sloan JS, Richie JP, Wallace RB
-  link:
-    url: http://doi.org/10.1158/1055-9965.EPI-22-0797
-    display: Cancer Epidemiol Biomarkers Prev. 2023 Feb 14;EPI-22-0797.
-  highlight: 0
-
 - title: "Epidemiology of Pineoblastoma in the United States"
   description: NA
-  authors: Greppin K,  Cioffi G, Waite KA, __Ostrom QT__,  Landi D, Takaoka K,  Kruchko C, Barnholtz-Sloan JS
+  authors: Greppin K,  Cioffi G, Waite KA, **Ostrom QT**,  Landi D, Takaoka K,  Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/10.1093/nop/npac009
     display: Neurooncol Pract. 2022 Jan 27;9(2):149-157.
@@ -370,7 +434,7 @@
 
 - title: "Common Germline Risk Variants Impact Somatic Alterations and Clinical Features Across Cancers."
   description: NA
-  authors: Namba S , Saito Y, Kogure Y, Masuda T,  Bondy ML, Gharahkhani P, Gockel I, Heider D, Hillmer AM , Jankowski JA , MacGregor S, Maj C, Melin B, __Ostrom QT__, Palles C, Schumacher J, Tomlinson I, Whiteman DC , Kataoka K
+  authors: Namba S , Saito Y, Kogure Y, Masuda T,  Bondy ML, Gharahkhani P, Gockel I, Heider D, Hillmer AM , Jankowski JA , MacGregor S, Maj C, Melin B, **Ostrom QT**, Palles C, Schumacher J, Tomlinson I, Whiteman DC , Kataoka K
   link:
     url: http://doi.org/10.1158/0008-5472.CAN-22-1492
     display: Cancer Res. 2023 Jan 4;83(1):20-27.
@@ -378,7 +442,7 @@
 
 - title: "The Central Brain Tumor Registry of the United States Histopathological Grouping Scheme Provides Clinically Relevant Brain and Other Central Nervous System Categories for Cancer Registry Data"
   description: NA
-  authors: __Ostrom QT__, Kruchko C, _Neff C_, Firth A, Sherman R
+  authors: **Ostrom QT**, Kruchko C, *Neff C*, Firth A, Sherman R
   link:
     url: http://doi.org/NA
     display: J Registry Manag. 2022 Winter;49(4):139-152.
@@ -386,7 +450,7 @@
 
 - title: "CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2014-2018"
   description: NA
-  authors: __Ostrom QT__, Cioffi G, Waite K, Kruchko C, Barnholtz-Sloan JS
+  authors: **Ostrom QT**, Cioffi G, Waite K, Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/101093/neuonc/noab200
     display: Neuro Oncol 2021 Oct 5;23(12 Suppl 2):iii1-iii105
@@ -394,7 +458,7 @@
 
 - title: "Brain and Other Central Nervous System Tumor Statistics, 2021"
   description: NA
-  authors: Miller KD, __Ostrom QT__, Kruchko C, Patil N, Tihan T, Cioffi G, Fuchs HE, Waite KA, Jemal A, Siegel RL, Barnholtz-Sloan JS
+  authors: Miller KD, **Ostrom QT**, Kruchko C, Patil N, Tihan T, Cioffi G, Fuchs HE, Waite KA, Jemal A, Siegel RL, Barnholtz-Sloan JS
   link:
     url: http://doi.org/103322/caac21693
     display: CA Cancer J Clin 2021 Sep;71(5):381-406
@@ -402,7 +466,7 @@
 
 - title: "Partitioned Glioma Heritability Shows Subtype-Specific Enrichment in Immune Cells"
   description: NA
-  authors: __Ostrom QT__, Edelson J, Byun J, Han Y, Kinnersley B, Melin B, Houlston RS, Monje M; GLIOGENE Consortium, Walsh KM, Amos CI, Bondy ML
+  authors: **Ostrom QT**, Edelson J, Byun J, Han Y, Kinnersley B, Melin B, Houlston RS, Monje M; GLIOGENE Consortium, Walsh KM, Amos CI, Bondy ML
   link:
     url: http://doi.org/101093/neuonc/noab072
     display: Neuro Oncol 2021 Aug 2;23(8):1304-1314
@@ -410,31 +474,31 @@
 
 - title: "Epidemiology of Brainstem High-Grade Gliomas in Children and Adolescents in the United States, 2000-2017"
   description: This manuscript details the descriptive epidemiology, including incidence, survival and prevalence, for gliomas of the brain stem in children and adolescents.
-  authors: Patil N, Kelly ME, Yeboa DN, Buerki RA, Cioffi G, Balaji S, __Ostrom QT__, Kruchko C, Barnholtz-Sloan JS
+  authors: Patil N, Kelly ME, Yeboa DN, Buerki RA, Cioffi G, Balaji S, **Ostrom QT**, Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/101093/neuonc/noaa295
     display: Neuro Oncol 2021 Jun 1;23(6):990-998
   highlight: 0
 
-- title: "Role of Ethnicity and Geographic Location on Glioblastoma IDH1/IDH2 Mutations"
-  description: NA
-  authors: McCormack RM, Zhu P, Dono A, Takayasu T, Bhatia A, Blanco AI, Tandon N, __Ostrom QT__, Gonzales A, Moreno S, Ballester LY, Esquenazi Y
-  link:
-    url: http://doi.org/101016/jwneu202101079
-    display: World Neurosurg 2021 May;149:e894-e912
-  highlight: 0
-
 - title: "Racial/Ethnic Disparities in Treatment Pattern and Time to Treatment for Adults with Glioblastoma in the US"
   description: NA
-  authors: __Ostrom QT__, Krebs HL, Patil N, Cioffi G, Barnholtz-Sloan JS
+  authors: **Ostrom QT**, Krebs HL, Patil N, Cioffi G, Barnholtz-Sloan JS
   link:
     url: http://doi.org/101007/s11060-021-03736-4
     display: J Neurooncol 2021 May;152(3):603-615
   highlight: 0
 
+- title: "Role of Ethnicity and Geographic Location on Glioblastoma IDH1/IDH2 Mutations"
+  description: NA
+  authors: McCormack RM, Zhu P, Dono A, Takayasu T, Bhatia A, Blanco AI, Tandon N, **Ostrom QT**, Gonzales A, Moreno S, Ballester LY, Esquenazi Y
+  link:
+    url: http://doi.org/101016/jwneu202101079
+    display: World Neurosurg 2021 May;149:e894-e912
+  highlight: 0
+
 - title: "The State of Neuro-Oncology During the COVID-19 Pandemic: a Worldwide Assessment"
   description: NA
-  authors: Mrugala MM, __Ostrom QT__, Pressley SM, Taylor JW, Thomas AA, Wefel JS, Coven SL, Acquaye AA, Haynes C, Agnihotri S, Lim M, Peters KB, Sulman EP, Salcido JT, Butowski NA, Hervey-Jumper S, Mansouri A, Oliver KR, Porter AB, Nassiri F, Schiff D, Dunbar EM, Hegi ME, Armstrong TS, van den Bent MJ, Chang SM, Zadeh G, Chheda MG
+  authors: Mrugala MM, **Ostrom QT**, Pressley SM, Taylor JW, Thomas AA, Wefel JS, Coven SL, Acquaye AA, Haynes C, Agnihotri S, Lim M, Peters KB, Sulman EP, Salcido JT, Butowski NA, Hervey-Jumper S, Mansouri A, Oliver KR, Porter AB, Nassiri F, Schiff D, Dunbar EM, Hegi ME, Armstrong TS, van den Bent MJ, Chang SM, Zadeh G, Chheda MG
   link:
     url: http://doi.org/101093/noajnl/vdab035
     display: Neurooncol Adv 2021 Feb 20;3(1):vdab035
@@ -442,7 +506,7 @@
 
 - title: "Importance of the Intersection of Age and Sex to Understand Variation in Incidence and Survival for Primary Malignant Gliomas"
   description: This manuscript assesses the relationship between age and sex on primary malignant glioma incidence and survival.
-  authors: Wang GM, Cioffi G, Patil N, Waite KA, Lanese R, __Ostrom Q__, Kruchko C, Berens ME, Connor JR, Lathia JD, Rubin JB, Barnholtz-Sloan JS
+  authors: Wang GM, Cioffi G, Patil N, Waite KA, Lanese R, **Ostrom Q**, Kruchko C, Berens ME, Connor JR, Lathia JD, Rubin JB, Barnholtz-Sloan JS
   link:
     url: http://doi.org/101093/neuonc/noab199
     display: Neuro Oncol. 2022 Feb 1;24(2):302-310.
@@ -450,7 +514,7 @@
 
 - title: "An Updated Histology Recode for the Analysis of Primary Malignant and Nonmalignant Brain and Other Central Nervous System Tumors in the Surveillance, Epidemiology, and End Results Program"
   description: This manuscript describes the development of an updated classification scheme for brain and other CNS tumors for inclusion in the SEER*explorer system and other SEER data products.
-  authors: Forjaz G, Barnholtz-Sloan JS, Kruchko C, Siegel R, Negoita S, __Ostrom QT__, Dickie L, Ruhl J, Van Dyke A, Patil N, Cioffi G, Miller KD, Waite K, Mariotto AB
+  authors: Forjaz G, Barnholtz-Sloan JS, Kruchko C, Siegel R, Negoita S, **Ostrom QT**, Dickie L, Ruhl J, Van Dyke A, Patil N, Cioffi G, Miller KD, Waite K, Mariotto AB
   link:
     url: http://doi.org/101093/noajnl/vdaa175
     display: Neurooncol Adv 2020 Dec 8;3(1):vdaa175
@@ -458,7 +522,7 @@
 
 - title: "European Genetic Ancestry Associated with Risk of Childhood Ependymoma"
   description: NA
-  authors: Zhang C, __Ostrom QT__, Hansen HM, Gonzalez-Maya J, Hu D, Ziv E, Morimoto L, de Smith AJ, Muskens IS, Kline CN, Vaksman Z, Hakonarson H, Diskin SJ, Kruchko C, Barnholtz-Sloan JS, Ramaswamy V, Ali-Osman F, Bondy ML, Taylor MD, Metayer C, Wiemels JL, Walsh KM
+  authors: Zhang C, **Ostrom QT**, Hansen HM, Gonzalez-Maya J, Hu D, Ziv E, Morimoto L, de Smith AJ, Muskens IS, Kline CN, Vaksman Z, Hakonarson H, Diskin SJ, Kruchko C, Barnholtz-Sloan JS, Ramaswamy V, Ali-Osman F, Bondy ML, Taylor MD, Metayer C, Wiemels JL, Walsh KM
   link:
     url: http://doi.org/101093/neuonc/noaa130
     display: Neuro Oncol 2020 Nov 26;22(11):1637-1646
@@ -466,7 +530,7 @@
 
 - title: "Glioblastoma Incidence Rate Trends in Canada and the United States Compared with England, 1995-2015"
   description: NA
-  authors: Davis FG, Smith TR, Gittleman HR, __Ostrom QT__, Kruchko C, Barnholtz-Sloan JS
+  authors: Davis FG, Smith TR, Gittleman HR, **Ostrom QT**, Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/10.1093/neuonc/noz203
     display: Neuro Oncol 2020 Feb 20;22(2):301-302
@@ -474,7 +538,7 @@
 
 - title: "Pilocytic Astrocytomas: where Do They Belong in Cancer Reporting?"
   description: This letter describes the history of inclusion of pilocytic astrocytoma in cancer registry reporting, and the effect of varying behavior classification for these tumors on incidence and survival patterns.
-  authors: __Ostrom QT__, Kruchko C, Barnholtz-Sloan JS
+  authors: **Ostrom QT**, Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/10.1093/neuonc/noz202
     display: Neuro Oncol 2020 Feb 20;22(2):298-300
@@ -482,7 +546,7 @@
 
 - title: "Glioma Risk Associated with Extent of Estimated European Genetic Ancestry in African Americans and Hispanics"
   description: NA
-  authors: __Ostrom QT__, Egan KM, Nabors LB, Gerke T, Thompson RC, Olson JJ, LaRocca R, Chowdhary S, Eckel-Passow JE, Armstrong G, Wiencke JK, Bernstein JL, Claus EB, Il'yasova D, Johansen C, Lachance DH, Lai RK, Merrell RT, Olson SH, Sadetzki S, Schildkraut JM, Shete S, Houlston RS, Jenkins RB, Wrensch MR, Melin B, Amos CI, Huse JT, Barnholtz-Sloan JS, Bondy ML
+  authors: **Ostrom QT**, Egan KM, Nabors LB, Gerke T, Thompson RC, Olson JJ, LaRocca R, Chowdhary S, Eckel-Passow JE, Armstrong G, Wiencke JK, Bernstein JL, Claus EB, Il'yasova D, Johansen C, Lachance DH, Lai RK, Merrell RT, Olson SH, Sadetzki S, Schildkraut JM, Shete S, Houlston RS, Jenkins RB, Wrensch MR, Melin B, Amos CI, Huse JT, Barnholtz-Sloan JS, Bondy ML
   link:
     url: http://doi.org/101002/ijc32318
     display: Int J Cancer 2020 Feb 1;146(3):739-748
@@ -490,7 +554,7 @@
 
 - title: "Multiple Primary Cancers in the United States"
   description: NA
-  authors: Qiao B, Hsieh M-C, Wu X-C, Kruchko C, Sineshaw H, Wu M, Huang B, Sherman R, __Ostrom QT__, Yu Q, Schymura MJ
+  authors: Qiao B, Hsieh M-C, Wu X-C, Kruchko C, Sineshaw H, Wu M, Huang B, Sherman R, **Ostrom QT**, Yu Q, Schymura MJ
   link:
     url: http://doi.org/NA
     display: J Registry Manag. 2020 Summer;47(2):60-66.
@@ -498,7 +562,7 @@
 
 - title: "Glioma Incidence and Survival Variations by County-Level Socioeconomic Measures"
   description: This analysis of glioma incidence and survival based on county-levels of SES identifies a significant association between both increased incidence and improved survival for individuals with glioma in higher SES counties.
-  authors: Cote DJ, __Ostrom QT__, Gittleman H, Duncan KR, CreveCoeur TS, Kruchko C, Smith TR, Stampfer MJ, Barnholtz-Sloan JS
+  authors: Cote DJ, **Ostrom QT**, Gittleman H, Duncan KR, CreveCoeur TS, Kruchko C, Smith TR, Stampfer MJ, Barnholtz-Sloan JS
   link:
     url: http://doi.org/101002/cncr32328
     display: Cancer 2019 Oct 1;125(19):3390-3400
@@ -506,31 +570,31 @@
 
 - title: "Primary Central Nervous System Lymphoma in Patients with and without HIV Infection: a Multicenter Study and Comparison with US National Data"
   description: NA
-  authors: Dandachi D, __Ostrom QT__, Chong I, Serpa JA, Giordano TP, Kruchko C, Barnholtz-Sloan JS, Fowler N, Colen RR, Moron FE
+  authors: Dandachi D, **Ostrom QT**, Chong I, Serpa JA, Giordano TP, Kruchko C, Barnholtz-Sloan JS, Fowler N, Colen RR, Moron FE
   link:
     url: http://doi.org/101007/s10552-019-01144-8
     display: Cancer Causes Control 2019 May;30(5):477-488
   highlight: 0
 
-- title: "Aspirin, NSAIDs, and Glioma Risk: Original Data from the Glioma International Case-Control Study and a Meta-Analysis"
-  description: NA
-  authors: Amirian ES+, __Ostrom QT+__, Armstrong GN, Lai RK, Gu X, Jacobs DI, Jalali A, Claus EB, Barnholtz-Sloan JS, Il'yasova D, Schildkraut JM, Ali-Osman F, Sadetzki S, Jenkins RB, Lachance DH, Olson SH, Bernstein JL, Merrell RT, Wrensch MR, Johansen C, Houlston RS, Scheurer ME, Shete S, Amos CI, Melin B, Bondy ML
-  link:
-    url: http://doi.org/101158/1055-9965EPI-18-0702
-    display: Cancer Epidemiol Biomarkers Prev 2019 Mar;28(3):555-562
-  highlight: 0
-
 - title: "Primary Brain and Other Central Nervous System Tumors in Appalachia: Regional Differences in Incidence, Mortality, and Survival"
   description: NA
-  authors: __Ostrom QT__, Gittleman H, Kruchko C, Barnholtz-Sloan JS
+  authors: **Ostrom QT**, Gittleman H, Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/101007/s11060-018-03073-z
     display: J Neurooncol 2019 Mar;142(1):27-38
   highlight: 0
 
+- title: "Aspirin, NSAIDs, and Glioma Risk: Original Data from the Glioma International Case-Control Study and a Meta-Analysis"
+  description: NA
+  authors: Amirian ES+, **Ostrom QT+**, Armstrong GN, Lai RK, Gu X, Jacobs DI, Jalali A, Claus EB, Barnholtz-Sloan JS, Il'yasova D, Schildkraut JM, Ali-Osman F, Sadetzki S, Jenkins RB, Lachance DH, Olson SH, Bernstein JL, Merrell RT, Wrensch MR, Johansen C, Houlston RS, Scheurer ME, Shete S, Amos CI, Melin B, Bondy ML
+  link:
+    url: http://doi.org/101158/1055-9965EPI-18-0702
+    display: Cancer Epidemiol Biomarkers Prev 2019 Mar;28(3):555-562
+  highlight: 0
+
 - title: "Adult Glioma Incidence and Survival by Race or Ethnicity in the United States from 2000 to 2014"
   description: NA
-  authors: __Ostrom QT__,+ Cote DJ+, Ascha M, Kruchko C, Barnholtz-Sloan JS
+  authors: **Ostrom QT**,+ Cote DJ+, Ascha M, Kruchko C, Barnholtz-Sloan JS
   link:
     url: http://doi.org/101001/jamaoncol20181789
     display: JAMA Oncol 2018 Sep 1;4(9):1254-1262
@@ -538,7 +602,7 @@
 
 - title: "Females Have the Survival Advantage in Glioblastoma"
   description: NA
-  authors: __Ostrom QT__, Rubin JB, Lathia JD, Berens ME, Barnholtz-Sloan JS
+  authors: **Ostrom QT**, Rubin JB, Lathia JD, Berens ME, Barnholtz-Sloan JS
   link:
     url: http://doi.org/10.1093/neuonc/noy002
     display: Neuro Oncol 2018 Mar 27;20(4):576-577
