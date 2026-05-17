@@ -3,7 +3,7 @@ title: "Ostrom Lab - Team"
 layout: gridlay
 excerpt: "Ostrom Lab: Team members"
 sitemap: false
-permalink: /_pages/team/
+permalink: /team/
 ---
 
 # Group Members

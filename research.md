@@ -3,7 +3,7 @@ title: "Ostrom Lab - Research"
 layout: textlay
 excerpt: "Ostrom Lab -- Research"
 sitemap: false
-permalink: /_pages/research/
+permalink: /research/
 ---
 
 # Research
