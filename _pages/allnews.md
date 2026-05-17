@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "Ostrom Lab at Duke University School of Medicine."
 sitemap: false
-permalink: /allnews.html
+permalink: /_pages/allnews.html
 ---
 
 # News

@@ -3,7 +3,7 @@ title: "Ostrom Lab - Contact"
 layout: gridlay
 excerpt: "Ostrom Lab: Contact"
 sitemap: false
-permalink: /contact/
+permalink: /_pages/contact/
 ---
 
 <h4>We love collaborating!</h4>

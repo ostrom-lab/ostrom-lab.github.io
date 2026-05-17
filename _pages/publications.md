@@ -3,7 +3,7 @@ title: "Ostrom Lab - Publications"
 layout: gridlay
 excerpt: "Ostrom Lab -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /_pages/publications/
 ---
 
 

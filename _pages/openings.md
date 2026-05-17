@@ -3,7 +3,7 @@ title: "Ostrom Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /_pages/openings
 ---
 
 # Open positions
