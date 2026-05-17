@@ -3,20 +3,21 @@
   text: The Ostrom Lab in the Department of Neurosurgery is looking for an experienced research analyst to join our team focused on identifying risk factors for primary and metastatic brain tumors. This role involves providing leadership and expertise in conducting complex research activities, including planning, organizing, conducting, and communicating multiple research epidemiological studies. Please apply via [Duke Careers](https://careers.duke.edu/job/Durham-RESEARCH-ANALYST-I-NC-27710/1390512700/).
 
 - date: May 2026
-  headline: May is <a href="https://tischbraintumorcenter.duke.edu/brain-tumor-awareness-2026">brain tumor awareness month</a>.
+  headline: May is [Brain Tumor Awareness month](https://tischbraintumorcenter.duke.edu/brain-tumor-awareness-2026).
   image: "1777568073500.jpg"
+  text: <img src="https://ostrom-lab.github.io/images/news/1777568073500.jpg" width="30%">
   
 - date: December 2025
   headline: Paper published in Neuro-Oncology
-  text: our paper, <a href="https://pubmed.ncbi.nlm.nih.gov/41359781/">Gabapentin repurposing for glioblastoma therapy: Real-world data analyses augmented by use of active comparators</a> is published in <i>Neuro-Oncology</i>.
+  text: Our paper, [Gabapentin repurposing for glioblastoma therapy: Real-world data analyses augmented by use of active comparators](https://pubmed.ncbi.nlm.nih.gov/41359781/) is published in *Neuro-Oncology*.
 
 - date: June 23 2025
   headline: Paper published in CEBP
-  text: Our paper,<a href="https://pubmed.ncbi.nlm.nih.gov/40548861/">Atopy improves survival and decreases risk of brain metastasis in cutaneous melanoma</a>, is published in <i>Cancer, Epidemiology, Biomarkers, and Prevention</i>!
+  text: Our paper, ()Atopy improves survival and decreases risk of brain metastasis in cutaneous melanoma)[https://pubmed.ncbi.nlm.nih.gov/40548861/], is published in *Cancer, Epidemiology, Biomarkers, and Prevention*!
   
 - date: June 15 2025
   headline: Paper published in Neuro-Oncology 
-  text: Our paper, <a href="https://pubmed.ncbi.nlm.nih.gov/40517297/">Years of life lost due to central nervous system tumor subtypes in the United States</a>, is published in <i>Neuro-Oncology</i>.
+  text: Our paper, [Years of life lost due to central nervous system tumor subtypes in the United States](https://pubmed.ncbi.nlm.nih.gov/40517297/), is published in *Neuro-Oncology*.
   
 - date: June 2025
   headline: Presentation at NAACCR 2025
@@ -38,10 +39,11 @@
   text:
   
 - date: March 2025
-  headline: Quinn attended a meeting on <a href="https://www.linkedin.com/posts/the-banbury-center_thank-you-to-participants-of-glioblastoma-activity-7318000228282847234-XWC7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAQJ9oBLK0h01w-HHgOf8B2Ui4lYzCS4uI">Glioblastoma</a> at the Banbury Center at Cold Spring Harbor Laboratory
+  headline: Quinn attended a meeting on [Glioblastoma](https://www.linkedin.com/posts/the-banbury-center_thank-you-to-participants-of-glioblastoma-activity-7318000228282847234-XWC7] at the Banbury Center at Cold Spring Harbor Laboratory
   
 - date: Febuary 1 2025
-  headline: Our paper, <a href="https://pubmed.ncbi.nlm.nih.gov/39392420/">Grade-stratified meningioma risk among individuals who are non-Hispanic Black and interactions with male sex</a>, is published in <i>JNCI</i>!
+  headline: Paper published in *JNCI*
+  text: Our paper, [Grade-stratified meningioma risk among individuals who are non-Hispanic Black and interactions with male sex](https://pubmed.ncbi.nlm.nih.gov/39392420/), is published in *Journal of the National Cancer Institute*!
   image: "m_djae253f1.jpeg"
 
 - date: November 2024
@@ -54,8 +56,10 @@
 - date: October 2024
   headline: Quinn and Mackenzie attened the European Association for Neuro-Oncology Annual Meeting in Glasgow, Scotland.
   text: Mackenzie presented our ongoing work on the associationed between <a href="https://doi.org/10.1093/neuonc/noae144.444">air pollition and brain tumor incidence</a>.
+  
 - date: October 2024
-  headline: The 2024 CBTRUS statistical report is <a href="https://academic.oup.com/neuro-oncology/article-lookup/doi/10.1093/neuonc/noae145">published</a>! 
+  headline: The 2024 CBTRUS statistical report is <a href="https://academic.oup.com/neuro-oncology/article-lookup/doi/10.1093/neuonc/noae145">published</a>!
+  
 - date: May 2024
   headline: Christine and Mackenzie presented at the Brain Tumor Epidemiology Consortium Annual Meeting in Mainz, Germany
   image: "IMG_2798.JPG"
