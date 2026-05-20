@@ -2,6 +2,7 @@ librarian::shelf(tidyverse,readxl,pubmedR,bibliometrix )
 
 base.location <- dirname(rstudioapi::getSourceEditorContext()$path)
 setwd(base.location)
+setwd("..")
 
 if (Sys.info()['sysname']=="Windows"){ 
   source("C:\\Users\\qo\\OneDrive - Duke University\\Ongoing_Projects\\CV/CV_files/CV_scripts.R")

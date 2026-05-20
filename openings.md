@@ -17,4 +17,4 @@ Please apply via [Duke Careers](https://careers.duke.edu/job/Durham-RESEARCH-ANA
 
 If you are interested in working on research in our group, please fill out our [student research interest form](https://forms.gle/w9gagUedxi4g5e3Z7). For Duke Undergraduates,  we also regularly post positions on [Muser](https://muser.duke.edu/). 
 
-
+CBTRUS will post internship opportunities that allow trainees in public health related fields to work with us on cancer registry related projects. [See here](https://cbtrus.org/opportunities-with-cbtrus/) for details. 

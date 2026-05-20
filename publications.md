@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-**At the end of this page, you can find a [full list of publication](#Selected-publications).**
+**At the end of this page, you can find a [full list of publications](#Ostrom-lab-publications-and-collaborations).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -58,11 +58,11 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-{{ publi.title }} <br />
+<b>{{ publi.title }} </b><br />
 <em>{{ publi.authors }} </em><br />
-<a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
+<a href="{{ publi.link.url }}">{{ publi.link.display }}</a> 
 {% if publi.description %}
-{{ publi.description }} 
+{{ publi.description }} <br>
 {% endif %}
 
 {% endfor %}
