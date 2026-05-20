@@ -31,10 +31,11 @@ A central pillar of our research program is leadership of the data analysis cent
 Our group also develops analytic tools and resources for the field, including methods for estimating complete cancer prevalence (e.g., [prevEst](https://github.com/ostrom-lab/prevEst)) and harmonization of brain tumor classification to support reproducible research.
 
 Please see our most recent CBTRUS statistical reports:
+<<<<<<< HEAD
 <div style="width:100%;vertical-align: top">
 <div style="width:30%" class="highlight-box">
 <img src="images/pubpic/cover-scaled-e1760523026722.jpeg" align="center" width="70%"><br>
-,b>CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2018-2022</b><br>
+<b>CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2018-2022</b><br>
 The annual CBTRUS statistical report provides the most up-to-date, comprehensive data on how often brain tumors occur in the United States and how incidence, survival, and mortality vary across different populations.
 <a href="http://doi.org/10.1093/neuonc/noaf194">Neuro Oncol. 2025 Oct 14;27(Supplement_4):iv1-iv66</a>.
 </div>
@@ -55,19 +56,18 @@ This national report, supported by the Pediatric Brain Tumor Foundation, provide
 ### Genetic and social drivers of disparities in brain tumors
 Our research has helped define the role of genetic ancestry in glioma risk and survival, including early identification of survival disparities and the contribution of European ancestry to glioma susceptibility. We are leading efforts to conduct large-scale, multi-ancestry genomic studies and integrate GWAS data with single-cell and functional datasets to identify biological drivers of disparity. 
 
+
 Please see representative publications below:<br> 
 <div style="width:100%;vertical-align: top">
 <div style="width:30%" class="highlight-box">
 <b>Influence of Geographic/Ancestral Origin on Glioma Incidence and Outcomes in US Hispanics</b><br>
 Using population-based data, we shows that glioma risk and survival differ within U.S. Hispanic populations depending on geographic and predominant ancestral background, highlighting important genetic and population diversity that influences brain tumor risk and outcomes. 
 <a href="http://doi.org/10.1093/neuonc/noac175">Neuro Oncol. 2023 Feb 14;25(2):398-406</a>.
-
 </div>
 <div style="width:30%" class="highlight-box">
 <b>Glioma Risk Associated with Extent of Estimated European Genetic Ancestry in African Americans and Hispanics</b><br>
 This study shows that individuals with greater European genetic ancestry have a higher risk of developing glioma among African American and Hispanic populations, highlighting population variation in inherited genetic susceptibility to glioma. 
 <a href="http://doi.org/101002/ijc32318">Int J Cancer 2020 Feb 1;146(3):739-748</a>.
-
 </div>
 <div style="width:30%" class="highlight-box">
 <b>Adult Glioma Incidence and Survival by Race or Ethnicity in the United States from 2000 to 2014</b><br>
@@ -78,8 +78,7 @@ In this large population-based study, we show that glioma incidence and survival
 ### Immunoepidemiology of glioma
 A major focus of our program is understanding the relationship between immune function and glioma risk and outcomes. Current work aims to define the mechanisms underlying these associations and extend these approaches to brain metastases, where immune-related risk and survival patterns remain poorly understood.
 
-
-Please see some representative publications below:<br> 
+Please see representative publications below:<br> 
 <div style="width:100%; align:center;vertical-align: top">
 <div style="width:45%" class="highlight-box">
 <b>Partitioned glioma heritability shows subtype-specific enrichment in immune cells</b><br>
