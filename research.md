@@ -28,7 +28,6 @@ We leverage diverse data sources—including cancer registries, genomic datasets
 ## Current Research Themes
 ### Population-based statistics for brain tumors
 A central pillar of our research program is leadership of the data analysis center for the [Central Brain Tumor Registry of the United States (CBTRUS)](http://cbtrus.org), which captures data on approximately 99.9% of newly diagnosed brain tumors nationwide. Through CBTRUS, we produce the annual statistical report published in *Neuro-Oncology* and related scientific manuscripts. These data provide a critical foundation for hypothesis generation, enabling identification of demographic and geographic patterns in brain tumor incidence and survival.
-Our group also develops analytic tools and resources for the field, including methods for estimating complete cancer prevalence (e.g., [prevEst](https://github.com/ostrom-lab/prevEst)) and harmonization of brain tumor classification to support reproducible research.
 
 Please see our most recent CBTRUS statistical reports:
 
@@ -51,8 +50,7 @@ This national report, supported by the Pediatric Brain Tumor Foundation, provide
 </div>
 
 ### Genetic and social drivers of disparities in brain tumors
-Our research has helped define the role of genetic ancestry in glioma risk and survival, including early identification of survival disparities and the contribution of European ancestry to glioma susceptibility. We are leading efforts to conduct large-scale, multi-ancestry genomic studies and integrate GWAS data with single-cell and functional datasets to identify biological drivers of disparity. 
-
+Our research has helped define the role of genetic ancestry in glioma risk and survival, including early identification of survival disparities and the contribution of European ancestry to glioma susceptibility. 
 
 Please see representative publications below:<br> 
 <div class="highlight-box">
@@ -73,7 +71,7 @@ In this large population-based study, we show that glioma incidence and survival
 </div> </div>
 
 ### Immunoepidemiology of glioma
-A major focus of our program is understanding the relationship between immune function and glioma risk and outcomes. Current work aims to define the mechanisms underlying these associations and extend these approaches to brain metastases, where immune-related risk and survival patterns remain poorly understood.
+A major focus of our program is understanding the relationship between immune function and glioma risk and outcomes. Current work aims to define the mechanisms underlying these associations.
 
 Please see representative publications below:<br> 
 <div class="highlight-box">
@@ -108,7 +106,7 @@ Using Medicare claims linked to cancer registry data, we show that people with a
 
 
 ### Real-world data and methods development
-We are developing methodologies to improve the use of real-world data (RWD) in neuro-oncology research. These data sources provide critical insights into treatment patterns and outcomes at population scale. Ongoing work includes development of clinically meaningful endpoints for glioblastoma, evaluation of RWD as external controls for clinical trials, and establishment of best practices for rigorous, reproducible RWD analyses.
+We are developing methodologies to improve the use of real-world data (RWD) in neuro-oncology research. These data sources provide critical insights into treatment patterns and outcomes at population scale. 
 
 Please see representative publications below:<br> 
 <div class="highlight-box">
