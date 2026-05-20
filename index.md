@@ -17,8 +17,8 @@ The Ostrom Lab is part of the Division of Neuro-Epidemiology in the <a href="htt
 <p>
 Our work has been supported by:
 <div>
-<div style="display: inline-block;width:33%"><img src="images/funders/NIH.png" align="center" width="80%"></div>
-<div style="display: inline-block;width:33%"><img src="images/funders/ACS.png" align="center" width="80%"></div>
-<div style="display: inline-block;width:33%"><img src="images/funders/Servier.jpg" align="center" width="80%"></div>
+<div style="display: inline-block;width:30%"><img src="images/funders/NIH.png" align="center" width="80%"></div>
+<div style="display: inline-block;width:30%"><img src="images/funders/ACS.png" align="center" width="80%"></div>
+<div style="display: inline-block;width:30%"><img src="images/funders/Servier.jpg" align="center" width="80%"></div>
 </div>
 

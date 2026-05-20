@@ -30,7 +30,7 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="150px" style="float: left" />
   {% endif  %}
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.First.author | markdownify }}</em></p>
+  <p><em>{{ publi.First_author | markdownify }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
