@@ -5,7 +5,7 @@
 - date: May 2026
   headline: May is [Brain Tumor Awareness month](https://tischbraintumorcenter.duke.edu/brain-tumor-awareness-2026).
   image: "1777568073500.jpg"
-  text: <img src="https://ostrom-lab.github.io/images/news/1777568073500.jpg" width="30%">
+  text: <img src="images/news/1777568073500.jpg" width="30%">
 
 - date: June 23 2025
   headline: Paper published in CEBP
@@ -22,17 +22,15 @@
 - date: June 1 2025
   headline: June is [Brain and Spine Metastasis Awareness Month](https://neurosurgery.duke.edu/brain-spine-metastasis-month)
   image: "mets_almost_any_gray.png"
-  text: <img src="https://ostrom-lab.github.io/images/news/mets_almost_any_gray.png" width="30%">
+  text: <img src="images/news/mets_almost_any_gray.png" width="30%">
   
 - date: May 2025
   headline: Christine and Julia presented their ongoing work at the Brain Tumor Epidemiology Consortium Annual Meeting in Durham, North Carolina
   image: "IMG_6139.JPEG"
-  text: Christine presented her work on "Incidence of primary malignant brain and central nervous system tumors by global region", and Julia presented on "The impact of the COVID-19 pandemic on IDH-wildtype glioblastoma survival". <br> <center> <img src="https://ostrom-lab.github.io/images/news/IMG_6139.JPG" width="30%"> 
+  text: Christine presented her work on "Incidence of primary malignant brain and central nervous system tumors by global region", and Julia presented on "The impact of the COVID-19 pandemic on IDH-wildtype glioblastoma survival". <br> <img src="images/news/IMG_6139.JPG" width="30%" align="center"> 
 
 - date: May 1 2025
   headline: May is [brain tumor awareness month](https://tischbraintumorcenter.duke.edu/brain-tumor-awareness-2025)
-  image:
-  text:
   
 - date: March 2025
   headline: Quinn attended a meeting on [Glioblastoma](https://www.linkedin.com/posts/the-banbury-center_thank-you-to-participants-of-glioblastoma-activity-7318000228282847234-XWC7] at the Banbury Center at Cold Spring Harbor Laboratory
