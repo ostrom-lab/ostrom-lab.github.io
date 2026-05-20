@@ -27,10 +27,10 @@ permalink: /publications/
  <div class="well" style="overflow: hidden">
   <pubtit>{{ publi.title }}</pubtit>
   {% if  publi.image contains "." %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="150px" style="float: left" />
   {% endif  %}
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors | markdownify }}</em></p>
+  <p><em>{{ publi.First.author | markdownify }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
@@ -59,7 +59,9 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 <b>{{ publi.title }} </b><br />
-<em>{{ publi.authors }} </em><br /> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>  {% if publi.description %} {{ publi.description }} <br><br>
+<em>{{ publi.authors }} </em><br />
+ {% if publi.description %} {{ publi.description }} <br>
 {% endif %}
+<a href="{{ publi.link.url }}">{{ publi.link.display }}</a> 
 
 {% endfor %}

@@ -1,4 +1,4 @@
-librarian::shelf(tidyverse,readxl,pubmedR,bibliometrix )
+librarian::shelf(tidyverse,readxl,pubmedR,bibliometrix,stringr )
 
 base.location <- dirname(rstudioapi::getSourceEditorContext()$path)
 setwd(base.location)
@@ -14,6 +14,8 @@ if (Sys.info()['sysname']=="Windows"){
 
 peerreview <- data %>%
   CleanPubs() %>%
+  mutate(First.author = case_when(str_count(Authors, ',')>2 ~ gsub(",.*",", et al.",Authors),
+                                 TRUE~ Authors) %>% gsub("\\*","",.)) %>%
   filter((!is.na(Create.Date) | !is.na(Publication.Year2) | !is.na(DOI)) & include_website ==1) %>%
   arrange(-as.numeric(Publication.Year),-Publication.Month,-Publication.Day)
 
@@ -33,6 +35,8 @@ for (a in 1:nrow(peerreview)) {
    cat("\n")
   }
   cat(paste("  authors: ",gsub("\\*","",peerreview$Authors[a]),sep=""))
+  cat("\n")
+  cat(paste("  First.author: ",gsub("\\*","",peerreview$First.author[a]),sep=""))
   cat("\n")
   cat("  link:")
   cat("\n")
