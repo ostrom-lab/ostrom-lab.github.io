@@ -3,7 +3,7 @@ title: "Ostrom Lab - Research"
 layout: textlay
 excerpt: "Ostrom Lab -- Research"
 sitemap: false
-permalink: /research/
+permalink: 
 ---
 
 # Research
@@ -31,46 +31,45 @@ A central pillar of our research program is leadership of the data analysis cent
 Our group also develops analytic tools and resources for the field, including methods for estimating complete cancer prevalence (e.g., [prevEst](https://github.com/ostrom-lab/prevEst)) and harmonization of brain tumor classification to support reproducible research.
 
 Please see our most recent CBTRUS statistical reports:
-<div>
+<div style="width:100%">
 <div style="display: inline-block;width:30%"><img src="images/pubpic/cover-scaled-e1760523026722.jpeg" align="center" width="80%"><br>
-**CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2018-2022** 
+,b>CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2018-2022</b><br>
 The annual CBTRUS statistical report provides the most up-to-date, comprehensive data on how often brain tumors occur in the United States and how incidence, survival, and mortality vary across different populations.
-[Neuro Oncol. 2025 Oct 14;27(Supplement_4):iv1-iv66.](http://doi.org/10.1093/neuonc/noaf194)
+<a href="http://doi.org/10.1093/neuonc/noaf194">Neuro Oncol. 2025 Oct 14;27(Supplement_4):iv1-iv66</a>.
 </div>
 <div style="display: inline-block;width:30%"><img src="images/pubpic/CBTRUS-AYA-2024-1.jpeg" align="center" width="80%"><br>
-**CBTRUS Statistical Report: American Brain Tumor Association & NCI Neuro-Oncology Branch Adolescent and Young Adult Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2016-2020**
+<b>CBTRUS Statistical Report: American Brain Tumor Association & NCI Neuro-Oncology Branch Adolescent and Young Adult Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2016-2020</b><br>
 This national report, funded by the National Cancer Institute and the American Brain Tumor Association, provides a comprehensive overview of brain tumor patterns in adolescents and young adults, highlighting unique disease characteristics and persistent gaps in survival for this population.
-[Neuro Oncol. 2024 May 6;26(Supplement_3):iii1-iii53.](http://doi.org/10.1093/neuonc/noae047)
+<a href="http://doi.org/10.1093/neuonc/noae04">[Neuro Oncol. 2024 May 6;26(Supplement_3):iii1-iii53</a>.
 </div>
 <div style="display: inline-block;width:30%"><img src="images/pubpic/Screenshot-2025-09-15-171009-e1757949289464.png" align="center" width="80%"><br>
-**CBTRUS Statistical Report: Pediatric Brain Tumor Foundation Childhood and Adolescent Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2017-2021**
+<b>CBTRUS Statistical Report: Pediatric Brain Tumor Foundation Childhood and Adolescent Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2017-2021</b><br>
 This national report, supported by the Pediatric Brain Tumor Foundation, provides comprehensive, population-based data on brain tumors in children and adolescents in the United States, highlighting their incidence, outcomes, and substantial impact as the leading cause of cancer-related death in this age group.
-[Neuro Oncol. 2025 Sep 15;27(Supplement_1):i1-i42.](http://doi.org/10.1093/neuonc/noaf168)
+<a href="http://doi.org/10.1093/neuonc/noaf168">Neuro Oncol. 2025 Sep 15;27(Supplement_1):i1-i42</a>.
 </div>
 </div>
 
 ### Genetic and social drivers of disparities in brain tumors
 Our research has helped define the role of genetic ancestry in glioma risk and survival, including early identification of survival disparities and the contribution of European ancestry to glioma susceptibility. We are leading efforts to conduct large-scale, multi-ancestry genomic studies and integrate GWAS data with single-cell and functional datasets to identify biological drivers of disparity. 
 
-Please see some representative publications below:
-<div>
+Please see some representative publications below:<br> 
+<div style="width:100%">
 <div style="display: inline-block;width:30%"><img src="images/pubpic/cover-scaled-e1760523026722.jpeg" align="center" width="80%"><br>
-
-**Influence of Geographic/Ancestral Origin on Glioma Incidence and Outcomes in US Hispanics**
-Using population-based data, we shows that glioma risk and survival differ within U.S. Hispanic populations depending on geographic and predominant ancestral background, highlighting important genetic and population diversity that influences brain tumor risk and outcomes.
-[Neuro Oncol. 2023 Feb 14;25(2):398-406.](http://doi.org/10.1093/neuonc/noac175)
+<b>Influence of Geographic/Ancestral Origin on Glioma Incidence and Outcomes in US Hispanics</b><br>
+Using population-based data, we shows that glioma risk and survival differ within U.S. Hispanic populations depending on geographic and predominant ancestral background, highlighting important genetic and population diversity that influences brain tumor risk and outcomes. 
+<a href="http://doi.org/10.1093/neuonc/noac175">Neuro Oncol. 2023 Feb 14;25(2):398-406</a>.
 
 </div>
 <div style="display: inline-block;width:30%"><img src="images/pubpic/CBTRUS-AYA-2024-1.jpeg" align="center" width="80%"><br>
-**Glioma Risk Associated with Extent of Estimated European Genetic Ancestry in African Americans and Hispanics**
-This study shows that individuals with greater European genetic ancestry have a higher risk of developing glioma among African American and Hispanic populations, highlighting population variation in inherited genetic susceptibility to glioma.
-[Int J Cancer 2020 Feb 1;146(3):739-748](http://doi.org/101002/ijc32318)
+<b>Glioma Risk Associated with Extent of Estimated European Genetic Ancestry in African Americans and Hispanics</b><br>
+This study shows that individuals with greater European genetic ancestry have a higher risk of developing glioma among African American and Hispanic populations, highlighting population variation in inherited genetic susceptibility to glioma. 
+<a href="http://doi.org/101002/ijc32318">Int J Cancer 2020 Feb 1;146(3):739-748</a>.
 
 </div>
 <div style="display: inline-block;width:30%"><img src="images/pubpic/Screenshot-2025-09-15-171009-e1757949289464.png" align="center" width="80%"><br>
-**Adult Glioma Incidence and Survival by Race or Ethnicity in the United States from 2000 to 2014**
-In this large population-based study, we show that glioma incidence and survival differ across racial and ethnic groups in the United States, with higher incidence but often poorer survival observed among non-Hispanic White patients compared to other groups.
-[JAMA Oncol 2018 Sep 1;4(9):1254-1262](http://doi.org/101001/jamaoncol20181789)
+<br>Adult Glioma Incidence and Survival by Race or Ethnicity in the United States from 2000 to 2014</b><br>
+In this large population-based study, we show that glioma incidence and survival differ across racial and ethnic groups in the United States, with higher incidence but often poorer survival observed among non-Hispanic White patients compared to other groups. 
+<a href="http://doi.org/101001/jamaoncol20181789">JAMA Oncol 2018 Sep 1;4(9):1254-1262</a>.
 </div> </div>
 
 ### Immunoepidemiology of glioma
