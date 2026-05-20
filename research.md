@@ -33,20 +33,17 @@ Our group also develops analytic tools and resources for the field, including me
 Please see our most recent CBTRUS statistical reports:
 
 <div class="highlight-box">
-<div style="width:30%" >
-<img src="images/pubpic/cover-scaled-e1760523026722.jpeg" align="center" width="70%"><br>
+<div style="width:30%" ><img src="images/pubpic/cover-scaled-e1760523026722.jpeg">
 <b>CBTRUS Statistical Report: Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2018-2022</b><br>
 The annual CBTRUS statistical report provides the most up-to-date, comprehensive data on how often brain tumors occur in the United States and how incidence, survival, and mortality vary across different populations.
 <a href="http://doi.org/10.1093/neuonc/noaf194">Neuro Oncol. 2025 Oct 14;27(Supplement_4):iv1-iv66</a>.
 </div>
-<div style="width:30%">
-<img src="images/pubpic/CBTRUS-AYA-2024-1.jpeg" align="center" width="70%"><br>
+<div style="width:30%"><img src="images/pubpic/CBTRUS-AYA-2024-1.jpeg">
 <b>CBTRUS Statistical Report: American Brain Tumor Association & NCI Neuro-Oncology Branch Adolescent and Young Adult Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2016-2020</b><br>
 This national report, funded by the National Cancer Institute and the American Brain Tumor Association, provides a comprehensive overview of brain tumor patterns in adolescents and young adults, highlighting unique disease characteristics and persistent gaps in survival for this population.
-<a href="http://doi.org/10.1093/neuonc/noae04">[Neuro Oncol. 2024 May 6;26(Supplement_3):iii1-iii53</a>.
+<a href="http://doi.org/10.1093/neuonc/noae04">Neuro Oncol. 2024 May 6;26(Supplement_3):iii1-iii53</a>.
 </div>
-<div style="width:30%">
-<img src="images/pubpic/Screenshot-2025-09-15-171009-e1757949289464.png" align="center" width="70%"><br>
+<div style="width:30%"><img src="images/pubpic/Screenshot-2025-09-15-171009-e1757949289464.png">
 <b>CBTRUS Statistical Report: Pediatric Brain Tumor Foundation Childhood and Adolescent Primary Brain and Other Central Nervous System Tumors Diagnosed in the United States in 2017-2021</b><br>
 This national report, supported by the Pediatric Brain Tumor Foundation, provides comprehensive, population-based data on brain tumors in children and adolescents in the United States, highlighting their incidence, outcomes, and substantial impact as the leading cause of cancer-related death in this age group.
 <a href="http://doi.org/10.1093/neuonc/noaf168">Neuro Oncol. 2025 Sep 15;27(Supplement_1):i1-i42</a>.

@@ -27,7 +27,7 @@ permalink: /publications/
  <div class="well" style="overflow: hidden">
   <pubtit>{{ publi.title }}</pubtit>
   {% if  publi.image contains "." %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="50px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" height="30%" style="float: left" />
   {% endif  %}
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.First_author | markdownify }}</em></p>
