@@ -91,10 +91,21 @@ firstp {
     margin-right: 30px;
 }
 
-
+-box
 
 .social {
   position: absolute;
   float: right;
 }
   
+  
+  
+/* Research page */
+
+.highlight-box {
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 15px;
+  border: 2px solid rgba(0,0,0,.25);
+  padding: 10px
+}
