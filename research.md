@@ -92,8 +92,41 @@ Examining national private payer insurance claims, we identify decreased frequen
 ### Epidemiology of brain metastases
 Metastatic brain tumors are the most common tumors affecting the central nervous system but remain understudied from an epidemiologic perspective. Our research focuses on identifying patients at highest risk for developing brain metastases and understanding factors that influence outcomes across cancer types.
 
+Please see representative publications below:<br> 
+<div class="highlight-box">
+<div style="width:45%">
+<b>Epidemiology and Survival of Adolescents and Young Adults with Brain Metastases Versus Older Adults </b><br>
+Compares adolescent and young adult patients with brain metastases to older adults, showing distinct epidemiologic patterns and generally poorer survival outcomes despite broader improvements in cancer survival 
+<a href="http://doi.org/10.1007/s11060-025-05332-2">J Neurooncol. 2025 Nov 12;176(1):81.</a>.
+</div>
+<div style="width:45%">
+<b>Atopy Improves Survival and Decreases Risk of Brain Metastasis in Cutaneous Melanoma </b><br>
+Using Medicare claims linked to cancer registry data, we show that people with a history of allergic conditions have better survival and a lower likelihood of developing brain metastases after melanoma, suggesting that immune system activity may influence metastatic as well as primary CNS tumors.
+<a href="http://doi.org/10.1158/1055-9965.EPI-24-1212">Cancer Epidemiol Biomarkers Prev. 2025 Sep 2;34(9):1600-1608.</a>.
+</div>
+</div>
+
+
 ### Real-world data and methods development
 We are developing methodologies to improve the use of real-world data (RWD) in neuro-oncology research. These data sources provide critical insights into treatment patterns and outcomes at population scale. Ongoing work includes development of clinically meaningful endpoints for glioblastoma, evaluation of RWD as external controls for clinical trials, and establishment of best practices for rigorous, reproducible RWD analyses.
 
+Please see representative publications below:<br> 
+<div class="highlight-box">
+<div style="width:45%">
+<b>Complete Prevalence of Primary Malignant and Non-Malignant Brain Tumors in Comparison to Other Cancers in the United States</b><br>
+This analysis included the first complete estimates for the prevalence of both primary malignant and non-malignant brain and other central nervous system tumors in the United States as of 2019, an update to previous results.
+<a href="http://doi.org/10.1002/cncr.34837">Cancer. 2023 Aug 15;129(16):2514-2521.</a>.
+</div>
+</div>
+
 ### Pharmacoepidemiology and drug repurposing
 Building on our RWD infrastructure, we are conducting studies to identify existing medications with potential benefit for glioma treatment. This work integrates pharmacoepidemiologic methods with causal inference approaches, including target trial emulation, to systematically evaluate drugs as candidates for repurposing.
+
+Please see representative publications below:<br> 
+<div class="highlight-box">
+<div style="width:45%">
+<b>Gabapentin Repurposing for Glioblastoma Therapy: Real-World Data Analyses Augmented by Use of Active Comparators.</b><br>
+Using large real-world data, we evaluated whether the commonly used medication gabapentin may improve survival in glioblastoma patients, highlighting its potential for drug repurposing in brain cancer treatment.
+<a href="http://doi.org/10.1093/neuonc/noaf280">Neuro Oncol. 2026 Apr 1;28(4):1078-1080.</a>.
+</div>
+</div>
