@@ -1,12 +1,23 @@
-librarian::shelf(tidyverse,readxl)
+librarian::shelf(tidyverse,readxl,pubmedR,bibliometrix )
 
-source("/Users/quinn/Library/CloudStorage/OneDrive-DukeUniversity/Ongoing_Projects/CV/CV_files/CV_scripts.R")
+base.location <- dirname(rstudioapi::getSourceEditorContext()$path)
+setwd(base.location)
 
+if (Sys.info()['sysname']=="Windows"){ 
+  source("C:\\Users\\qo\\OneDrive - Duke University\\Ongoing_Projects\\CV/CV_files/CV_scripts.R")
+  data <- readxl::read_excel("C:\\Users\\qo\\OneDrive - Duke University\\Ongoing_Projects/CV/CV_files/Publications.xlsx",sheet="PeerReviewed") 
+} else {
+  source("/Users/quinn/Library/CloudStorage/OneDrive-DukeUniversity/Ongoing_Projects/CV/CV_files/CV_scripts.R")
+  data <- readxl::read_excel("/Users/quinn/Library/CloudStorage/OneDrive-DukeUniversity/Ongoing_Projects/CV/CV_files/Publications.xlsx",sheet="PeerReviewed") 
+}
 
-peerreview <- readxl::read_excel("/Users/quinn/Library/CloudStorage/OneDrive-DukeUniversity/Ongoing_Projects/CV/CV_files/Publications.xlsx",sheet="PeerReviewed") %>%
+peerreview <- data %>%
   CleanPubs() %>%
   filter((!is.na(Create.Date) | !is.na(Publication.Year2) | !is.na(DOI)) & include_website ==1) %>%
   arrange(-as.numeric(Publication.Year),-Publication.Month,-Publication.Day)
+
+# D <- pubmedR::pmFetchById(pmids = peerreview$PMID[which(!is.na(peerreview$PMID))])
+# M <-  pubmedR::pmApi2df(D)
 
 sink("_data/publist.txt")
 for (a in 1:nrow(peerreview)) {

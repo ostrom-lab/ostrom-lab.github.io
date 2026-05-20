@@ -1,4 +1,5 @@
 - title: "The Effect of Sex on Vestibular Schwannoma Incidence Varies Across the Lifespan and Modifies Associations with Race/Ethnicity"
+  description: Uses U.S. registry data to show that vestibular schwannoma incidence varies by age, with higher risk in females at younger ages but in males later in life, and that sex modifies racial/ethnic disparities in risk.
   authors: Parmar KV, Price M, Adil SM, Benedetti JR, Kruchko C, Walsh KM, Ostrom QT
   link:
     url: http://doi.org/10.1007/s11060-026-05448-z
@@ -27,6 +28,7 @@
   highlight: 0
 
 - title: "Years of Life Lost Due to Central Nervous System Tumor Subtypes in the United States"
+  description: This population-based study quantifies years of life lost due to central nervous system tumors in the United States, showing that malignant tumors-particularly glioblastoma-account for the greatest total burden, while pediatric tumors result in the highest average years of life lost per patient.
   authors: Gerstl J, Bernstock J,  Price M, Kruchko C, Spanehl L, Karandikar P, Barnholtz-Sloan J, Smith TR, Claus E, Ostrom QT
   link:
     url: http://doi.org/10.1093/neuonc/noaf142
@@ -34,6 +36,7 @@
   highlight: 0
 
 - title: "Determinants of Geographic Variation in the Incidence of Adult Nonmalignant Meningioma in the United States, 2010-2019."
+  description: This population-based study shows that substantial geographic variation in U.S. nonmalignant meningioma incidence is primarily driven by differences in demographics, socioeconomic factors, and cancer registry practices rather than environmental or general health factors.
   authors: Withrow DR, Boyle J, Linet MS, Pittman Ballard CA, Cioffi G, Kruchko C, Miller DL, Petkov VI, Price M, Waite K, Ostrom QT+, Barnholtz-Sloan JS+
   link:
     url: http://doi.org/10.1002/cncr.70042
@@ -48,6 +51,7 @@
   highlight: 0
 
 - title: "Epidemiology and Survival of Adolescents and Young Adults with Brain Metastases Versus Older Adults"
+  description: Compares  adolescent and young adult patients with brain metastases to older adults, showing distinct epidemiologic patterns and generally poorer survival outcomes despite broader improvements in cancer survival
   authors: Kann MR, Srinivasan E, Benedetti JR, Ostrom QT, Iorgulescu JB
   link:
     url: http://doi.org/10.1007/s11060-025-05332-2
@@ -458,7 +462,7 @@
   highlight: 0
 
 - title: "An Updated Histology Recode for the Analysis of Primary Malignant and Nonmalignant Brain and Other Central Nervous System Tumors in the Surveillance, Epidemiology, and End Results Program"
-  description: This manuscript describes the development of an updated classification scheme for brain and other CNS tumors for inclusion in the SEERexplorer system and other SEER data products.
+  description: This manuscript describes the development of an updated classification scheme for brain and other CNS tumors for inclusion in the SEER*explorer system and other SEER data products.
   authors: Forjaz G, Barnholtz-Sloan JS, Kruchko C, Siegel R, Negoita S, Ostrom QT, Dickie L, Ruhl J, Van Dyke A, Patil N, Cioffi G, Miller KD, Waite K, Mariotto AB
   link:
     url: http://doi.org/101093/noajnl/vdaa175

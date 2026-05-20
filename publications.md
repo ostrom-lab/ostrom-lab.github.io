@@ -54,11 +54,15 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Selected publications
+## Ostrom lab publications and collaborations
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{{ publi.title }} <br />
+<em>{{ publi.authors }} </em><br />
+<a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br>
+{% if publi.description %}
+{{ publi.description }} 
+{% endif %}
 
 {% endfor %}
