@@ -160,5 +160,5 @@ Jump to [staff](#staff), [students](#master-and-bachelor-students), [alumni](#al
 </div>
 {% endif %}
 
-**We are always looking for new students and collaborators to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are always looking for new students and collaborators to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
