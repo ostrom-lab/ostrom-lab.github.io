@@ -26,8 +26,9 @@ Please apply via [Duke Careers](https://careers.duke.edu/job/Durham-RESEARCH-ANA
 
 **Clinical Research Coordinator (Coming soon!)**
 
-The Preston Robert Tisch Brain Tumor Center is seeking someone to leads day to day operations of multiple study teams conducting clinical research.
+The Preston Robert Tisch Brain Tumor Center is seeking someone to lead day to day operations of multiple study teams conducting clinical research. 
 
+Please apply via [Duke Careers](https://careers.duke.edu/job/Durham-Clinical-Research-Coordinator-Duke-Cancer-Institute-NC-27710/1394039300/)
 
 ## Students and trainees
 
